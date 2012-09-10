@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/columba/!svn/ver/305/columba/trunk/mail/src/main/java/org/columba/mail/gui/util
+END
+PGPPassphraseDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/util/PGPPassphraseDialog.java
+END
+WelcomeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/util/WelcomeMessage.java
+END
+PasswordDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/230/columba/trunk/mail/src/main/java/org/columba/mail/gui/util/PasswordDialog.java
+END
+AddressListRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/305/columba/trunk/mail/src/main/java/org/columba/mail/gui/util/AddressListRenderer.java
+END
+SendMessageDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/util/SendMessageDialog.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/util/package.html
+END

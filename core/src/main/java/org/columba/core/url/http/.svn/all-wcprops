@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/url/http
+END
+HttpURLConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/url/http/HttpURLConnection.java
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/url/http/Handler.java
+END

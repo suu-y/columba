@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/columba/!svn/ver/307/columba/trunk/mail/src/main/java/org/columba/mail/folder/command
+END
+PrintMessageCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/PrintMessageCommand.java
+END
+MoveFolderCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/35/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/MoveFolderCommand.java
+END
+RenameFolderCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/35/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/RenameFolderCommand.java
+END
+SaveMessageBodyAsCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/213/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/SaveMessageBodyAsCommand.java
+END
+MarkFolderAsReadCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/MarkFolderAsReadCommand.java
+END
+ExpungeFolderCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/ExpungeFolderCommand.java
+END
+SaveMessageSourceAsCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/213/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/SaveMessageSourceAsCommand.java
+END
+MoveMessageCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/35/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/MoveMessageCommand.java
+END
+CreateFilterOnMessageCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/CreateFilterOnMessageCommand.java
+END
+ExportFolderCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/199/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/ExportFolderCommand.java
+END
+AddSenderToAddressbookCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/columba/!svn/ver/307/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/AddSenderToAddressbookCommand.java
+END
+ImportMessageCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/ImportMessageCommand.java
+END
+CopyMessageCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/199/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/CopyMessageCommand.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/package.html
+END
+TagMessageCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/89/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/TagMessageCommand.java
+END
+SaveFolderConfigurationCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/SaveFolderConfigurationCommand.java
+END
+ColorMessageCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/ColorMessageCommand.java
+END
+CreateVFolderOnMessageCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/CreateVFolderOnMessageCommand.java
+END
+SyncSearchEngineCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/SyncSearchEngineCommand.java
+END
+AddAllSendersToAddressbookCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/columba/!svn/ver/181/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/AddAllSendersToAddressbookCommand.java
+END
+RemoveFolderCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/RemoveFolderCommand.java
+END
+ApplyFilterCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/ApplyFilterCommand.java
+END
+ToggleMarkCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/ToggleMarkCommand.java
+END
+AddMessageCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/AddMessageCommand.java
+END
+MarkMessageCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/command/MarkMessageCommand.java
+END

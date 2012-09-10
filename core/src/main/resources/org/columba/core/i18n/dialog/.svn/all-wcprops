@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/157/columba/trunk/core/src/main/resources/org/columba/core/i18n/dialog
+END
+font.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/i18n/dialog/font.properties
+END
+error.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/i18n/dialog/error.properties
+END
+pluginmanager.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/i18n/dialog/pluginmanager.properties
+END
+about.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/i18n/dialog/about.properties
+END
+mimetypeviewer.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/i18n/dialog/mimetypeviewer.properties
+END
+findreplace.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/29/columba/trunk/core/src/main/resources/org/columba/core/i18n/dialog/findreplace.properties
+END
+general.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/i18n/dialog/general.properties
+END
+exception.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/i18n/dialog/exception.properties
+END
+find.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/29/columba/trunk/core/src/main/resources/org/columba/core/i18n/dialog/find.properties
+END
+tagging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/157/columba/trunk/core/src/main/resources/org/columba/core/i18n/dialog/tagging.properties
+END
+proxy.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/i18n/dialog/proxy.properties
+END
+externaltools.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/i18n/dialog/externaltools.properties
+END
+profiles.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/i18n/dialog/profiles.properties
+END
+session.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/i18n/dialog/session.properties
+END

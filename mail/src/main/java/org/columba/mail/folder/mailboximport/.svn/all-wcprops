@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/199/columba/trunk/mail/src/main/java/org/columba/mail/folder/mailboximport
+END
+AbstractMailboxImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/columba/!svn/ver/199/columba/trunk/mail/src/main/java/org/columba/mail/folder/mailboximport/AbstractMailboxImporter.java
+END
+EvolutionImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/mailboximport/EvolutionImporter.java
+END
+MHImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/mailboximport/MHImporter.java
+END
+MBOXImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/mailboximport/MBOXImporter.java
+END
+MozillaImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/mailboximport/MozillaImporter.java
+END
+PegasusMailImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/mailboximport/PegasusMailImporter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/mailboximport/package.html
+END

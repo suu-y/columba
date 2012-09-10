@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/columba/!svn/ver/71/columba/trunk/core/src/main/java/org/columba/core/search
+END
+DistinctResultHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/search/DistinctResultHelper.java
+END
+ResultEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/57/columba/trunk/core/src/main/java/org/columba/core/search/ResultEvent.java
+END
+SearchManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/columba/!svn/ver/57/columba/trunk/core/src/main/java/org/columba/core/search/SearchManager.java
+END
+SearchCommandReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/57/columba/trunk/core/src/main/java/org/columba/core/search/SearchCommandReference.java
+END
+SearchHistoryList.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/search/SearchHistoryList.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/search/SearchResult.java
+END
+ResultListenerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/34/columba/trunk/core/src/main/java/org/columba/core/search/ResultListenerAdapter.java
+END
+SearchCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/71/columba/trunk/core/src/main/java/org/columba/core/search/SearchCriteria.java
+END
+SearchRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/columba/!svn/ver/57/columba/trunk/core/src/main/java/org/columba/core/search/SearchRequest.java
+END

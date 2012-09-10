@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/util
+END
+AuthenticationSecurityComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/util/AuthenticationSecurityComparator.java
+END
+MailResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/util/MailResourceLoader.java
+END
+AuthenticationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/util/AuthenticationManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/util/package.html
+END

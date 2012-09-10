@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/296/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter
+END
+ConfigFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/ConfigFrame.java
+END
+FilterDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/FilterDialog.java
+END
+FilterTransferHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/FilterTransferHandler.java
+END
+ActionList.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/ActionList.java
+END
+CriteriaListDataModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/CriteriaListDataModel.java
+END
+FilterListTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/FilterListTable.java
+END
+ObjectArrayTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/ObjectArrayTransfer.java
+END
+FilterListDataModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/FilterListDataModel.java
+END
+CriteriaList.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/CriteriaList.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/package.html
+END

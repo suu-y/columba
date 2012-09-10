@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/template
+END
+HeaderCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/template/HeaderCellRenderer.java
+END
+ChooseTemplateDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/template/ChooseTemplateDialog.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/template/package.html
+END

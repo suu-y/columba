@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/filemonitor
+END
+ObserverThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/filemonitor/ObserverThread.java
+END
+FileMonitorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/filemonitor/FileMonitorException.java
+END
+FileObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/filemonitor/FileObserver.java
+END
+FileMonitorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/filemonitor/FileMonitorService.java
+END

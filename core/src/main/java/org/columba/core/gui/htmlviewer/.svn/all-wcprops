@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/columba/!svn/ver/256/columba/trunk/core/src/main/java/org/columba/core/gui/htmlviewer
+END
+JDICHTMLViewerPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/htmlviewer/JDICHTMLViewerPlugin.java
+END
+JavaHTMLViewerPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/256/columba/trunk/core/src/main/java/org/columba/core/gui/htmlviewer/JavaHTMLViewerPlugin.java
+END
+HTMLViewerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/199/columba/trunk/core/src/main/java/org/columba/core/gui/htmlviewer/HTMLViewerFactory.java
+END

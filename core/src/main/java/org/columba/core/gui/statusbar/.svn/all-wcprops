@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/columba/!svn/ver/316/columba/trunk/core/src/main/java/org/columba/core/gui/statusbar
+END
+StatusBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/316/columba/trunk/core/src/main/java/org/columba/core/gui/statusbar/StatusBar.java
+END
+WorkerItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/statusbar/WorkerItem.java
+END
+TaskRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/statusbar/TaskRenderer.java
+END
+TaskManagerDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/statusbar/TaskManagerDialog.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/statusbar/package.html
+END

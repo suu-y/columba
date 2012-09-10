@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/columba/!svn/ver/425/columba/trunk/calendar/src/main/java/org/columba/calendar/model
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/columba/!svn/ver/425/columba/trunk/calendar/src/main/java/org/columba/calendar/model/Event.java
+END
+TodoInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar/src/main/java/org/columba/calendar/model/TodoInfo.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/model/Component.java
+END
+Todo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/model/Todo.java
+END
+CategoryList.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar/src/main/java/org/columba/calendar/model/CategoryList.java
+END
+WeekDay.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar/src/main/java/org/columba/calendar/model/WeekDay.java
+END
+ComponentInfoList.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/model/ComponentInfoList.java
+END
+DateRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/128/columba/trunk/calendar/src/main/java/org/columba/calendar/model/DateRange.java
+END
+EventInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar/src/main/java/org/columba/calendar/model/EventInfo.java
+END
+Recurrence.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar/src/main/java/org/columba/calendar/model/Recurrence.java
+END
+ComponentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar/src/main/java/org/columba/calendar/model/ComponentInfo.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/model/package.html
+END

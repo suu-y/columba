@@ -1,0 +1,52 @@
+10
+
+dir
+460
+https://columba.svn.sourceforge.net/svnroot/columba/columba/trunk/mail-api/src/main/java/org/columba/mail
+https://columba.svn.sourceforge.net/svnroot/columba
+
+
+
+2009-11-11T05:53:27.390361Z
+418
+eschman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+410de10b-2318-0410-a529-9c54226a8375
+
+gui
+dir
+
+message
+dir
+
+config
+dir
+
+folderoptions
+dir
+
+folder
+dir
+
+command
+dir
+
+mailchecking
+dir
+
+plugin
+dir
+

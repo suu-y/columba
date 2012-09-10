@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/columba/!svn/ver/433/columba/trunk/core/src/main/java/org/columba/core/main
+END
+ColumbaClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/66/columba/trunk/core/src/main/java/org/columba/core/main/ColumbaClient.java
+END
+MainClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/main/MainClassLoader.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/columba/!svn/ver/194/columba/trunk/core/src/main/java/org/columba/core/main/Main.java
+END
+MainInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/34/columba/trunk/core/src/main/java/org/columba/core/main/MainInterface.java
+END
+SessionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/main/SessionController.java
+END
+ColumbaServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/315/columba/trunk/core/src/main/java/org/columba/core/main/ColumbaServer.java
+END
+ColumbaCmdLineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/202/columba/trunk/core/src/main/java/org/columba/core/main/ColumbaCmdLineParser.java
+END
+Bootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/433/columba/trunk/core/src/main/java/org/columba/core/main/Bootstrap.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/main/package.html
+END

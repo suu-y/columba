@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/columba/!svn/ver/143/columba/trunk/dist/webstart
+END
+jniwrapper.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/columba/!svn/ver/22/columba/trunk/dist/webstart/jniwrapper.jnlp
+END
+columba.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/columba/!svn/ver/143/columba/trunk/dist/webstart/columba.jnlp
+END
+javahelp.jnlp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/columba/!svn/ver/22/columba/trunk/dist/webstart/javahelp.jnlp
+END

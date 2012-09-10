@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/facade
+END
+ContactFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/facade/ContactFacade.java
+END
+FolderFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/facade/FolderFacade.java
+END
+DialogFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/facade/DialogFacade.java
+END
+ModelFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/facade/ModelFacade.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/facade/package.html
+END

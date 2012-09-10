@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/columba/!svn/ver/442/columba/trunk/mail/src/main/java/org/columba/mail/folder/search
+END
+DefaultSearchEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/442/columba/trunk/mail/src/main/java/org/columba/mail/folder/search/DefaultSearchEngine.java
+END
+IMAPQueryEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/folder/search/IMAPQueryEngine.java
+END
+DummyQueryEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/folder/search/DummyQueryEngine.java
+END
+LuceneQueryEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/folder/search/LuceneQueryEngine.java
+END
+QueryEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/folder/search/QueryEngine.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/search/package.html
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/319/columba/trunk/calendar/src/main/resources/org/columba/calendar/action
+END
+contextmenu_calendar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/319/columba/trunk/calendar/src/main/resources/org/columba/calendar/action/contextmenu_calendar.xml
+END
+toolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/resources/org/columba/calendar/action/toolbar.xml
+END
+contextmenu_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/resources/org/columba/calendar/action/contextmenu_list.xml
+END
+menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/267/columba/trunk/calendar/src/main/resources/org/columba/calendar/action/menu.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/selection
+END
+TableSelectionChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/selection/TableSelectionChangedEvent.java
+END
+TableSelectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/selection/TableSelectionHandler.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/selection/package.html
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/217/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/command
+END
+ViewMessageSourceCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/command/ViewMessageSourceCommand.java
+END
+SaveAttachmentCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/command/SaveAttachmentCommand.java
+END
+OpenAttachmentCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/199/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/command/OpenAttachmentCommand.java
+END
+SaveAttachmentTemporaryCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/command/SaveAttachmentTemporaryCommand.java
+END
+SaveAttachmentAsCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/columba/!svn/ver/199/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/command/SaveAttachmentAsCommand.java
+END
+ViewMessageCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/217/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/command/ViewMessageCommand.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/command/package.html
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/filter
+END
+PGPMessageFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/filter/PGPMessageFilter.java
+END
+SecurityStatusListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/filter/SecurityStatusListener.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/filter/Filter.java
+END
+AbstractFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/filter/AbstractFilter.java
+END
+SecurityStatusEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/filter/SecurityStatusEvent.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/filter/package.html
+END

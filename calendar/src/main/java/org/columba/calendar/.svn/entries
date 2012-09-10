@@ -1,0 +1,132 @@
+10
+
+dir
+460
+https://columba.svn.sourceforge.net/svnroot/columba/columba/trunk/calendar/src/main/java/org/columba/calendar
+https://columba.svn.sourceforge.net/svnroot/columba
+
+
+
+2011-09-26T22:44:56.097811Z
+459
+eschman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+410de10b-2318-0410-a529-9c54226a8375
+
+model
+dir
+
+facade
+dir
+
+context
+dir
+
+config
+dir
+
+search
+dir
+
+base
+dir
+
+parser
+dir
+
+store
+dir
+
+CalendarComponent.java
+file
+
+
+
+
+2012-09-10T12:05:09.700787Z
+6b3ba4a6b53704ce5e7a38c0461e315f
+2009-11-16T21:32:06.688049Z
+434
+eschman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2873
+
+ui
+dir
+
+command
+dir
+
+item
+dir
+
+resourceloader
+dir
+
+package.html
+file
+
+
+
+
+2012-09-10T12:05:09.702787Z
+62041303d124ed5d2413b1d90459f570
+2006-07-09T14:07:44.664318Z
+22
+fdietz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+928
+

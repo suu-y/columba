@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/216/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog
+END
+filter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/filter.properties
+END
+mailboximport.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/mailboximport.properties
+END
+folderoptions.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/216/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/folderoptions.properties
+END
+composer.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/composer.properties
+END
+error.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/error.properties
+END
+account.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/account.properties
+END
+password.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/password.properties
+END
+selectaddressdialog.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/selectaddressdialog.properties
+END
+folder.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/folder.properties
+END
+general.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/general.properties
+END
+accountwizard.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/accountwizard.properties
+END
+color.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/color.properties
+END
+columns.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/columns.properties
+END
+tagging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/140/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/tagging.properties
+END
+export.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/export.properties
+END
+subscribe.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/subscribe.properties
+END
+saveas.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/saveas.properties
+END
+defaultclient.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/i18n/dialog/defaultclient.properties
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/columba/!svn/ver/230/columba/trunk/core/src/main/java/org/columba/core/tagging
+END
+TagManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/230/columba/trunk/core/src/main/java/org/columba/core/tagging/TagManager.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/130/columba/trunk/core/src/main/java/org/columba/core/tagging/Tag.java
+END
+TagEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/126/columba/trunk/core/src/main/java/org/columba/core/tagging/TagEvent.java
+END

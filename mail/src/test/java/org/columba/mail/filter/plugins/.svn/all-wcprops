@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/filter/plugins
+END
+SizeFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/filter/plugins/SizeFilterTest.java
+END
+AccountFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/filter/plugins/AccountFilterTest.java
+END
+FlagsFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/filter/plugins/FlagsFilterTest.java
+END
+HeaderfieldFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/filter/plugins/HeaderfieldFilterTest.java
+END
+BodyFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/filter/plugins/BodyFilterTest.java
+END
+DateFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/filter/plugins/DateFilterTest.java
+END
+AbstractFilterTst.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/filter/plugins/AbstractFilterTst.java
+END
+ColorFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/filter/plugins/ColorFilterTest.java
+END
+PriorityFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/filter/plugins/PriorityFilterTest.java
+END

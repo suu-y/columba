@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.columba</groupId>
+  <artifactId>app</artifactId>
+  <packaging>pom</packaging>
+  <version>1.4</version>
+  <name>Columba application</name>
+  <url>http://www.columbamail.org</url>
+  <description>
+    Columba is an Email Client written in Java, featuring a user-friendly graphical interface with wizards and
+    internationalization support. Its a powerful email management tool with features to enhance your productivity and
+    communication. So, take control of your email before it takes control of you!
+  </description>
+  <mailingLists>
+    <mailingList>
+      <name>columba developer mailinglist</name>
+      <archive>https://sourceforge.net/mailarchive/forum.php?forum_id=2388</archive>
+      <subscribe>https://lists.sourceforge.net/mailman/listinfo/columba-devel</subscribe>
+      <unsubscribe>https://lists.sourceforge.net/mailman/listinfo/columba-devel</unsubscribe>
+    </mailingList>
+  </mailingLists>
+
+  <scm>
+    <connection>scm:svn:http://columba.svn.sourceforge.net/svnroot/columba</connection>
+    <developerConnection>scm:svn:https://columba.svn.sourceforge.net/svnroot/columba</developerConnection>
+    <url>http://svn.sourceforge.net/viewvc/columba/</url>
+  </scm>
+  <developers>
+    <developer>
+      <name>Frederik Dietz</name>
+      <id>fdietz</id>
+      <email>columba@frederikdietz.de</email>
+      <roles>
+        <role>Project Leader</role>
+        <role>Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Timo Stich</name>
+      <id>tstich</id>
+      <email>tstisch@users.sourceforge.net</email>
+      <roles>
+        <role>Project Leader</role>
+        <role>Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Eisvogel Flieg</name>
+      <id>eisvogel</id>
+      <email>eisvogel@users.sourceforge.net</email>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Jari Vuoksenranta</name>
+      <id>j4riv</id>
+      <email>j4riv@users.sourceforge.net</email>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Michael Rudolf</name>
+      <id>javaprog</id>
+      <email>javaprog@users.sourceforge.net</email>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Karl Peder Olesen</name>
+      <id>karlpeder</id>
+      <email>karlpeder@users.sourceforge.net</email>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Mark Livingstone</name>
+      <id>mlivingstone</id>
+      <email>mlivingstone@users.sourceforge.net</email>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>John Murga</name>
+      <id>murgaj</id>
+      <email>murgaj@users.sourceforge.net</email>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Paul E. Baclace</name>
+      <id>pbaclace</id>
+      <email>pbaclace@users.sourceforge.net</email>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Erik Mattsson</name>
+      <id>redsolo</id>
+      <email>redsolo@users.sourceforge.net</email>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Riyad Kalla</name>
+      <id>rsk</id>
+      <email>rsk@users.sourceforge.net</email>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Anthony Parent</name>
+      <id>tonyparent</id>
+      <email>tonyparent@users.sourceforge.net</email>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Nicolas B?theuil</name>
+      <id>wadouk</id>
+      <email>wadouk@users.sourceforge.net</email>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Thomas Wabner</name>
+      <id>waffel</id>
+      <email>waffel@users.sourceforge.net</email>
+      <roles>
+        <role>Developer</role>
+        <role>Build master</role>
+      </roles>
+    </developer>
+  </developers>
+
+  <repositories>
+    <repository>
+      <id>columba</id>
+      <name>Colunba main repository</name>
+      <url>https://www.hora-obscura.de/dav_columba</url>
+    </repository>
+  </repositories>
+
+  <build>
+    <extensions>
+      <extension>
+        <groupId>org.apache.maven.wagon</groupId>
+        <artifactId>wagon-webdav</artifactId>
+        <version>1.0-beta-1</version>
+      </extension>
+    </extensions>
+  </build>
+
+  <modules>
+    <module>core-api</module>
+    <module>mail-api</module>
+    <module>mail-facade</module>
+    <module>contact-facade</module>
+    <module>contact-api</module>
+    <module>calendar-facade</module>
+    <module>calendar-api</module>
+    <module>core</module>
+    <module>mail</module>
+    <module>contact</module>
+    <module>calendar</module>
+    <module>plugins</module>
+    <module>columba</module>
+  </modules>
+
+  <distributionManagement>
+    <repository>
+      <id>columba</id>
+      <name>Columba main repository</name>
+      <url>dav:https://www.hora-obscura.de/dav_columba</url>
+    </repository>
+  </distributionManagement>
+</project>

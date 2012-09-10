@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+
+<project name="columba" basedir="." default="install4j">
+    <description>
+        This is the Columba release file. It depends on an installed version of
+        install4j (http://www.ej-technologies.com/products/install4j/overview.html)
+        in path /opt/install4j.
+        
+        It makes use of the existing build.xml file for creating a columba.jar archive.
+        Note that the version information passed as commandline argument is applied
+        to the sourcecode and also to the names of the release packages.
+        
+        Quickstart:
+         ant -f build_install4j.xml install4j
+         
+         This will generate release packages and uses the current time as filenames.
+         
+        Example:
+         ant -Dversion=1.4 -f build_install4j.xml install4j
+
+		 This will use the given version number as filename. 
+		 
+        Have fun ... your Columba Team!
+    </description>
+    
+    
+<!-- 
+ <taskdef name="install4j"
+         classname="com.install4j.Install4JTask"
+         classpath="/home/frd/apps/install4j/bin/ant.jar"
+ />
+ -->
+ 
+
+ <taskdef name="install4j"
+         classname="com.install4j.Install4JTask"
+         classpath="/opt/install4j/bin/ant.jar"
+ />
+
+         
+ <tstamp/>
+ <property name="version" value="${DSTAMP}"/>
+        
+ <target name="columba.jar">
+   <ant antfile="build.xml" target="jar"/>
+ </target>
+ 
+ <target name="install4j" depends="columba.jar">
+   <install4j projectfile="columba_release.install4j" release="${version}">
+   </install4j>
+ </target>
+ 
+</project>

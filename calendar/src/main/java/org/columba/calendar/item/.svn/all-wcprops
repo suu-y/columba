@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/columba/!svn/ver/427/columba/trunk/calendar/src/main/java/org/columba/calendar/item
+END
+BirthdayCalendarItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/426/columba/trunk/calendar/src/main/java/org/columba/calendar/item/BirthdayCalendarItem.java
+END
+WebICalCalendarItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/427/columba/trunk/calendar/src/main/java/org/columba/calendar/item/WebICalCalendarItem.java
+END
+LocalCalendarItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/425/columba/trunk/calendar/src/main/java/org/columba/calendar/item/LocalCalendarItem.java
+END

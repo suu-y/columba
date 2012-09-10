@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <parent>
+    <artifactId>plugins</artifactId>
+    <groupId>org.columba</groupId>
+    <version>1.4</version>
+  </parent>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.columba.plugins</groupId>
+  <artifactId>org.columba.mail.ZippedMHFolder</artifactId>
+  <name>ZippedMHFolder plugin</name>
+  <version>1.0</version>
+  <description></description>
+
+  <build>
+    <plugins>
+      <plugin>
+        <artifactId>maven-assembly-plugin</artifactId>
+      </plugin>
+    </plugins>
+  </build>
+</project>

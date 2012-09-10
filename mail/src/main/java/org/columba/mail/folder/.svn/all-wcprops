@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/columba/!svn/ver/456/columba/trunk/mail/src/main/java/org/columba/mail/folder
+END
+AbstractFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/451/columba/trunk/mail/src/main/java/org/columba/mail/folder/AbstractFolder.java
+END
+FolderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/241/columba/trunk/mail/src/main/java/org/columba/mail/folder/FolderFactory.java
+END
+AbstractMessageFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/324/columba/trunk/mail/src/main/java/org/columba/mail/folder/AbstractMessageFolder.java
+END
+IDataStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/35/columba/trunk/mail/src/main/java/org/columba/mail/folder/IDataStorage.java
+END
+AbstractLocalFolder.java.tmp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/36/columba/trunk/mail/src/main/java/org/columba/mail/folder/AbstractLocalFolder.java.tmp
+END
+ColumbaMailboxInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/ColumbaMailboxInfo.java
+END
+AbstractLocalFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/158/columba/trunk/mail/src/main/java/org/columba/mail/folder/AbstractLocalFolder.java
+END
+AbstractRemoteFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/AbstractRemoteFolder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/package.html
+END
+RootFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/RootFolder.java
+END
+FolderCreationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/FolderCreationException.java
+END
+Root.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/Root.java
+END
+LocalRootFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/35/columba/trunk/mail/src/main/java/org/columba/mail/folder/LocalRootFolder.java
+END
+FolderInconsistentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/FolderInconsistentException.java
+END
+FolderChildrenIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/FolderChildrenIterator.java
+END

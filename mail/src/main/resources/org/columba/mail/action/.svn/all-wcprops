@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/267/columba/trunk/mail/src/main/resources/org/columba/mail/action
+END
+table_contextmenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/267/columba/trunk/mail/src/main/resources/org/columba/mail/action/table_contextmenu.xml
+END
+attachment_contextmenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/action/attachment_contextmenu.xml
+END
+messageframe_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/action/messageframe_menu.xml
+END
+menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/267/columba/trunk/mail/src/main/resources/org/columba/mail/action/menu.xml
+END
+tree_dockmenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/action/tree_dockmenu.xml
+END
+tree_contextmenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/action/tree_contextmenu.xml
+END
+message_dockmenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/action/message_dockmenu.xml
+END
+composer_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/60/columba/trunk/mail/src/main/resources/org/columba/mail/action/composer_menu.xml
+END
+table_dockmenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/action/table_dockmenu.xml
+END
+message_contextmenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/action/message_contextmenu.xml
+END

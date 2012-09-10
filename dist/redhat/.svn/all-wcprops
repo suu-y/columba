@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/columba/!svn/ver/22/columba/trunk/dist/redhat
+END
+columba.spec
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/columba/!svn/ver/22/columba/trunk/dist/redhat/columba.spec
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/columba/!svn/ver/22/columba/trunk/dist/redhat/run.sh
+END

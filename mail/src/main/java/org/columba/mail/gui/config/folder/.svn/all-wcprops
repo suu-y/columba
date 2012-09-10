@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/450/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/folder
+END
+OptionsRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/folder/OptionsRenderer.java
+END
+FolderOptionsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/450/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/folder/FolderOptionsDialog.java
+END
+CheckableTooltipList.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/folder/CheckableTooltipList.java
+END
+OptionsItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/folder/OptionsItem.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/folder/package.html
+END

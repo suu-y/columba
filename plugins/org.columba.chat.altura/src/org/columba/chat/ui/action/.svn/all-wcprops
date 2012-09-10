@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/199/columba/trunk/plugins/org.columba.chat.altura/src/org/columba/chat/ui/action
+END
+AbstractConnectionAwareAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/src/org/columba/chat/ui/action/AbstractConnectionAwareAction.java
+END
+AddContactAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/columba/!svn/ver/199/columba/trunk/plugins/org.columba.chat.altura/src/org/columba/chat/ui/action/AddContactAction.java
+END
+ConnectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/src/org/columba/chat/ui/action/ConnectAction.java
+END
+DisconnectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/src/org/columba/chat/ui/action/DisconnectAction.java
+END
+RemoveContactAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/columba/!svn/ver/199/columba/trunk/plugins/org.columba.chat.altura/src/org/columba/chat/ui/action/RemoveContactAction.java
+END
+JoinChatGroupAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/src/org/columba/chat/ui/action/JoinChatGroupAction.java
+END
+OpenConversationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/columba/!svn/ver/199/columba/trunk/plugins/org.columba.chat.altura/src/org/columba/chat/ui/action/OpenConversationAction.java
+END

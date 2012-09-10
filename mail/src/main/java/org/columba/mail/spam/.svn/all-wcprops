@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/columba/!svn/ver/230/columba/trunk/mail/src/main/java/org/columba/mail/spam
+END
+SaveSpamDBPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/SaveSpamDBPlugin.java
+END
+SpamController.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/SpamController.java
+END
+MacchiatoPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/230/columba/trunk/mail/src/main/java/org/columba/mail/spam/MacchiatoPlugin.java
+END
+ISpamPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/ISpamPlugin.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/package.html
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/spamassassin
+END
+ExternalToolsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/spamassassin/ExternalToolsHelper.java
+END
+SpamcExternalToolPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/spamassassin/SpamcExternalToolPlugin.java
+END
+SpamAssassinPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/spamassassin/SpamAssassinPlugin.java
+END
+SALearnExternalToolPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/spamassassin/SALearnExternalToolPlugin.java
+END
+SpamAssassinExternalToolPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/spamassassin/SpamAssassinExternalToolPlugin.java
+END
+IPCHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/spamassassin/IPCHelper.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/columba/!svn/ver/60/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/util
+END
+ColumbaURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/util/ColumbaURL.java
+END
+DocumentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/util/DocumentParser.java
+END
+MessageViewerText.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/60/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/util/MessageViewerText.java
+END
+AttachmentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/util/AttachmentContext.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/util/package.html
+END

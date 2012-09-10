@@ -1,0 +1,21 @@
+provider_title=Mail
+provider_description=Mail
+provider_related_title=Related Messages
+provider_related_description=Related Messages
+body_contains_title=<html><body>Body contains <b>{0}</b></body>/<html>
+body_contains_name=Body contains
+body_contains_description=<html><body>All messages containing term <b>{0}</b> in Body.</body>/<html>
+subject_contains_title=<html><body>Subject contains <b>{0}</b></body>/<html>
+subject_contains_name=Subject contains
+subject_contains_description=<html><body>All messages containing term <b>{0}</b> in Subject.</body>/<html>
+from_contains_title=<html><body>From contains <b>{0}</b></body>/<html>
+from_contains_name=From contains
+from_contains_description=<html><body>All messages containing term <b>{0}</b> in From headerfield.</body>/<html>
+size_greater_than_title=<html><body>Size is greater than <b>{0} KB</b></body>/<html>
+size_greater_than_name=Size greater than
+size_greater_than_description=<html><body>All messages of size greater than <b>{0} KB</b>.</body>/<html>
+size_smaller_than_title=<html><body>Size is smaller than <b>{0} KB</b></body>/<html>
+size_smaller_than_name=Size smaller than
+size_smaller_than_description=<html><body>All messages of size smaller than <b>{0} KB</b>.</body>/<html>
+
+

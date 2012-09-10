@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/columba/!svn/ver/405/columba/trunk/core/src/main/java/org/columba/core/gui/util
+END
+InfoViewTextPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/util/InfoViewTextPane.java
+END
+FindDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/29/columba/trunk/core/src/main/java/org/columba/core/gui/util/FindDialog.java
+END
+ThrobberIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/util/ThrobberIcon.java
+END
+URLLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/util/URLLabel.java
+END
+FontProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/util/FontProperties.java
+END
+AddressLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/util/AddressLabel.java
+END
+URLController.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/util/URLController.java
+END
+DialogHeaderPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/util/DialogHeaderPanel.java
+END
+AboutDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/149/columba/trunk/core/src/main/java/org/columba/core/gui/util/AboutDialog.java
+END
+CTextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/util/CTextField.java
+END
+FindReplaceDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/29/columba/trunk/core/src/main/java/org/columba/core/gui/util/FindReplaceDialog.java
+END
+MenuThrobber.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/util/MenuThrobber.java
+END
+StartUpFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/405/columba/trunk/core/src/main/java/org/columba/core/gui/util/StartUpFrame.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/util/package.html
+END

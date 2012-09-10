@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/columba/!svn/ver/460/columba/trunk/plugins
+END
+build_example.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/build_example.properties
+END
+plugin_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/plugin_list.xml
+END
+plugin_example.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/plugin_example.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/columba/!svn/ver/415/columba/trunk/plugins/pom.xml
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/readme.txt
+END
+build_plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/build_plugin.xml
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/.cvsignore
+END

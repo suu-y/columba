@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/logging
+END
+Logging.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/logging/Logging.java
+END
+DebugFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/logging/DebugFormatter.java
+END
+OneLineFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/logging/OneLineFormatter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/logging/package.html
+END

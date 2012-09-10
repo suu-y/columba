@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/columba/!svn/ver/408/columba/trunk/core/src/main/java/org/columba/core/io
+END
+StreamCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/io/StreamCache.java
+END
+PassiveCopyStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/io/PassiveCopyStream.java
+END
+DiskIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/io/DiskIO.java
+END
+SteerableInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/io/SteerableInputStream.java
+END
+DefaultMimeTypeTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/io/DefaultMimeTypeTable.java
+END
+StreamCacheCopyStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/io/StreamCacheCopyStream.java
+END
+CloneStreamMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/io/CloneStreamMaster.java
+END
+ZipFileIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/io/ZipFileIO.java
+END
+CloneInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/io/CloneInputStream.java
+END
+DirectoryIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/io/DirectoryIO.java
+END
+StreamUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/408/columba/trunk/core/src/main/java/org/columba/core/io/StreamUtils.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/io/package.html
+END

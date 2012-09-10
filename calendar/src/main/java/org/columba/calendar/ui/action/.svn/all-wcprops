@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/431/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action
+END
+EditActivityAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/431/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/EditActivityAction.java
+END
+MonthViewSelectableAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/MonthViewSelectableAction.java
+END
+ImportCalendarAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/425/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/ImportCalendarAction.java
+END
+GoNextAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/GoNextAction.java
+END
+NewAppointmentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/431/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/NewAppointmentAction.java
+END
+WeekViewSelectableAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/WeekViewSelectableAction.java
+END
+MoveActivityMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/425/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/MoveActivityMenu.java
+END
+ExportCalendarAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/425/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/ExportCalendarAction.java
+END
+WorkWeekViewSelectableAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/WorkWeekViewSelectableAction.java
+END
+CopyActivityMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/430/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/CopyActivityMenu.java
+END
+DeleteActivityAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/425/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/DeleteActivityAction.java
+END
+TodayAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/TodayAction.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/package.html
+END
+SaveAsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/425/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/SaveAsAction.java
+END
+GoBackAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/GoBackAction.java
+END
+ActivityMovedAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/425/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/ActivityMovedAction.java
+END
+DayViewSelectableAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/DayViewSelectableAction.java
+END
+NewAllDayAppointmentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/action/NewAllDayAppointmentAction.java
+END

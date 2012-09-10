@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/columba/!svn/ver/230/columba/trunk/core/src/main/java/org/columba/core/gui/plugin
+END
+EnabledEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/plugin/EnabledEditor.java
+END
+EnabledRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/plugin/EnabledRenderer.java
+END
+PluginNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/plugin/PluginNode.java
+END
+ConfigurationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/plugin/ConfigurationDialog.java
+END
+PluginTreeTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/220/columba/trunk/core/src/main/java/org/columba/core/gui/plugin/PluginTreeTableModel.java
+END
+AbstractConfigPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/plugin/AbstractConfigPlugin.java
+END
+PluginManagerDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/230/columba/trunk/core/src/main/java/org/columba/core/gui/plugin/PluginManagerDialog.java
+END
+DescriptionTreeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/plugin/DescriptionTreeRenderer.java
+END
+VersionRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/plugin/VersionRenderer.java
+END
+PluginTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/plugin/PluginTree.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/plugin/package.html
+END

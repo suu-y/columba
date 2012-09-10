@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/dialog/importfilter
+END
+PluginListCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/dialog/importfilter/PluginListCellRenderer.java
+END
+AddressbookImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/dialog/importfilter/AddressbookImporter.java
+END
+LocationStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/dialog/importfilter/LocationStep.java
+END
+PluginStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/dialog/importfilter/PluginStep.java
+END
+ImportWizardLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/dialog/importfilter/ImportWizardLauncher.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/dialog/importfilter/package.html
+END

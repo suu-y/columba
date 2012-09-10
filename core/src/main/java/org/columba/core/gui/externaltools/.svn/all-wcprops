@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/externaltools
+END
+ASpellPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/externaltools/ASpellPlugin.java
+END
+DescriptionStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/externaltools/DescriptionStep.java
+END
+ExternalToolsNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/externaltools/ExternalToolsNotFoundException.java
+END
+ExternalToolsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/externaltools/ExternalToolsDialog.java
+END
+LocationStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/externaltools/LocationStep.java
+END
+AbstractExternalToolsPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/externaltools/AbstractExternalToolsPlugin.java
+END
+ExternalToolsWizardLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/externaltools/ExternalToolsWizardLauncher.java
+END
+InfoStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/externaltools/InfoStep.java
+END
+ExternalToolsWizardModelListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/externaltools/ExternalToolsWizardModelListener.java
+END
+GPGPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/externaltools/GPGPlugin.java
+END
+ExternalToolsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/externaltools/ExternalToolsManager.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/externaltools/package.html
+END

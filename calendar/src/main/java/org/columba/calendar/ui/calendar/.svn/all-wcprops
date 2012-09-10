@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/425/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/calendar
+END
+AShapeCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/calendar/AShapeCreator.java
+END
+MainCalendarController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/425/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/calendar/MainCalendarController.java
+END
+DateAreaBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/calendar/DateAreaBeanFactory.java
+END
+ActivityShapeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/calendar/ActivityShapeFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/calendar/package.html
+END

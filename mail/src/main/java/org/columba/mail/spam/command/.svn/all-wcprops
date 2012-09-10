@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/command
+END
+LearnMessageAsHamCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/command/LearnMessageAsHamCommand.java
+END
+ScoreMessageCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/command/ScoreMessageCommand.java
+END
+LearnMessageAsSpamCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/command/LearnMessageAsSpamCommand.java
+END
+CommandHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/command/CommandHelper.java
+END

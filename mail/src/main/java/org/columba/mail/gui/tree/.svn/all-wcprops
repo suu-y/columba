@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/columba/!svn/ver/460/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree
+END
+FolderTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/FolderTransfer.java
+END
+FolderSelectionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/FolderSelectionEvent.java
+END
+TreeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/266/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/TreeController.java
+END
+TreeView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/TreeView.java
+END
+FolderTreeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/230/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/FolderTreeModel.java
+END
+TreeViewTransferHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/TreeViewTransferHandler.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/package.html
+END

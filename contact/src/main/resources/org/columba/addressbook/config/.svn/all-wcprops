@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/223/columba/trunk/contact/src/main/resources/org/columba/addressbook/config
+END
+main_toolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/223/columba/trunk/contact/src/main/resources/org/columba/addressbook/config/main_toolbar.xml
+END
+options.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/resources/org/columba/addressbook/config/options.dtd
+END
+tree.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/resources/org/columba/addressbook/config/tree.dtd
+END
+options.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/resources/org/columba/addressbook/config/options.xml
+END
+tree.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/resources/org/columba/addressbook/config/tree.xml
+END

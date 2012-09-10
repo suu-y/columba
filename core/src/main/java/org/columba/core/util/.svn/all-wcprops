@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/columba/!svn/ver/230/columba/trunk/core/src/main/java/org/columba/core/util
+END
+TempFileStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/230/columba/trunk/core/src/main/java/org/columba/core/util/TempFileStore.java
+END
+IEditableText.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/29/columba/trunk/core/src/main/java/org/columba/core/util/IEditableText.java
+END
+StackProfiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/230/columba/trunk/core/src/main/java/org/columba/core/util/StackProfiler.java
+END
+InternalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/util/InternalException.java
+END
+FindReplace.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/29/columba/trunk/core/src/main/java/org/columba/core/util/FindReplace.java
+END
+IViewableText.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/29/columba/trunk/core/src/main/java/org/columba/core/util/IViewableText.java
+END
+NameParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/util/NameParser.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/util/package.html
+END

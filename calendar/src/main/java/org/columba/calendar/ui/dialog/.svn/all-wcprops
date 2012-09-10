@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/459/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/dialog
+END
+EditEventDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/459/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/dialog/EditEventDialog.java
+END
+RecurrenceDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/431/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/dialog/RecurrenceDialog.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/dialog/package.html
+END

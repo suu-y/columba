@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/main/java/org/columba/core/config
+END
+DefaultConfigDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/230/columba/trunk/core/src/main/java/org/columba/core/config/DefaultConfigDirectory.java
+END
+OptionsXmlConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/55/columba/trunk/core/src/main/java/org/columba/core/config/OptionsXmlConfig.java
+END
+DefaultItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/main/java/org/columba/core/config/DefaultItem.java
+END
+GuiItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/55/columba/trunk/core/src/main/java/org/columba/core/config/GuiItem.java
+END
+SaveConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/55/columba/trunk/core/src/main/java/org/columba/core/config/SaveConfig.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/main/java/org/columba/core/config/Config.java
+END
+XmlConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/130/columba/trunk/core/src/main/java/org/columba/core/config/XmlConfig.java
+END
+ViewItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/55/columba/trunk/core/src/main/java/org/columba/core/config/ViewItem.java
+END
+DefaultXmlConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/130/columba/trunk/core/src/main/java/org/columba/core/config/DefaultXmlConfig.java
+END
+IConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/config/IConfig.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/config/package.html
+END

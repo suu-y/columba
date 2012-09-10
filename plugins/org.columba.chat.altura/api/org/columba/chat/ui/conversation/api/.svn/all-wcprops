@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/api/org/columba/chat/ui/conversation/api
+END
+IMessageViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/api/org/columba/chat/ui/conversation/api/IMessageViewer.java
+END
+IConversationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/api/org/columba/chat/ui/conversation/api/IConversationController.java
+END
+IChatMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/api/org/columba/chat/ui/conversation/api/IChatMediator.java
+END

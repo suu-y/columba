@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/columba/!svn/ver/23/columba/trunk/native/linux/amd64
+END
+libjdic.so
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/columba/!svn/ver/23/columba/trunk/native/linux/amd64/libjdic.so
+END
+jdic.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/columba/!svn/ver/23/columba/trunk/native/linux/amd64/jdic.jar
+END
+libtray.so
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/columba/!svn/ver/23/columba/trunk/native/linux/amd64/libtray.so
+END

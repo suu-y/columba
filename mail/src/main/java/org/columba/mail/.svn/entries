@@ -1,0 +1,103 @@
+10
+
+dir
+460
+https://columba.svn.sourceforge.net/svnroot/columba/columba/trunk/mail/src/main/java/org/columba/mail
+https://columba.svn.sourceforge.net/svnroot/columba
+
+
+
+2012-05-30T16:27:12.489942Z
+460
+eschman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+410de10b-2318-0410-a529-9c54226a8375
+
+nativ
+dir
+
+pop3
+dir
+
+smtp
+dir
+
+message
+dir
+
+main
+dir
+
+gui
+dir
+
+filter
+dir
+
+pgp
+dir
+
+imap
+dir
+
+folderoptions
+dir
+
+composer
+dir
+
+connector
+dir
+
+parser
+dir
+
+spam
+dir
+
+url
+dir
+
+facade
+dir
+
+config
+dir
+
+search
+dir
+
+folder
+dir
+
+shutdown
+dir
+
+spellcheck
+dir
+
+util
+dir
+
+mailchecking
+dir
+
+command
+dir
+
+resourceloader
+dir
+

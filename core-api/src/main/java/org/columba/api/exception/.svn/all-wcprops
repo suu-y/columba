@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/exception
+END
+ExtensionHandlerNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/exception/ExtensionHandlerNotFoundException.java
+END
+BaseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/exception/BaseException.java
+END
+StoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/exception/StoreException.java
+END
+ServiceNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/exception/ServiceNotFoundException.java
+END
+BaseRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/exception/BaseRuntimeException.java
+END
+IExceptionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/exception/IExceptionListener.java
+END
+AuthenticationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/exception/AuthenticationException.java
+END

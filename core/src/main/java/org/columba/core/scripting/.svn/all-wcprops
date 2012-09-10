@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/columba/!svn/ver/179/columba/trunk/core/src/main/java/org/columba/core/scripting
+END
+FileObserverThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/179/columba/trunk/core/src/main/java/org/columba/core/scripting/FileObserverThread.java
+END
+ScriptLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/scripting/ScriptLogger.java
+END
+IScriptsObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/scripting/IScriptsObserver.java
+END
+BeanshellService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/scripting/BeanshellService.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/src/org/columba/chat/ui/conversation
+END
+SendingMessageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/src/org/columba/chat/ui/conversation/SendingMessageController.java
+END
+ChatMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/src/org/columba/chat/ui/conversation/ChatMediator.java
+END
+ReceivingMessageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/src/org/columba/chat/ui/conversation/ReceivingMessageController.java
+END
+HTMLViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/src/org/columba/chat/ui/conversation/HTMLViewer.java
+END
+ConversationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/src/org/columba/chat/ui/conversation/ConversationController.java
+END

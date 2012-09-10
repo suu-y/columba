@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/columba/!svn/ver/435/columba/trunk/calendar/src/test/java/org/columba/calendar/store
+END
+LocalCalendarStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/435/columba/trunk/calendar/src/test/java/org/columba/calendar/store/LocalCalendarStoreTest.java
+END
+LocalXMLFileStoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/389/columba/trunk/calendar/src/test/java/org/columba/calendar/store/LocalXMLFileStoreTest.java
+END

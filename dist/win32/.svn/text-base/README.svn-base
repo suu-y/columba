@@ -1,0 +1,8 @@
+Inno Setup Installer Script
+===========================
+
+Install Inno Setup from:	http://www.jrsoftware.org/isinfo.php
+
+Call 'ant winsetup' and 'ant winsetup-bundlejre'
+
+to automatically create a ColumbaSetup.

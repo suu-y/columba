@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/columba/!svn/ver/23/columba/trunk/native/win32/lib
+END
+MozEmbed.exe
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/columba/!svn/ver/23/columba/trunk/native/win32/lib/MozEmbed.exe
+END
+jdic.dll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/columba/!svn/ver/23/columba/trunk/native/win32/lib/jdic.dll
+END
+jdic.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/columba/!svn/ver/23/columba/trunk/native/win32/lib/jdic.jar
+END
+jniwrap.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/columba/!svn/ver/23/columba/trunk/native/win32/lib/jniwrap.dll
+END
+jniwrap-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/columba/!svn/ver/23/columba/trunk/native/win32/lib/jniwrap-2.4.jar
+END
+winpack.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/columba/!svn/ver/23/columba/trunk/native/win32/lib/winpack.jar
+END
+tray.dll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/columba/!svn/ver/23/columba/trunk/native/win32/lib/tray.dll
+END
+IeEmbed.exe
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/columba/!svn/ver/23/columba/trunk/native/win32/lib/IeEmbed.exe
+END

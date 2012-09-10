@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/main/java/org/columba/mail/config
+END
+AccountTemplateXmlConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/config/AccountTemplateXmlConfig.java
+END
+AccountXmlConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/main/java/org/columba/mail/config/AccountXmlConfig.java
+END
+ImapItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/config/ImapItem.java
+END
+ComposerItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/config/ComposerItem.java
+END
+MailConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/config/MailConfig.java
+END
+OutgoingItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/config/OutgoingItem.java
+END
+OptionsItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/config/OptionsItem.java
+END
+ComposerOptionsXmlConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/config/ComposerOptionsXmlConfig.java
+END
+AccountItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/main/java/org/columba/mail/config/AccountItem.java
+END
+PopItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/config/PopItem.java
+END
+SpecialFoldersItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/config/SpecialFoldersItem.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/config/package.html
+END
+SpamItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/35/columba/trunk/mail/src/main/java/org/columba/mail/config/SpamItem.java
+END
+MainFrameOptionsXmlConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/config/MainFrameOptionsXmlConfig.java
+END
+IncomingItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/config/IncomingItem.java
+END
+FolderXmlConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/config/FolderXmlConfig.java
+END
+SecurityItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/config/SecurityItem.java
+END
+AccountList.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/main/java/org/columba/mail/config/AccountList.java
+END
+Identity.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/config/Identity.java
+END
+FolderItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/config/FolderItem.java
+END
+SpellcheckItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/config/SpellcheckItem.java
+END

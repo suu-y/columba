@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/columba/!svn/ver/23/columba/trunk/mail-api/src/main/java/org/columba/mail/gui/frame
+END
+MailFrameMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/23/columba/trunk/mail-api/src/main/java/org/columba/mail/gui/frame/MailFrameMediator.java
+END
+TreeViewOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail-api/src/main/java/org/columba/mail/gui/frame/TreeViewOwner.java
+END
+MessageViewOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/23/columba/trunk/mail-api/src/main/java/org/columba/mail/gui/frame/MessageViewOwner.java
+END
+TableViewOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/23/columba/trunk/mail-api/src/main/java/org/columba/mail/gui/frame/TableViewOwner.java
+END

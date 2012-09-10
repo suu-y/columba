@@ -1,0 +1,94 @@
+10
+
+dir
+460
+https://columba.svn.sourceforge.net/svnroot/columba/columba/trunk/core/src/main/java/org/columba/core/gui
+https://columba.svn.sourceforge.net/svnroot/columba
+
+
+
+2009-11-12T18:33:41.847178Z
+424
+eschman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+410de10b-2318-0410-a529-9c54226a8375
+
+tagging
+dir
+
+globalactions
+dir
+
+profiles
+dir
+
+context
+dir
+
+themes
+dir
+
+htmlviewer
+dir
+
+trayicon
+dir
+
+frame
+dir
+
+plugin
+dir
+
+exception
+dir
+
+dialog
+dir
+
+scripting
+dir
+
+toolbar
+dir
+
+externaltools
+dir
+
+menu
+dir
+
+search
+dir
+
+config
+dir
+
+statusbar
+dir
+
+base
+dir
+
+action
+dir
+
+util
+dir
+
+docking
+dir
+

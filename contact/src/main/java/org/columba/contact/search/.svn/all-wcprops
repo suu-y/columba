@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/columba/!svn/ver/171/columba/trunk/contact/src/main/java/org/columba/contact/search
+END
+ContactSearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/167/columba/trunk/contact/src/main/java/org/columba/contact/search/ContactSearchResult.java
+END
+SearchUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/contact/search/SearchUtility.java
+END
+SearchResultBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/contact/search/SearchResultBuilder.java
+END
+ContactSearchProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/171/columba/trunk/contact/src/main/java/org/columba/contact/search/ContactSearchProvider.java
+END

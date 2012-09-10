@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/main/java/org/columba/core/base
+END
+Mutex.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/base/Mutex.java
+END
+cFileChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/46/columba/trunk/core/src/main/java/org/columba/core/base/cFileChooser.java
+END
+PopupListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/46/columba/trunk/core/src/main/java/org/columba/core/base/PopupListener.java
+END
+IPCHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/46/columba/trunk/core/src/main/java/org/columba/core/base/IPCHelper.java
+END
+StopWatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/46/columba/trunk/core/src/main/java/org/columba/core/base/StopWatch.java
+END
+UUIDGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/46/columba/trunk/core/src/main/java/org/columba/core/base/UUIDGenerator.java
+END
+Blowfish.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/46/columba/trunk/core/src/main/java/org/columba/core/base/Blowfish.java
+END
+SwingWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/46/columba/trunk/core/src/main/java/org/columba/core/base/SwingWorker.java
+END
+TextUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/46/columba/trunk/core/src/main/java/org/columba/core/base/TextUtil.java
+END
+StreamThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/46/columba/trunk/core/src/main/java/org/columba/core/base/StreamThread.java
+END
+Semaphore.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/base/Semaphore.java
+END
+Interval.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/46/columba/trunk/core/src/main/java/org/columba/core/base/Interval.java
+END
+Barrier.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/46/columba/trunk/core/src/main/java/org/columba/core/base/Barrier.java
+END
+Lock.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/columba/!svn/ver/46/columba/trunk/core/src/main/java/org/columba/core/base/Lock.java
+END
+cFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/46/columba/trunk/core/src/main/java/org/columba/core/base/cFileFilter.java
+END
+ListTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/46/columba/trunk/core/src/main/java/org/columba/core/base/ListTools.java
+END
+BooleanCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/46/columba/trunk/core/src/main/java/org/columba/core/base/BooleanCompressor.java
+END
+OSInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/main/java/org/columba/core/base/OSInfo.java
+END

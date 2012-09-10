@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/columba/!svn/ver/328/columba/trunk/core/src/main/java/org/columba/core/context
+END
+ContextResultEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/56/columba/trunk/core/src/main/java/org/columba/core/context/ContextResultEvent.java
+END
+ContextSearchManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/173/columba/trunk/core/src/main/java/org/columba/core/context/ContextSearchManager.java
+END
+ContextResultListenerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/56/columba/trunk/core/src/main/java/org/columba/core/context/ContextResultListenerAdapter.java
+END

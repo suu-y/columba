@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.columba</groupId>
+  <artifactId>columba</artifactId>
+  <version>1.4</version>
+  <name>Columba application</name>
+  <url>http://www.columbamail.org</url>
+  <description>
+    Columba is an Email Client written in Java, featuring a user-friendly graphical interface with wizards and
+    internationalization support. Its a powerful email management tool with features to enhance your productivity and
+    communication. So, take control of your email before it takes control of you!
+  </description>
+  <mailingLists>
+    <mailingList>
+      <name>columba developer mailinglist</name>
+      <archive>https://sourceforge.net/mailarchive/forum.php?forum_id=2388</archive>
+      <subscribe>https://lists.sourceforge.net/mailman/listinfo/columba-devel</subscribe>
+      <unsubscribe>https://lists.sourceforge.net/mailman/listinfo/columba-devel</unsubscribe>
+    </mailingList>
+  </mailingLists>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-jar-plugin</artifactId>
+        <configuration>
+          <archive>
+            <manifest>
+              <addClasspath>true</addClasspath>
+              <classpathPrefix>lib/</classpathPrefix>
+              <mainClass>org.columba.core.main.Main</mainClass>
+            </manifest>
+            <manifestEntries>
+              <Class-Path>lib/usermanual-1.0.jar</Class-Path>
+            </manifestEntries>
+          </archive>
+        </configuration>
+      </plugin>
+      <plugin>
+        <artifactId>maven-assembly-plugin</artifactId>
+        <configuration>
+          <descriptors>
+            <descriptor>src/assemble/bin.xml</descriptor>
+          </descriptors>
+        </configuration>
+        <executions>
+          <execution>
+            <id>make-assembly</id>
+            <phase>package</phase>
+            <goals>
+              <goal>single</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+
+  <dependencies>
+    <dependency>
+      <groupId>org.columba</groupId>
+      <artifactId>core</artifactId>
+      <version>1.4</version>
+    </dependency>
+    <dependency>
+      <groupId>org.columba</groupId>
+      <artifactId>mail</artifactId>
+      <version>1.4</version>
+    </dependency>
+    <dependency>
+      <groupId>org.columba</groupId>
+      <artifactId>calendar</artifactId>
+      <version>1.4</version>
+    </dependency>
+    <dependency>
+      <groupId>org.columba</groupId>
+      <artifactId>contact</artifactId>
+      <version>1.4</version>
+    </dependency>
+    <dependency>
+      <groupId>org.columba</groupId>
+      <artifactId>usermanual</artifactId>
+      <scope>system</scope>
+      <version>1.0</version>
+      <systemPath>${basedir}/../lib/usermanual.jar</systemPath>
+    </dependency>
+  </dependencies>
+</project>

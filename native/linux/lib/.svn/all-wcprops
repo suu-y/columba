@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/columba/!svn/ver/23/columba/trunk/native/linux/lib
+END
+libjdic.so
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/columba/!svn/ver/23/columba/trunk/native/linux/lib/libjdic.so
+END
+mozembed-linux-gtk1.2
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/columba/!svn/ver/23/columba/trunk/native/linux/lib/mozembed-linux-gtk1.2
+END
+jdic.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/columba/!svn/ver/23/columba/trunk/native/linux/lib/jdic.jar
+END
+mozembed-linux-gtk2
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/columba/!svn/ver/23/columba/trunk/native/linux/lib/mozembed-linux-gtk2
+END
+libtray.so
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/columba/!svn/ver/23/columba/trunk/native/linux/lib/libtray.so
+END
+libmozembed-linux-gtk1.2.so
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/columba/!svn/ver/23/columba/trunk/native/linux/lib/libmozembed-linux-gtk1.2.so
+END
+libmozembed-linux-gtk2.so
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/columba/!svn/ver/23/columba/trunk/native/linux/lib/libmozembed-linux-gtk2.so
+END

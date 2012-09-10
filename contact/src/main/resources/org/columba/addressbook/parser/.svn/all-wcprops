@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/resources/org/columba/addressbook/parser
+END
+columba.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/resources/org/columba/addressbook/parser/columba.xml
+END
+vcard_evolution1.vcf
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/resources/org/columba/addressbook/parser/vcard_evolution1.vcf
+END

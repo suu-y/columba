@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/columba/!svn/ver/460/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/util
+END
+CreateFolderDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/460/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/util/CreateFolderDialog.java
+END
+CArrowImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/util/CArrowImage.java
+END
+SelectSearchFolderDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/452/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/util/SelectSearchFolderDialog.java
+END
+TreeNodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/util/TreeNodeList.java
+END
+FolderTreeCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/272/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/util/FolderTreeCellRenderer.java
+END
+CTransferableTreePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/util/CTransferableTreePath.java
+END
+SelectFolderDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/35/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/util/SelectFolderDialog.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/util/package.html
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/435/columba/trunk/contact/src/test/java/org/columba/addressbook/folder
+END
+GetHeaderItemListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/392/columba/trunk/contact/src/test/java/org/columba/addressbook/folder/GetHeaderItemListTest.java
+END
+ModifyContactTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/392/columba/trunk/contact/src/test/java/org/columba/addressbook/folder/ModifyContactTest.java
+END
+AddContactTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/392/columba/trunk/contact/src/test/java/org/columba/addressbook/folder/AddContactTest.java
+END
+AbstractFolderTstCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/435/columba/trunk/contact/src/test/java/org/columba/addressbook/folder/AbstractFolderTstCase.java
+END
+FolderTstHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/test/java/org/columba/addressbook/folder/FolderTstHelper.java
+END
+RemoveContactTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/392/columba/trunk/contact/src/test/java/org/columba/addressbook/folder/RemoveContactTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/392/columba/trunk/contact/src/test/java/org/columba/addressbook/folder/AllTests.java
+END
+GetContactTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/392/columba/trunk/contact/src/test/java/org/columba/addressbook/folder/GetContactTest.java
+END
+FolderTstFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/test/java/org/columba/addressbook/folder/FolderTstFactory.java
+END
+VirtualFolderContactTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/392/columba/trunk/contact/src/test/java/org/columba/addressbook/folder/VirtualFolderContactTest.java
+END

@@ -1,0 +1,83 @@
+10
+
+dir
+460
+https://columba.svn.sourceforge.net/svnroot/columba/columba/trunk/mail/src/main/resources/org/columba/mail
+https://columba.svn.sourceforge.net/svnroot/columba
+
+
+
+2007-05-15T22:30:13.920197Z
+296
+eschman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+410de10b-2318-0410-a529-9c54226a8375
+
+i18n
+dir
+
+config
+dir
+
+sound
+dir
+
+welcome_message_body.txt
+file
+
+
+
+
+2012-09-10T12:04:55.329965Z
+1112f7c4787353f2f42ff273a20c3ff4
+2006-07-09T14:55:44.113427Z
+23
+fdietz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1941
+
+folder
+dir
+
+icons
+dir
+
+action
+dir
+
+plugin
+dir
+

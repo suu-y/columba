@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/columba/!svn/ver/427/columba/trunk/calendar/src/test/java/org/columba/calendar/parser
+END
+XCSParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/389/columba/trunk/calendar/src/test/java/org/columba/calendar/parser/XCSParserTest.java
+END
+CalendarImporterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/427/columba/trunk/calendar/src/test/java/org/columba/calendar/parser/CalendarImporterTest.java
+END

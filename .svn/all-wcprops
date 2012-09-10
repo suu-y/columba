@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/columba/!svn/ver/460/columba/trunk
+END
+columba.doxconf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/columba/!svn/ver/24/columba/trunk/columba.doxconf
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/columba/!svn/ver/24/columba/trunk/LICENSE
+END
+build_install4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/columba/!svn/ver/248/columba/trunk/build_install4j.xml
+END
+src.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/columba/!svn/ver/246/columba/trunk/src.properties
+END
+build_backup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/columba/!svn/ver/244/columba/trunk/build_backup.xml
+END
+sun_checks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/columba/!svn/ver/24/columba/trunk/sun_checks.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/columba/!svn/ver/24/columba/trunk/.project
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/columba/!svn/ver/24/columba/trunk/AUTHORS
+END
+columba_release.install4j
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/columba/!svn/ver/247/columba/trunk/columba_release.install4j
+END
+COMPILE
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/columba/!svn/ver/24/columba/trunk/COMPILE
+END
+run_source.bat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/columba/!svn/ver/24/columba/trunk/run_source.bat
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/columba/!svn/ver/417/columba/trunk/pom.xml
+END
+ant.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/columba/!svn/ver/24/columba/trunk/ant.dtd
+END
+jalopy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/columba/!svn/ver/24/columba/trunk/jalopy.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/columba/!svn/ver/24/columba/trunk/README
+END
+reports.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/columba/!svn/ver/24/columba/trunk/reports.xml
+END
+run_source.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/columba/!svn/ver/24/columba/trunk/run_source.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/columba/!svn/ver/400/columba/trunk/build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/columba/!svn/ver/415/columba/trunk/.classpath
+END
+.ruleset
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/columba/!svn/ver/24/columba/trunk/.ruleset
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/columba/!svn/ver/24/columba/trunk/compile.sh
+END
+lib.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/columba/!svn/ver/239/columba/trunk/lib.properties
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/columba/!svn/ver/24/columba/trunk/project.properties
+END
+jrebundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/columba/!svn/ver/75/columba/trunk/jrebundle.properties
+END
+maven.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/columba/!svn/ver/24/columba/trunk/maven.xml
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/columba/!svn/ver/24/columba/trunk/project.xml
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/columba/!svn/ver/118/columba/trunk/CHANGES
+END
+build_CI.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/columba/!svn/ver/250/columba/trunk/build_CI.xml
+END
+run.bat
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/columba/!svn/ver/24/columba/trunk/run.bat
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/columba/!svn/ver/24/columba/trunk/run.sh
+END

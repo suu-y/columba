@@ -1,0 +1,7 @@
+provider_title=Calendar
+provider_description=Calendar
+provider_related_title=Related Activites
+provider_related_description=Related Activities
+summary_contains_title=<html><body>Summary contains <b>{0}</b></body>/<html>
+summary_contains_name=Summary contains
+summary_contains_description=<html><body>All activities with term <b>{0}</b> in Summary.</body>/<html>

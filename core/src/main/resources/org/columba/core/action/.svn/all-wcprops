@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/198/columba/trunk/core/src/main/resources/org/columba/core/action
+END
+menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/198/columba/trunk/core/src/main/resources/org/columba/core/action/menu.xml
+END
+trayiconmenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/action/trayiconmenu.xml
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-facade/src/main/java/org/columba/addressbook/facade
+END
+IHeaderItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-facade/src/main/java/org/columba/addressbook/facade/IHeaderItem.java
+END
+IContactItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-facade/src/main/java/org/columba/addressbook/facade/IContactItem.java
+END
+IFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-facade/src/main/java/org/columba/addressbook/facade/IFolder.java
+END
+IGroupItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-facade/src/main/java/org/columba/addressbook/facade/IGroupItem.java
+END
+HeaderItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-facade/src/main/java/org/columba/addressbook/facade/HeaderItem.java
+END
+IContactFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-facade/src/main/java/org/columba/addressbook/facade/IContactFacade.java
+END
+IFolderFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-facade/src/main/java/org/columba/addressbook/facade/IFolderFacade.java
+END
+ContactItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-facade/src/main/java/org/columba/addressbook/facade/ContactItem.java
+END
+GroupItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-facade/src/main/java/org/columba/addressbook/facade/GroupItem.java
+END
+IDialogFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-facade/src/main/java/org/columba/addressbook/facade/IDialogFacade.java
+END
+IModelFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-facade/src/main/java/org/columba/addressbook/facade/IModelFacade.java
+END

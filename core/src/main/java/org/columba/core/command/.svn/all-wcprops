@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/columba/!svn/ver/49/columba/trunk/core/src/main/java/org/columba/core/command
+END
+TaskManagerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/47/columba/trunk/core/src/main/java/org/columba/core/command/TaskManagerEvent.java
+END
+DefaultCommandReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/command/DefaultCommandReference.java
+END
+CompoundCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/49/columba/trunk/core/src/main/java/org/columba/core/command/CompoundCommand.java
+END
+TaskManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/command/TaskManagerListener.java
+END
+CommandCancelledException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/47/columba/trunk/core/src/main/java/org/columba/core/command/CommandCancelledException.java
+END
+Worker.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/47/columba/trunk/core/src/main/java/org/columba/core/command/Worker.java
+END
+ProgressObservedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/47/columba/trunk/core/src/main/java/org/columba/core/command/ProgressObservedInputStream.java
+END
+StatusObservableImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/47/columba/trunk/core/src/main/java/org/columba/core/command/StatusObservableImpl.java
+END
+NullWorkerStatusController.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/47/columba/trunk/core/src/main/java/org/columba/core/command/NullWorkerStatusController.java
+END
+TaskManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/47/columba/trunk/core/src/main/java/org/columba/core/command/TaskManager.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/47/columba/trunk/core/src/main/java/org/columba/core/command/Command.java
+END
+CommandProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/47/columba/trunk/core/src/main/java/org/columba/core/command/CommandProcessor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/command/package.html
+END

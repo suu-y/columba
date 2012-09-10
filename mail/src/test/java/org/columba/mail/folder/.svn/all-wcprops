@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/columba/!svn/ver/401/columba/trunk/mail/src/test/java/org/columba/mail/folder
+END
+cyrusaccount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/cyrusaccount.xml
+END
+AttributeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/AttributeTest.java
+END
+0_attachment.eml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/test/java/org/columba/mail/folder/0_attachment.eml
+END
+FolderTstHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/293/columba/trunk/mail/src/test/java/org/columba/mail/folder/FolderTstHelper.java
+END
+ExpungeFolderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/ExpungeFolderTest.java
+END
+IMAPTstFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/test/java/org/columba/mail/folder/IMAPTstFactory.java
+END
+1_0_mimepart.eml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/test/java/org/columba/mail/folder/1_0_mimepart.eml
+END
+1_1_mimepart.eml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/test/java/org/columba/mail/folder/1_1_mimepart.eml
+END
+GetMimePartSourceStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/GetMimePartSourceStreamTest.java
+END
+CopyMessageFolderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/CopyMessageFolderTest.java
+END
+MailboxTstFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/test/java/org/columba/mail/folder/MailboxTstFactory.java
+END
+GetHeaderFieldsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/GetHeaderFieldsTest.java
+END
+GetMessageSourceStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/GetMessageSourceStreamTest.java
+END
+MBOXFolderTstFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/test/java/org/columba/mail/folder/MBOXFolderTstFactory.java
+END
+MHFolderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/MHFolderFactory.java
+END
+AddMessageFolderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/AddMessageFolderTest.java
+END
+TempFolderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/test/java/org/columba/mail/folder/TempFolderFactory.java
+END
+AbstractFolderTst.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/AbstractFolderTst.java
+END
+0.eml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/test/java/org/columba/mail/folder/0.eml
+END
+1.eml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/test/java/org/columba/mail/folder/1.eml
+END

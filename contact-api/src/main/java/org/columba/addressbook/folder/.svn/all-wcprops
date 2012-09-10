@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/424/columba/trunk/contact-api/src/main/java/org/columba/addressbook/folder
+END
+IContactFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/424/columba/trunk/contact-api/src/main/java/org/columba/addressbook/folder/IContactFolder.java
+END
+FolderListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-api/src/main/java/org/columba/addressbook/folder/FolderListener.java
+END
+IGroupFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-api/src/main/java/org/columba/addressbook/folder/IGroupFolder.java
+END
+ContactItemCacheStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-api/src/main/java/org/columba/addressbook/folder/ContactItemCacheStorage.java
+END
+IFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-api/src/main/java/org/columba/addressbook/folder/IFolder.java
+END
+IFolderEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-api/src/main/java/org/columba/addressbook/folder/IFolderEvent.java
+END
+IContactStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/352/columba/trunk/contact-api/src/main/java/org/columba/addressbook/folder/IContactStorage.java
+END
+DataStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/22/columba/trunk/contact-api/src/main/java/org/columba/addressbook/folder/DataStorage.java
+END

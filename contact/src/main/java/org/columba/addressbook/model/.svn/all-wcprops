@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/columba/!svn/ver/326/columba/trunk/contact/src/main/java/org/columba/addressbook/model
+END
+BasicModelPartial.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/model/BasicModelPartial.java
+END
+InstantMessagingModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/model/InstantMessagingModel.java
+END
+ContactModelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/model/ContactModelFactory.java
+END
+WrongFileFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/model/WrongFileFormatException.java
+END
+ContactModelXMLFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/286/columba/trunk/contact/src/main/java/org/columba/addressbook/model/ContactModelXMLFactory.java
+END
+AddressModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/model/AddressModel.java
+END
+EmailModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/model/EmailModel.java
+END
+ContactModelPartial.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/model/ContactModelPartial.java
+END
+GroupModelPartial.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/model/GroupModelPartial.java
+END
+PhoneModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/142/columba/trunk/contact/src/main/java/org/columba/addressbook/model/PhoneModel.java
+END
+ContactModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/model/ContactModel.java
+END
+GroupModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/326/columba/trunk/contact/src/main/java/org/columba/addressbook/model/GroupModel.java
+END

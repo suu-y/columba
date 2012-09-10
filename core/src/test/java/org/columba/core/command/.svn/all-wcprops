@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/command
+END
+DefaultProcessorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/command/DefaultProcessorTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/command/AllTests.java
+END
+TestCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/command/TestCommand.java
+END

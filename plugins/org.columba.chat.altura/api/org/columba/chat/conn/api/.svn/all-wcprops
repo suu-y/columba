@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/api/org/columba/chat/conn/api
+END
+IConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/api/org/columba/chat/conn/api/IConnection.java
+END
+IConnectionChangedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/api/org/columba/chat/conn/api/IConnectionChangedListener.java
+END
+ConnectionChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/api/org/columba/chat/conn/api/ConnectionChangedEvent.java
+END

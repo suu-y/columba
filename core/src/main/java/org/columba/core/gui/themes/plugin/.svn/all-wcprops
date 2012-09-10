@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/194/columba/trunk/core/src/main/java/org/columba/core/gui/themes/plugin
+END
+QuaquaLookAndFeelPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/194/columba/trunk/core/src/main/java/org/columba/core/gui/themes/plugin/QuaquaLookAndFeelPlugin.java
+END
+MotifLookAndFeelPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/themes/plugin/MotifLookAndFeelPlugin.java
+END
+PlasticLookAndFeelPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/159/columba/trunk/core/src/main/java/org/columba/core/gui/themes/plugin/PlasticLookAndFeelPlugin.java
+END
+MacLookAndFeelPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/117/columba/trunk/core/src/main/java/org/columba/core/gui/themes/plugin/MacLookAndFeelPlugin.java
+END
+AbstractThemePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/themes/plugin/AbstractThemePlugin.java
+END
+MetalLookAndFeelPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/themes/plugin/MetalLookAndFeelPlugin.java
+END
+SystemLookAndFeelPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/194/columba/trunk/core/src/main/java/org/columba/core/gui/themes/plugin/SystemLookAndFeelPlugin.java
+END
+GtkLookAndFeelPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/themes/plugin/GtkLookAndFeelPlugin.java
+END
+PlasticLookAndFeelConfigPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/themes/plugin/PlasticLookAndFeelConfigPlugin.java
+END
+PlasticWizardContentPaneUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/themes/plugin/PlasticWizardContentPaneUI.java
+END
+WindowsLookAndFeelPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/themes/plugin/WindowsLookAndFeelPlugin.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/themes/plugin/package.html
+END

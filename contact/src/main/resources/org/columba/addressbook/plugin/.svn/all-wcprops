@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/267/columba/trunk/contact/src/main/resources/org/columba/addressbook/plugin
+END
+folder.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/resources/org/columba/addressbook/plugin/folder.dtd
+END
+extensionhandler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/resources/org/columba/addressbook/plugin/extensionhandler.xml
+END
+import.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/resources/org/columba/addressbook/plugin/import.xml
+END
+folder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/resources/org/columba/addressbook/plugin/folder.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/267/columba/trunk/contact/src/main/resources/org/columba/addressbook/plugin/plugin.xml
+END

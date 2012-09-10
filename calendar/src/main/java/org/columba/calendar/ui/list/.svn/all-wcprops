@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/columba/!svn/ver/425/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/list
+END
+DefaultStringRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/134/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/list/DefaultStringRenderer.java
+END
+CheckableListEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/134/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/list/CheckableListEditor.java
+END
+CheckableItemListTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/list/CheckableItemListTableModel.java
+END
+CalendarListController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/425/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/list/CalendarListController.java
+END
+DefaultBooleanRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/134/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/list/DefaultBooleanRenderer.java
+END
+CheckableList.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/134/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/list/CheckableList.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/ui/list/package.html
+END

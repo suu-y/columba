@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/199/columba/trunk/core/src/main/java/org/columba/core/gui/tagging
+END
+EditTagAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/199/columba/trunk/core/src/main/java/org/columba/core/gui/tagging/EditTagAction.java
+END
+EditTagDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/140/columba/trunk/core/src/main/java/org/columba/core/gui/tagging/EditTagDialog.java
+END
+AddTagAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/199/columba/trunk/core/src/main/java/org/columba/core/gui/tagging/AddTagAction.java
+END
+TagPopupMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/124/columba/trunk/core/src/main/java/org/columba/core/gui/tagging/TagPopupMenu.java
+END
+TaggingMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/157/columba/trunk/core/src/main/java/org/columba/core/gui/tagging/TaggingMenu.java
+END
+RemoveTagAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/199/columba/trunk/core/src/main/java/org/columba/core/gui/tagging/RemoveTagAction.java
+END
+TagList.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/columba/!svn/ver/177/columba/trunk/core/src/main/java/org/columba/core/gui/tagging/TagList.java
+END

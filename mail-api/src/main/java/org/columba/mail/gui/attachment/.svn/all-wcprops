@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/23/columba/trunk/mail-api/src/main/java/org/columba/mail/gui/attachment
+END
+IAttachmentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/23/columba/trunk/mail-api/src/main/java/org/columba/mail/gui/attachment/IAttachmentHandler.java
+END
+IAttachmentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/23/columba/trunk/mail-api/src/main/java/org/columba/mail/gui/attachment/IAttachmentContext.java
+END

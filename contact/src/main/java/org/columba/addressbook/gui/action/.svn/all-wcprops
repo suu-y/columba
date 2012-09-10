@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/350/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/action
+END
+ExportVCardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/350/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/action/ExportVCardAction.java
+END
+EditPropertiesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/326/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/action/EditPropertiesAction.java
+END
+DefaultTreeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/action/DefaultTreeAction.java
+END
+RemoveCardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/action/RemoveCardAction.java
+END
+AddVCardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/350/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/action/AddVCardAction.java
+END
+ComposeMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/326/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/action/ComposeMessageAction.java
+END
+AddressbookImportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/action/AddressbookImportAction.java
+END
+DefaultTableAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/action/DefaultTableAction.java
+END
+AddContactCardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/action/AddContactCardAction.java
+END
+TagContactMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/126/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/action/TagContactMenu.java
+END
+AddGroupCardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/326/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/action/AddGroupCardAction.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/action/package.html
+END

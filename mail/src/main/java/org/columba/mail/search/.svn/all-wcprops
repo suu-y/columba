@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/columba/!svn/ver/235/columba/trunk/mail/src/main/java/org/columba/mail/search
+END
+MailSearchProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/225/columba/trunk/mail/src/main/java/org/columba/mail/search/MailSearchProvider.java
+END
+MailSearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/34/columba/trunk/mail/src/main/java/org/columba/mail/search/MailSearchResult.java
+END
+SearchFolderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/235/columba/trunk/mail/src/main/java/org/columba/mail/search/SearchFolderFactory.java
+END
+SearchResultBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/35/columba/trunk/mail/src/main/java/org/columba/mail/search/SearchResultBuilder.java
+END

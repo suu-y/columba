@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/303/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/table/model
+END
+ContactItemTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/columba/!svn/ver/303/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/table/model/ContactItemTableModel.java
+END
+FilterDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/303/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/table/model/FilterDecorator.java
+END
+AddressbookTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/columba/!svn/ver/303/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/table/model/AddressbookTableModel.java
+END
+SortDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/303/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/table/model/SortDecorator.java
+END
+TableModelDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/columba/!svn/ver/303/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/table/model/TableModelDecorator.java
+END

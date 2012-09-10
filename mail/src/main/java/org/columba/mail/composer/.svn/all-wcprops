@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/columba/!svn/ver/444/columba/trunk/mail/src/main/java/org/columba/mail/composer
+END
+SendableMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/composer/SendableMessage.java
+END
+MessageBuilderHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/444/columba/trunk/mail/src/main/java/org/columba/mail/composer/MessageBuilderHelper.java
+END
+MessageComposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/421/columba/trunk/mail/src/main/java/org/columba/mail/composer/MessageComposer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/composer/package.html
+END

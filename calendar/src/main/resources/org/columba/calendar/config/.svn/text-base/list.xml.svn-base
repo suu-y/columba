@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE tree SYSTEM "list.dtd"> -->
+
+<list>
+ <calendar type="LocalCalendarItem" uid="private">
+  <property name="Private" color="FFB4B4" selected="true" />
+ </calendar>
+ <calendar type="LocalCalendarItem" uid="work">
+  <property name="Work" color="B4FFB4" selected="true" />
+ </calendar>
+ <calendar type="BirthdayCalendarItem" uid="birthdays">
+  <property name="Birthdays" color="B4B4FF" selected="true" />
+ </calendar>
+</list>

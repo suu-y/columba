@@ -1,0 +1,83 @@
+10
+
+dir
+460
+https://columba.svn.sourceforge.net/svnroot/columba/columba/trunk/mail/src/main/resources/org/columba/mail/i18n
+https://columba.svn.sourceforge.net/svnroot/columba
+
+
+
+2007-01-01T13:36:20.787160Z
+216
+fdietz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+410de10b-2318-0410-a529-9c54226a8375
+
+dialog
+dir
+
+tree
+dir
+
+global
+dir
+
+search.properties
+file
+
+
+
+
+2012-09-10T12:04:52.985831Z
+52e093b1919442dd294bb392ad4cf650
+2006-10-31T17:37:49.391277Z
+128
+fdietz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1241
+
+menu
+dir
+
+filter
+dir
+
+header
+dir
+
+statusbar
+dir
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/columba/!svn/ver/418/columba/trunk/mail/src/main/java/org/columba/mail/message
+END
+PGPMimePart.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/message/PGPMimePart.java
+END
+SendableHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/418/columba/trunk/mail/src/main/java/org/columba/mail/message/SendableHeader.java
+END
+ColumbaMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/message/ColumbaMessage.java
+END
+ColumbaHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/418/columba/trunk/mail/src/main/java/org/columba/mail/message/ColumbaHeader.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/message/package.html
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/columba/!svn/ver/199/columba/trunk/mail/src/main/java/org/columba/mail/gui/action
+END
+ExportDialogAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/action/ExportDialogAction.java
+END
+ShowMessagePreviewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/gui/action/ShowMessagePreviewAction.java
+END
+ImportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/action/ImportAction.java
+END
+ReceiveMessagesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/116/columba/trunk/mail/src/main/java/org/columba/mail/gui/action/ReceiveMessagesAction.java
+END
+SearchMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/116/columba/trunk/mail/src/main/java/org/columba/mail/gui/action/SearchMessageAction.java
+END
+FindReplaceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/62/columba/trunk/mail/src/main/java/org/columba/mail/gui/action/FindReplaceAction.java
+END
+PrintAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/116/columba/trunk/mail/src/main/java/org/columba/mail/gui/action/PrintAction.java
+END
+ReceiveSendAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/action/ReceiveSendAction.java
+END
+ColumnDialogAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/action/ColumnDialogAction.java
+END
+MailOptionsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/action/MailOptionsAction.java
+END
+NewMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/199/columba/trunk/mail/src/main/java/org/columba/mail/gui/action/NewMessageAction.java
+END
+MailAccountAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/action/MailAccountAction.java
+END
+FindAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/116/columba/trunk/mail/src/main/java/org/columba/mail/gui/action/FindAction.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/action/package.html
+END

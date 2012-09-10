@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/columba/!svn/ver/459/columba/trunk/calendar/src/main/java/org/columba/calendar/store
+END
+LocalCalendarStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/434/columba/trunk/calendar/src/main/java/org/columba/calendar/store/LocalCalendarStore.java
+END
+StoreEventDelegator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/459/columba/trunk/calendar/src/main/java/org/columba/calendar/store/StoreEventDelegator.java
+END
+StoreEventComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/store/StoreEventComparator.java
+END
+LocalXMLFileStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/428/columba/trunk/calendar/src/main/java/org/columba/calendar/store/LocalXMLFileStore.java
+END
+AbstractCalendarStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/434/columba/trunk/calendar/src/main/java/org/columba/calendar/store/AbstractCalendarStore.java
+END
+BirthdayCalendarStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/434/columba/trunk/calendar/src/main/java/org/columba/calendar/store/BirthdayCalendarStore.java
+END
+WebICalCalendarStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/434/columba/trunk/calendar/src/main/java/org/columba/calendar/store/WebICalCalendarStore.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/store/package.html
+END

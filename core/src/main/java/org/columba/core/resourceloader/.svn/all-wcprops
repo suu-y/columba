@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/columba/!svn/ver/230/columba/trunk/core/src/main/java/org/columba/core/resourceloader
+END
+GlobalResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/230/columba/trunk/core/src/main/java/org/columba/core/resourceloader/GlobalResourceLoader.java
+END
+IconKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/223/columba/trunk/core/src/main/java/org/columba/core/resourceloader/IconKeys.java
+END
+ImageLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/resourceloader/ImageLoader.java
+END

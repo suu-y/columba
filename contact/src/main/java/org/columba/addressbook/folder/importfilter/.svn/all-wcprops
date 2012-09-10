@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/350/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/importfilter
+END
+VCardImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/columba/!svn/ver/350/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/importfilter/VCardImporter.java
+END
+NetscapeLDIFAddressbookImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/importfilter/NetscapeLDIFAddressbookImporter.java
+END
+MozillaCSVAddressbookImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/importfilter/MozillaCSVAddressbookImporter.java
+END
+DefaultAddressbookImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/columba/!svn/ver/350/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/importfilter/DefaultAddressbookImporter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/importfilter/package.html
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/io
+END
+StreamCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/io/StreamCacheTest.java
+END
+SteerableInputStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/io/SteerableInputStreamTest.java
+END
+DefaultMimeTypeTableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/io/DefaultMimeTypeTableTest.java
+END
+CloneInputStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/io/CloneInputStreamTest.java
+END

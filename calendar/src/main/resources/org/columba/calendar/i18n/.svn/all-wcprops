@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/253/columba/trunk/calendar/src/main/resources/org/columba/calendar/i18n
+END
+menu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/253/columba/trunk/calendar/src/main/resources/org/columba/calendar/i18n/menu.properties
+END
+search.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/128/columba/trunk/calendar/src/main/resources/org/columba/calendar/i18n/search.properties
+END
+global.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/189/columba/trunk/calendar/src/main/resources/org/columba/calendar/i18n/global.properties
+END
+tagging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/253/columba/trunk/calendar/src/main/resources/org/columba/calendar/i18n/tagging.properties
+END

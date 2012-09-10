@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/columba/!svn/ver/230/columba/trunk/core/src/main/java/org/columba/core/gui/frame
+END
+DockFrameController.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/230/columba/trunk/core/src/main/java/org/columba/core/gui/frame/DockFrameController.java
+END
+FrameMediatorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/frame/FrameMediatorAdapter.java
+END
+TooltipMouseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/frame/TooltipMouseHandler.java
+END
+DefaultFrameController.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/43/columba/trunk/core/src/main/java/org/columba/core/gui/frame/DefaultFrameController.java
+END
+FrameMediatorDockable.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/frame/FrameMediatorDockable.java
+END
+FrameManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/104/columba/trunk/core/src/main/java/org/columba/core/gui/frame/FrameManager.java
+END
+DefaultContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/103/columba/trunk/core/src/main/java/org/columba/core/gui/frame/DefaultContainer.java
+END
+WindowMaximizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/frame/WindowMaximizer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/frame/package.html
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/plugin
+END
+PluginFinderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/plugin/PluginFinderTest.java
+END
+PluginManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/plugin/PluginManagerTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/plugin/AllTests.java
+END

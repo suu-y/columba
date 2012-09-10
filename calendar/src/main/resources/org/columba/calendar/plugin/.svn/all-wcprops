@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/427/columba/trunk/calendar/src/main/resources/org/columba/calendar/plugin
+END
+extensionhandler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/425/columba/trunk/calendar/src/main/resources/org/columba/calendar/plugin/extensionhandler.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/427/columba/trunk/calendar/src/main/resources/org/columba/calendar/plugin/plugin.xml
+END

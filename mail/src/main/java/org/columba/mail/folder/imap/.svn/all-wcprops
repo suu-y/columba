@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/456/columba/trunk/mail/src/main/java/org/columba/mail/folder/imap
+END
+DummyObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/imap/DummyObservable.java
+END
+FetchMessagesCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/imap/FetchMessagesCommand.java
+END
+IMAPFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/456/columba/trunk/mail/src/main/java/org/columba/mail/folder/imap/IMAPFolder.java
+END
+CheckForNewMessagesCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/imap/CheckForNewMessagesCommand.java
+END
+IMAPRootFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/241/columba/trunk/mail/src/main/java/org/columba/mail/folder/imap/IMAPRootFolder.java
+END
+IMAPCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/448/columba/trunk/mail/src/main/java/org/columba/mail/folder/imap/IMAPCache.java
+END
+UpdateFlagCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/imap/UpdateFlagCommand.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/imap/package.html
+END

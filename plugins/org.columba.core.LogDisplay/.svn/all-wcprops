@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/columba/!svn/ver/416/columba/trunk/plugins/org.columba.core.LogDisplay
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.core.LogDisplay/build.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/columba/!svn/ver/411/columba/trunk/plugins/org.columba.core.LogDisplay/pom.xml
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.core.LogDisplay/Readme.txt
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.core.LogDisplay/.cvsignore
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.core.LogDisplay/plugin.xml
+END

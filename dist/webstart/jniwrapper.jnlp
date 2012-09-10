@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp  spec="1.0+" codebase="@codebase@" href="jnw.jnlp">
+  <information>
+    <title>JNWrapper resources</title>
+    <vendor>MIIK Ltd.</vendor>
+    <description>JNIWrapper Application</description>
+    <description kind="short">JNIWrapper Application</description>
+    <offline-allowed/>
+  </information>
+  <security>
+      <all-permissions/>
+  </security>
+  <resources>
+    <jar href="native/win32/@jniwrap@"/>
+    <jar href="native/win32/@winpack@"/>
+  </resources>
+  <component-desc/>
+</jnlp>

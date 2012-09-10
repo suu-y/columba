@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/296/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/plugins
+END
+DefaultCriteriaRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/columba/!svn/ver/296/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/plugins/DefaultCriteriaRow.java
+END
+CustomHeaderfieldCriteriaRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/plugins/CustomHeaderfieldCriteriaRow.java
+END
+ColorActionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/plugins/ColorActionConfig.java
+END
+HeaderCriteriaRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/plugins/HeaderCriteriaRow.java
+END
+FlagsCriteriaRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/plugins/FlagsCriteriaRow.java
+END
+AccountCriteriaRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/plugins/AccountCriteriaRow.java
+END
+BodyCriteriaRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/plugins/BodyCriteriaRow.java
+END
+DefaultActionRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/plugins/DefaultActionRow.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/plugins/package.html
+END
+MarkActionRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/plugins/MarkActionRow.java
+END
+FolderChooserActionRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/columba/!svn/ver/35/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/plugins/FolderChooserActionRow.java
+END
+SizeCriteriaRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/plugins/SizeCriteriaRow.java
+END
+DateCriteriaRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/200/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/plugins/DateCriteriaRow.java
+END
+ColorCriteriaRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/plugins/ColorCriteriaRow.java
+END
+PriorityCriteriaRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/filter/plugins/PriorityCriteriaRow.java
+END

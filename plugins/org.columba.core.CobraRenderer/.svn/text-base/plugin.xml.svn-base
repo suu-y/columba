@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin name="Cobra Renderer" 
+        description="Cobra Message Renderer" 
+        id="org.columba.core.CobraRenderer" 
+        version="1.0" 
+        category="Renderer" 
+        enabled="true">
+        
+  <extensionlist id="org.columba.core.htmlviewer">
+    <extension id="Cobra" class="org.columba.core.htmlviewer.CobraViewerPlugin" />
+  </extensionlist>
+  
+  
+</plugin>

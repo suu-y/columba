@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/columba/!svn/ver/25/columba/trunk/core/src/main/java/org/columba/core/shutdown
+END
+ShutdownManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/25/columba/trunk/core/src/main/java/org/columba/core/shutdown/ShutdownManager.java
+END
+ShutdownDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/shutdown/ShutdownDialog.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/shutdown/package.html
+END

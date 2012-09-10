@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar-api/src/main/java/org/columba/calendar/model/api
+END
+IWeekDay.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar-api/src/main/java/org/columba/calendar/model/api/IWeekDay.java
+END
+ITimeZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar-api/src/main/java/org/columba/calendar/model/api/ITimeZone.java
+END
+IDateRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar-api/src/main/java/org/columba/calendar/model/api/IDateRange.java
+END
+IRecurrence.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar-api/src/main/java/org/columba/calendar/model/api/IRecurrence.java
+END
+IEventInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar-api/src/main/java/org/columba/calendar/model/api/IEventInfo.java
+END
+IComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar-api/src/main/java/org/columba/calendar/model/api/IComponent.java
+END
+ITodo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar-api/src/main/java/org/columba/calendar/model/api/ITodo.java
+END
+ICategoryList.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar-api/src/main/java/org/columba/calendar/model/api/ICategoryList.java
+END
+ICALENDAR.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar-api/src/main/java/org/columba/calendar/model/api/ICALENDAR.java
+END
+IComponentInfoList.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar-api/src/main/java/org/columba/calendar/model/api/IComponentInfoList.java
+END
+IComponentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar-api/src/main/java/org/columba/calendar/model/api/IComponentInfo.java
+END
+ITodoInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar-api/src/main/java/org/columba/calendar/model/api/ITodoInfo.java
+END
+IEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar-api/src/main/java/org/columba/calendar/model/api/IEvent.java
+END
+IFreeBusy.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar-api/src/main/java/org/columba/calendar/model/api/IFreeBusy.java
+END
+IAttachmentList.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar-api/src/main/java/org/columba/calendar/model/api/IAttachmentList.java
+END

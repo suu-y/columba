@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/columba/!svn/ver/416/columba/trunk/plugins/org.columba.chat.altura
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/build.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/columba/!svn/ver/411/columba/trunk/plugins/org.columba.chat.altura/pom.xml
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/Readme.txt
+END
+AlturaMessenger.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/AlturaMessenger.jar
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/.cvsignore
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.chat.altura/plugin.xml
+END

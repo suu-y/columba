@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/216/columba/trunk/mail/src/main/resources/org/columba/mail/config
+END
+messageframe_toolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/config/messageframe_toolbar.xml
+END
+composer_options.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/config/composer_options.xml
+END
+popmanage_options.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/config/popmanage_options.xml
+END
+default_signature.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/config/default_signature.txt
+END
+main_toolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/config/main_toolbar.xml
+END
+options.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/config/options.dtd
+END
+account.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/config/account.dtd
+END
+account_template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/config/account_template.xml
+END
+convert.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/config/convert.py
+END
+composer_toolbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/config/composer_toolbar.xml
+END
+tree.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/config/tree.dtd
+END
+options.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/config/options.xml
+END
+account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/resources/org/columba/mail/config/account.xml
+END
+tree.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/216/columba/trunk/mail/src/main/resources/org/columba/mail/config/tree.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/autocomplete
+END
+BasicAddressAutocompleteComboBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/autocomplete/BasicAddressAutocompleteComboBox.java
+END
+DefaultAddressComboBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/autocomplete/DefaultAddressComboBox.java
+END
+AddressAutoCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/autocomplete/AddressAutoCompleter.java
+END
+AddressCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/autocomplete/AddressCollector.java
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/columba/!svn/ver/325/columba/trunk/core/src/main/java/org/columba/core/print
+END
+cCmUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/print/cCmUnit.java
+END
+cPrintVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/325/columba/trunk/core/src/main/java/org/columba/core/print/cPrintVariable.java
+END
+cHGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/print/cHGroup.java
+END
+cParagraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/print/cParagraph.java
+END
+cSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/print/cSize.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/print/package.html
+END
+cPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/print/cPage.java
+END
+cDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/print/cDocument.java
+END
+cUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/print/cUnit.java
+END
+cVGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/print/cVGroup.java
+END
+cPrintObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/print/cPrintObject.java
+END
+cLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/print/cLine.java
+END
+cPointUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/print/cPointUnit.java
+END
+cPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/print/cPoint.java
+END
+cHTMLPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/print/cHTMLPart.java
+END

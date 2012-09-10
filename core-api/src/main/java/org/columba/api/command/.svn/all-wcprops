@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/columba/!svn/ver/51/columba/trunk/core-api/src/main/java/org/columba/api/command
+END
+IStatusObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/command/IStatusObservable.java
+END
+IWorkerStatusChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/command/IWorkerStatusChangeListener.java
+END
+ICommandReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/command/ICommandReference.java
+END
+ICommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/51/columba/trunk/core-api/src/main/java/org/columba/api/command/ICommand.java
+END
+WorkerStatusChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/command/WorkerStatusChangedEvent.java
+END
+IWorkerStatusController.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/command/IWorkerStatusController.java
+END

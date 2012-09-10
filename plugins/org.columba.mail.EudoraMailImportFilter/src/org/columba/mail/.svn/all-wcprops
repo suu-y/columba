@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.mail.EudoraMailImportFilter/src/org/columba/mail
+END
+EudoraMailImportFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.mail.EudoraMailImportFilter/src/org/columba/mail/EudoraMailImportFilter.java
+END
+HeaderTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.mail.EudoraMailImportFilter/src/org/columba/mail/HeaderTokenizer.java
+END
+ContentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.mail.EudoraMailImportFilter/src/org/columba/mail/ContentType.java
+END

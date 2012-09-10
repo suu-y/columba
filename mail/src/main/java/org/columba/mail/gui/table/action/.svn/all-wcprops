@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/134/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action
+END
+RedirectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/116/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/RedirectAction.java
+END
+ForwardAsAttachmentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/116/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ForwardAsAttachmentAction.java
+END
+CreateVFolderOnSubjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/CreateVFolderOnSubjectAction.java
+END
+ForwardInlineAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/116/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ForwardInlineAction.java
+END
+SaveMessageBodyAsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/SaveMessageBodyAsAction.java
+END
+CreateVFolderOnFromAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/CreateVFolderOnFromAction.java
+END
+DeleteMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/116/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/DeleteMessageAction.java
+END
+OpenMessageWithComposerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/OpenMessageWithComposerAction.java
+END
+ThreadedViewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/116/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ThreadedViewAction.java
+END
+ToggleExpungedFlagAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ToggleExpungedFlagAction.java
+END
+PreviousUnreadMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/PreviousUnreadMessageAction.java
+END
+ScoreMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ScoreMessageAction.java
+END
+OpenMessageWithMessageFrameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/OpenMessageWithMessageFrameAction.java
+END
+NextMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/NextMessageAction.java
+END
+ReplyToAllAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/116/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ReplyToAllAction.java
+END
+TrainMessageAsSpamAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/TrainMessageAsSpamAction.java
+END
+ReplyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/116/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ReplyAction.java
+END
+ClearHeaderlistAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ClearHeaderlistAction.java
+END
+ToggleDraftFlagAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ToggleDraftFlagAction.java
+END
+DeleteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/DeleteAction.java
+END
+ForwardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/116/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ForwardAction.java
+END
+ToggleAnsweredFlagAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ToggleAnsweredFlagAction.java
+END
+SortMessagesMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/SortMessagesMenu.java
+END
+DownAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/DownAction.java
+END
+TagMessageMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/124/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/TagMessageMenu.java
+END
+ToggleReadFlagAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ToggleReadFlagAction.java
+END
+SaveMessageSourceAsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/SaveMessageSourceAsAction.java
+END
+CreateFilterOnToAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/CreateFilterOnToAction.java
+END
+ColorMessageMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/134/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ColorMessageMenu.java
+END
+MoveMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/116/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/MoveMessageAction.java
+END
+AddSenderToAddressbookAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/AddSenderToAddressbookAction.java
+END
+CopyMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/116/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/CopyMessageAction.java
+END
+ViewHeaderListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ViewHeaderListAction.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/package.html
+END
+PreviousMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/PreviousMessageAction.java
+END
+NextUnreadMessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/NextUnreadMessageAction.java
+END
+ReplyWithTemplateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ReplyWithTemplateAction.java
+END
+UpAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/UpAction.java
+END
+CreateVFolderOnToAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/CreateVFolderOnToAction.java
+END
+ToggleFlaggedFlagAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ToggleFlaggedFlagAction.java
+END
+CreateFilterOnSubjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/CreateFilterOnSubjectAction.java
+END
+ReplyAsAttachmentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ReplyAsAttachmentAction.java
+END
+AddAllSendersToAddressbookAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/AddAllSendersToAddressbookAction.java
+END
+ReplyToListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/116/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ReplyToListAction.java
+END
+CreateFilterOnFromAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/CreateFilterOnFromAction.java
+END
+ToggleSpamFlagAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/ToggleSpamFlagAction.java
+END
+TrainMessageAsHamAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/table/action/TrainMessageAsHamAction.java
+END

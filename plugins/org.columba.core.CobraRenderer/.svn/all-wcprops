@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/columba/!svn/ver/460/columba/trunk/plugins/org.columba.core.CobraRenderer
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/415/columba/trunk/plugins/org.columba.core.CobraRenderer/build.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/columba/!svn/ver/419/columba/trunk/plugins/org.columba.core.CobraRenderer/pom.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/columba/!svn/ver/415/columba/trunk/plugins/org.columba.core.CobraRenderer/plugin.xml
+END

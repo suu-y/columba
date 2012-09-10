@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/columba/!svn/ver/402/columba/trunk/mail/src/main/java/org/columba/mail/smtp
+END
+SMTPServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/402/columba/trunk/mail/src/main/java/org/columba/mail/smtp/SMTPServer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/smtp/package.html
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/columba/!svn/ver/199/columba/trunk/mail/src/main/java/org/columba/mail/smtp/command
+END
+SendAllMessagesCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/35/columba/trunk/mail/src/main/java/org/columba/mail/smtp/command/SendAllMessagesCommand.java
+END
+SendMessageCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/199/columba/trunk/mail/src/main/java/org/columba/mail/smtp/command/SendMessageCommand.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/smtp/command/package.html
+END

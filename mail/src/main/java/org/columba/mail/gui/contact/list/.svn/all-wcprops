@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/288/columba/trunk/mail/src/main/java/org/columba/mail/gui/contact/list
+END
+ContactList.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/contact/list/ContactList.java
+END
+ContactDNDListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/288/columba/trunk/mail/src/main/java/org/columba/mail/gui/contact/list/ContactDNDListView.java
+END
+ContactListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/287/columba/trunk/mail/src/main/java/org/columba/mail/gui/contact/list/ContactListModel.java
+END
+HeaderItemDNDManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/contact/list/HeaderItemDNDManager.java
+END
+HeaderItemToolTipFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/contact/list/HeaderItemToolTipFactory.java
+END
+ContactListRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/contact/list/ContactListRenderer.java
+END

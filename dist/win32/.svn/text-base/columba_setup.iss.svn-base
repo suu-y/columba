@@ -1,0 +1,294 @@
+;Columba Setup file
+;InnoSetup Version > 4.2.7
+
+;This is normally defined by the ant winsetup task
+;Uncomment if you want to compile the task from
+;ISTools
+;#define VERSION="1.0 RC1"
+;#define BUNDLE_JRE
+;#define JRE_FILE="j2re-1_4_2_05-windows-i586-p.exe"
+
+;The JRE which gets bundled is expected to be in
+;the extras directory
+;#define JRE_SRC_PATH="extras\"
+
+[Setup]
+AppName=Columba
+AppVerName=Columba {#VERSION}
+AppPublisherURL=http://columba.sourceforge.net/
+AppSupportURL=http://columba.sourceforge.net/
+AppUpdatesURL=http://columba.sourceforge.net/
+DefaultDirName={pf}\Columba
+DefaultGroupName=Columba
+LicenseFile=LICENSE
+AlwaysShowComponentsList=false
+InfoAfterFile=CHANGES
+#ifdef BUNDLE_JRE
+OutputBaseFilename=ColumbaSetupwithJRE_{#VERSION}
+#else
+OutputBaseFilename=ColumbaSetup_{#VERSION}
+#endif
+Compression=bzip
+; we are in dest/win32/
+SourceDir=..\..\
+OutputDir=release\
+
+[Tasks]
+Name: desktopicon; Description: Create a &desktop icon; GroupDescription: Additional icons:; MinVersion: 4,4
+
+[Files]
+Source: AUTHORS; DestDir: {app}
+Source: CHANGES; DestDir: {app}
+Source: native\win32\columba.exe; DestDir: {app}
+Source: native\win32\columbaw.exe; DestDir: {app}
+Source: native\win32\columba.lap; DestDir: {app}; AfterInstall: updateLAPfile
+Source: {app}\columba.lap; DestDir: {app}; DestName: columbaw.lap; Flags: external
+Source: columba.jar; DestDir: {app}
+Source: LICENSE; DestDir: {app}
+Source: README; DestDir: {app}
+Source: run.bat; DestDir: {app}
+Source: {#RISTRETTO}; DestDir: {app}\lib\
+Source: {#JHALL}; DestDir: {app}\lib\
+Source: {#USERMANUAL}; DestDir: {app}\lib\
+Source: {#FORMS}; DestDir: {app}\lib\
+Source: {#MACCHIATO}; DestDir: {app}\lib\
+Source: {#FRAPUCCINO}; DestDir: {app}\lib\
+Source: {#JSCF}; DestDir: {app}\lib\
+Source: {#JARGS}; DestDir: {app}\lib\
+Source: {#LUCENE}; DestDir: {app}\lib\
+Source: {#JWIZZ}; DestDir: {app}\lib\
+Source: {#PLASTIC}; DestDir: {app}\lib\
+Source: {#JE}; DestDir: {app}\lib\
+Source: {#JDOM}; DestDir: {app}\lib\
+Source: {#JPIM}; DestDir: {app}\lib\
+Source: {#FLEXDOC}; DestDir: {app}\lib\
+Source: {#BSH}; DestDir: {app}\lib\
+Source: {#JYTHON}; DestDir: {app}\lib\
+Source: {#COMMONS.LOGGING}; DestDir: {app}\lib\
+Source: {#ICAL4J}; DestDir: {app}\lib\
+Source: {#MIGCALENDAR}; DestDir: {app}\lib\
+Source: {#SWINGX}; DestDir: {app}\lib\
+Source: {#ANTLR}; DestDir: {app}\lib\jta\
+Source: {#ASM-ATTRS}; DestDir: {app}\lib\jta\
+Source: {#ASM}; DestDir: {app}\lib\jta\
+Source: {#CGLIB}; DestDir: {app}\lib\jta\
+Source: {#COMMONS-COLLECTIONS}; DestDir: {app}\lib\jta\
+Source: {#COMMONS-LOGGING}; DestDir: {app}\lib\jta\
+Source: {#DOM4J}; DestDir: {app}\lib\jta\
+Source: {#EHCACHE}; DestDir: {app}\lib\jta\
+Source: {#EJB3-PERSISTENCE}; DestDir: {app}\lib\jta\
+Source: {#HIBERNATE3}; DestDir: {app}\lib\jta\
+Source: {#HIBERNATE-ANNOTATIONS}; DestDir: {app}\lib\jta\
+Source: {#HIBERNATE-ENTITYMANAGER}; DestDir: {app}\lib\jta\
+Source: {#HSQLDB}; DestDir: {app}\lib\jta\
+Source: {#JAVASSIST}; DestDir: {app}\lib\jta\
+Source: {#JBOSS-ARCHIVE-BROWSING}; DestDir: {app}\lib\jta\
+Source: {#JTA}; DestDir: {app}\lib\jta\
+Source: native\win32\{#JNIWRAP}; DestDir: {app}\native\win32\lib\
+Source: native\win32\{#WINPACK}; DestDir: {app}\native\win32\lib\
+Source: native\win32\{#JDIC}; DestDir: {app}\native\win32\lib\
+Source: native\win32\lib\jniwrap.dll; DestDir: {app}\native\win32\lib\
+Source: native\win32\lib\tray.dll; DestDir: {app}\native\win32\lib\
+Source: native\win32\lib\jdic.dll; DestDir: {app}\native\win32\lib\
+
+#ifdef BUNDLE_JRE
+Source: {#JRE_SRC_PATH}\{#JRE_FILE}; DestDir: {tmp}; Flags: deleteafterinstall dontcopy
+#endif
+
+[UninstallDelete]
+Name: columbaw.lap; Type: files
+
+[Icons]
+Name: {group}\Columba; Filename: {app}\columbaw.exe; IconIndex: 0; WorkingDir: {app}
+Name: {userdesktop}\Columba; Filename: {app}\columbaw.exe; MinVersion: 4,4; Tasks: desktopicon; WorkingDir: {app}; IconIndex: 0
+Name: {group}\AUTHORS; Filename: notepad.exe; Parameters: AUTHORS; WorkingDir: {app}; IconIndex: 0
+Name: {group}\CHANGES; Filename: notepad.exe; Parameters: CHANGES; WorkingDir: {app}; IconIndex: 0
+Name: {group}\LICENSE; Filename: notepad.exe; Parameters: LICENSE; WorkingDir: {app}; IconIndex: 0
+Name: {group}\README; Filename: notepad.exe; Parameters: README; WorkingDir: {app}; IconIndex: 0
+
+[Run]
+Filename: {app}\columbaw.exe; Description: Launch Columba; Flags: nowait postinstall skipifsilent; WorkingDir: {app}
+
+[_ISTool]
+EnableISX=true
+UseAbsolutePaths=true
+
+[Dirs]
+
+[Registry]
+Root: HKLM; SubKey: SOFTWARE\Clients\Mail\Columba; ValueType: string; ValueName: ; ValueData: Columba
+Root: HKLM; SubKey: SOFTWARE\Clients\Mail\Columba\Protocols\mailto; ValueType: string; ValueName: URL Protocol; ValueData: 
+Root: HKLM; SubKey: SOFTWARE\Clients\Mail\Columba\Protocols\mailto; ValueType: string; ValueData: {app}\columba --mailurl %1
+Root: HKLM; SubKey: SOFTWARE\Clients\Mail\Columba\Protocols\mailto; ValueType: binary; ValueName: EditFlags; ValueData: 20 00 00 00
+Root: HKLM; SubKey: SOFTWARE\Clients\Mail\Columba\Protocols\mailto\DefaultIcon; ValueType: string; ValueData: {app}\columba.exe,3
+Root: HKLM; SubKey: SOFTWARE\Clients\Mail\Columba\Protocols\mailto\shell\open\command; ValueType: string; ValueData: {app}\columba.exe --mailurl %1
+Root: HKLM; SubKey: SOFTWARE\Clients\Mail\Columba\shell\open\command; ValueType: string; ValueData: {app}\columba.exe
+
+
+[Code]
+var
+  Page: TWizardPage;
+  jreVersion: TLabel;
+  InstallJREPage: TInputQueryWizardPage;
+
+procedure updateLAPfile();
+var
+lapString : String;
+
+begin
+	LoadStringFromFile(ExpandConstant('{app}\columba.lap'), lapString);
+
+	StringChange(lapString, '{app}', ExpandConstant('{app}'));
+
+	SaveStringToFile(ExpandConstant('{app}\columba.lap'), lapString, false);
+end;
+
+
+#ifdef BUNDLE_JRE
+//* Getting Java version from registry *//
+function getJavaVersion(): String;
+var
+     javaVersion: String;
+begin
+     javaVersion := 'None';
+     RegQueryStringValue(HKLM, 'SOFTWARE\JavaSoft\Java Runtime Environment', 'CurrentVersion', javaVersion);
+     GetVersionNumbersString(javaVersion, javaVersion);
+     Result := javaVersion;
+end;
+
+//* Check if a JRE was installed *//
+function checkJRE(): boolean;
+begin
+	Result := True;
+
+	//First we need to check if a JRE is installed
+     if compareStr( getJavaVersion(), 'None') = 0 then begin
+          //* No Java detected *//
+          Result := False;
+          end
+     else begin
+          //* Java version lower than 1.5 detected *//
+          if (getJavaVersion()) < '1.5' then begin
+          Result := False;
+          end
+     end;
+end;
+
+
+
+procedure InstallJRE(Sender: TObject);
+var
+AppPath, Parameters, WorkingDirectory: String;ResultCode: Integer;
+LogFile : String;
+
+begin
+	ExtractTemporaryFile('{#JRE_FILE}')
+	LogFile := ExpandConstant('{tmp}\setup.log');
+	AppPath := ExpandConstant( '{tmp}\{#JRE_FILE}');
+	WorkingDirectory := ExpandConstant( '{tmp}');
+	//Parameters := '/v"/qn ADDLOCAL=ALL REBOOT=Suppress"';
+	Exec( AppPath, Parameters, WorkingDirectory, SW_SHOW, ewWaitUntilTerminated,  ResultCode);
+
+	BringToFrontAndRestore();
+	jreVersion.Caption := getJavaVersion();
+end;
+
+procedure CreateJREInstallPage;
+var
+  InstallButton, OKButton, CancelButton: TButton;
+  Label1, Label2, Label3: TLabel;
+  Next: Boolean;
+
+begin
+	Page := CreateCustomPage(wpWelcome, 'Java Not Found', 'A JRE Version 1.5 or above must be installed!');
+
+	{ Label1 }
+	Label1 := TLabel.Create(Page);
+	with Label1 do
+	begin
+	  Parent := Page.Surface;
+	  Left := 24;
+	  Top := 16;
+	  Width := 107;
+	  Height := 13;
+	  Caption := 'Installed JRE Version :';
+	end;
+
+	{ jreVersion }
+	jreVersion := TLabel.Create(Page);
+	with jreVersion do
+	begin
+	  Parent := Page.Surface;
+	  Left := 150;
+	  Top := 16;
+	  Width := 30;
+	  Height := 21;
+	  Caption := getJavaVersion();
+	end;
+
+	{ Label3 }
+	Label3 := TLabel.Create(Page);
+	with Label3 do
+	begin
+	  Parent := Page.Surface;
+	  Left := 24;
+	  Top := 58;
+	  Width := 120;
+	  Height := 13;
+	  Caption := 'To continue Installation:';
+	end;
+
+	{ installButton }
+	installButton := TButton.Create(Page);
+	with installButton do
+	begin
+	  Parent := Page.Surface;
+	  Caption := 'Install JRE';
+	  Left := 150;
+	  Top := 50;
+	  Width := 75;
+	  Height := 23;
+	  TabOrder := 0;
+	  OnClick := @InstallJRE;
+	end;
+
+	{ Label2 }
+	Label2 := TLabel.Create(Page);
+	with Label2 do
+	begin
+	  Parent := Page.Surface;
+	  Left := 24;
+	  Top := 90;
+	  Width := 200;
+	  Height := 13;
+	  Caption := 'Note: Do *not* restart after installation!';
+	end;
+
+end;
+
+function NextButtonClick(CurPageID: Integer): Boolean; 
+begin
+	Result := True;
+	if CurPageId = page.ID then
+	begin
+		if not checkJRE() then
+		begin
+			MsgBox('You need to install a JRE first!', mbError, MB_OK);
+			Result := False;
+		end;
+	end;
+end;
+
+
+procedure InitializeWizard();
+var 
+	ErrorCode: Integer;
+begin
+	if not checkJRE() then	
+	begin
+		createJREInstallPage();
+	end;		
+end;
+
+#endif
+

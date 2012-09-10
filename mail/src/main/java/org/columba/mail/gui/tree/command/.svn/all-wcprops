@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/199/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/command
+END
+MailboxSizeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/command/MailboxSizeCommand.java
+END
+CreateSubFolderCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/199/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/command/CreateSubFolderCommand.java
+END
+CreateAndSelectSubFolderCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/command/CreateAndSelectSubFolderCommand.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/tree/command/package.html
+END

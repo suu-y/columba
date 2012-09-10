@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/gui/composer/command
+END
+ForwardInlineCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/gui/composer/command/ForwardInlineCommandTest.java
+END
+ForwardCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/gui/composer/command/ForwardCommandTest.java
+END
+AbstractComposerTst.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/gui/composer/command/AbstractComposerTst.java
+END
+ReplyToAllCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/gui/composer/command/ReplyToAllCommandTest.java
+END
+ReplyCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/gui/composer/command/ReplyCommandTest.java
+END
+ReplyToMailingListCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/gui/composer/command/ReplyToMailingListCommandTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/test/java/org/columba/mail/gui/composer/command/AllTests.java
+END

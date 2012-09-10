@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/selection
+END
+SelectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/selection/SelectionManager.java
+END
+SelectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/selection/SelectionHandler.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/selection/package.html
+END

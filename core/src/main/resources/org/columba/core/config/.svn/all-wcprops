@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/config
+END
+config.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/config/config.dtd
+END
+external_tools.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/config/external_tools.xml
+END
+scripting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/config/scripting.xml
+END
+profiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/config/profiles.xml
+END
+options.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/config/options.dtd
+END
+options.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/config/options.xml
+END
+views.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/config/views.xml
+END
+mime_table
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/resources/org/columba/core/config/mime_table
+END

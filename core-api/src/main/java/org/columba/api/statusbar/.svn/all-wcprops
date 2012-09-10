@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/statusbar
+END
+IStatusBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/statusbar/IStatusBar.java
+END
+IStatusBarExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/statusbar/IStatusBarExtension.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/276/columba/trunk/mail/src/main/java/org/columba/mail/folder/mbox
+END
+MboxParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/mbox/MboxParser.java
+END
+MboxDataStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/35/columba/trunk/mail/src/main/java/org/columba/mail/folder/mbox/MboxDataStorage.java
+END
+CachedMboxFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/276/columba/trunk/mail/src/main/java/org/columba/mail/folder/mbox/CachedMboxFolder.java
+END
+MboxMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/mbox/MboxMessage.java
+END

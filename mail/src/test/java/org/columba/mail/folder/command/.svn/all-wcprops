@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/command
+END
+MarkMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/command/MarkMessageTest.java
+END
+MoveFolderCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/command/MoveFolderCommandTest.java
+END
+MarkFolderAsReadCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/command/MarkFolderAsReadCommandTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/test/java/org/columba/mail/folder/command/AllTests.java
+END
+MoveMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/command/MoveMessageTest.java
+END
+CopyMessageCommandTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/command/CopyMessageCommandTest.java
+END

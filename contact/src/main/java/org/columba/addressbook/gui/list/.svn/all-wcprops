@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/326/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/list
+END
+AddressbookListRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/list/AddressbookListRenderer.java
+END
+AddressbookListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/103/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/list/AddressbookListView.java
+END
+HeaderItemDNDManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/list/HeaderItemDNDManager.java
+END
+AddressbookDNDListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/list/AddressbookDNDListView.java
+END
+AddressbookListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/326/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/list/AddressbookListModel.java
+END

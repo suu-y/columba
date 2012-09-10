@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/resources/org/columba/addressbook/i18n/dialog
+END
+addressbookimport.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/resources/org/columba/addressbook/i18n/dialog/addressbookimport.properties
+END
+contact.properties
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/resources/org/columba/addressbook/i18n/dialog/contact.properties
+END
+addressbookpanel.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/resources/org/columba/addressbook/i18n/dialog/addressbookpanel.properties
+END
+editgroupdialog.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/resources/org/columba/addressbook/i18n/dialog/editgroupdialog.properties
+END

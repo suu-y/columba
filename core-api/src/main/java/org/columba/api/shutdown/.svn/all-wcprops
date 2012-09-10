@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/shutdown
+END
+IShutdownManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/shutdown/IShutdownManager.java
+END

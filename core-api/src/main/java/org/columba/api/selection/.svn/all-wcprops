@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/selection
+END
+SelectionChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/selection/SelectionChangedEvent.java
+END
+ISelectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/selection/ISelectionListener.java
+END
+ISelectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/selection/ISelectionManager.java
+END
+ISelectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/selection/ISelectionHandler.java
+END

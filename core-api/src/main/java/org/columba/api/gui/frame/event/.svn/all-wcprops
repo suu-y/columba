@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/gui/frame/event
+END
+IContainerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/gui/frame/event/IContainerListener.java
+END
+FrameEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/gui/frame/event/FrameEvent.java
+END
+IFrameMediatorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/api/gui/frame/event/IFrameMediatorListener.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/scripting/config
+END
+BeanshellConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/scripting/config/BeanshellConfig.java
+END
+OptionsObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/scripting/config/OptionsObserver.java
+END
+ScriptingXmlConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/scripting/config/ScriptingXmlConfig.java
+END
+Options.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/scripting/config/Options.java
+END

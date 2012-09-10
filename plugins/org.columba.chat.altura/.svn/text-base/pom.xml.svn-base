@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <parent>
+    <artifactId>plugins</artifactId>
+    <groupId>org.columba</groupId>
+    <version>1.4</version>
+  </parent>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.columba.plugins</groupId>
+  <artifactId>org.columba.chat.altura</artifactId>
+  <name>Altura Chat plugin</name>
+  <version>1.0</version>
+  <description></description>
+
+  <build>
+    <resources>
+      <resource>
+        <directory>res</directory>
+      </resource>
+    </resources>
+
+    <plugins>
+      <plugin>
+        <artifactId>maven-assembly-plugin</artifactId>
+      </plugin>
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>build-helper-maven-plugin</artifactId>
+        <version>1.1</version>
+        <executions>
+          <execution>
+            <id>add-source</id>
+            <phase>generate-sources</phase>
+            <goals>
+              <goal>add-source</goal>
+            </goals>
+            <configuration>
+              <sources>
+                <source>api</source>
+              </sources>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+
+  <dependencies>
+    <dependency>
+      <groupId>jivesoftware</groupId>
+      <artifactId>smack</artifactId>
+      <version>1.4.1</version>
+    </dependency>
+    <dependency>
+      <groupId>jivesoftware</groupId>
+      <artifactId>smackx</artifactId>
+      <version>1.4.1</version>
+    </dependency>
+  </dependencies>
+
+</project>

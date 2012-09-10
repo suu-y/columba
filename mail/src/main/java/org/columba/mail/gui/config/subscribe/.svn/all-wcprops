@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/447/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/subscribe
+END
+SubscribeCommandReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/subscribe/SubscribeCommandReference.java
+END
+UnsubscribeFolderCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/subscribe/UnsubscribeFolderCommand.java
+END
+SubscribeDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/subscribe/SubscribeDialog.java
+END
+SynchronizeFolderListCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/columba/!svn/ver/447/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/subscribe/SynchronizeFolderListCommand.java
+END
+SubscribeFolderCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/subscribe/SubscribeFolderCommand.java
+END
+ListInfoTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/subscribe/ListInfoTreeNode.java
+END

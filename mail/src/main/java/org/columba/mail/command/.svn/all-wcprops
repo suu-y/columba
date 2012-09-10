@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/columba/!svn/ver/88/columba/trunk/mail/src/main/java/org/columba/mail/command
+END
+POP3CommandReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/command/POP3CommandReference.java
+END
+IMAPFolderCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/command/IMAPFolderCommand.java
+END
+ImportFolderCommandReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/command/ImportFolderCommandReference.java
+END
+ComposerCommandReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/command/ComposerCommandReference.java
+END
+MailFolderCommandReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/88/columba/trunk/mail/src/main/java/org/columba/mail/command/MailFolderCommandReference.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/command/package.html
+END

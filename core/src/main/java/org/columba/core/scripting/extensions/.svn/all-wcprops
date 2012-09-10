@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/scripting/extensions
+END
+ExtensionPointManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/scripting/extensions/ExtensionPointManager.java
+END
+ExtensionEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/scripting/extensions/ExtensionEventListener.java
+END
+ExtensionEventBus.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/scripting/extensions/ExtensionEventBus.java
+END
+ToolbarExtensionPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/scripting/extensions/ToolbarExtensionPoint.java
+END
+AbstractExtensionPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/scripting/extensions/AbstractExtensionPoint.java
+END
+MenuExtensionPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/scripting/extensions/MenuExtensionPoint.java
+END
+ExtensionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/scripting/extensions/ExtensionEvent.java
+END

@@ -1,0 +1,37 @@
+<assembly>
+  <id>bin</id>
+  <formats>
+    <format>zip</format>
+  </formats>
+  <includeBaseDirectory>false</includeBaseDirectory>
+  <dependencySets>
+    <dependencySet>
+      <includes>
+        <include>org.columba:columba</include>
+      </includes>
+      <unpack>false</unpack>
+      <scope>runtime</scope>
+      <outputDirectory>/</outputDirectory>
+      <useProjectArtifact>true</useProjectArtifact>
+      <outputFileNameMapping>${artifact.artifactId}.${artifact.extension}</outputFileNameMapping>
+    </dependencySet>
+    <dependencySet>
+      <unpack>false</unpack>
+      <scope>runtime</scope>
+      <outputDirectory>/lib</outputDirectory>
+      <useProjectArtifact>false</useProjectArtifact>
+    </dependencySet>
+    <dependencySet>
+      <unpack>false</unpack>
+      <scope>system</scope>
+      <outputDirectory>/lib</outputDirectory>
+      <useProjectArtifact>false</useProjectArtifact>
+    </dependencySet>
+  </dependencySets>
+  <fileSets>
+    <fileSet>
+      <directory>../plugins/target</directory>
+      <outputDirectory>plugins</outputDirectory>
+    </fileSet>
+  </fileSets>
+</assembly>

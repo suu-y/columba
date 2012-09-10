@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/columba/!svn/ver/443/columba/trunk/mail/src/main/java/org/columba/mail/shutdown
+END
+ClearRecentFlagPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/443/columba/trunk/mail/src/main/java/org/columba/mail/shutdown/ClearRecentFlagPlugin.java
+END
+SavePOP3CachePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/shutdown/SavePOP3CachePlugin.java
+END
+SaveAllFoldersPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/shutdown/SaveAllFoldersPlugin.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/shutdown/package.html
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/columba/!svn/ver/199/columba/trunk/mail/src/main/java/org/columba/mail/filter
+END
+MailFilterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/filter/MailFilterFactory.java
+END
+MailFilterAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/filter/MailFilterAction.java
+END
+FilterCompoundCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/filter/FilterCompoundCommand.java
+END
+MailFilterCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/filter/MailFilterCriteria.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/filter/package.html
+END

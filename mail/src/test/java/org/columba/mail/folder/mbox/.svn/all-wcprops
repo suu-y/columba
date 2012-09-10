@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/mbox
+END
+MboxParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/mbox/MboxParserTest.java
+END
+MboxDataStorageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/folder/mbox/MboxDataStorageTest.java
+END

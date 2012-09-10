@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/columba/!svn/ver/193/columba/trunk/mail/src/main/java/org/columba/mail/gui/search
+END
+BasicResultPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/34/columba/trunk/mail/src/main/java/org/columba/mail/gui/search/BasicResultPanel.java
+END
+CriteriaResultPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/57/columba/trunk/mail/src/main/java/org/columba/mail/gui/search/CriteriaResultPanel.java
+END
+ComplexResultPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/57/columba/trunk/mail/src/main/java/org/columba/mail/gui/search/ComplexResultPanel.java
+END
+ResultList.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/193/columba/trunk/mail/src/main/java/org/columba/mail/gui/search/ResultList.java
+END

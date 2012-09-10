@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/392/columba/trunk/contact/src/main/java/org/columba/addressbook/parser
+END
+SyntaxException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/parser/SyntaxException.java
+END
+XMLContactDocumentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/parser/XMLContactDocumentParser.java
+END
+ParserUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/350/columba/trunk/contact/src/main/java/org/columba/addressbook/parser/ParserUtil.java
+END
+VCardParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/392/columba/trunk/contact/src/main/java/org/columba/addressbook/parser/VCardParser.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/parser/package.html
+END

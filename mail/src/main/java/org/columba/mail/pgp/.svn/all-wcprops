@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/columba/!svn/ver/199/columba/trunk/mail/src/main/java/org/columba/mail/pgp
+END
+MultipartSignedRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/pgp/MultipartSignedRenderer.java
+END
+PGPPassChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/pgp/PGPPassChecker.java
+END
+ProgramNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/pgp/ProgramNotFoundException.java
+END
+WrongPassphraseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/pgp/WrongPassphraseException.java
+END
+MultipartEncryptedRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/199/columba/trunk/mail/src/main/java/org/columba/mail/pgp/MultipartEncryptedRenderer.java
+END
+CancelledException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/pgp/CancelledException.java
+END
+JSCFController.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/pgp/JSCFController.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/pgp/package.html
+END

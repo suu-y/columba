@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/columba/!svn/ver/416/columba/trunk/plugins/org.columba.core.FlyingSaucerRenderer
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.core.FlyingSaucerRenderer/build.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/411/columba/trunk/plugins/org.columba.core.FlyingSaucerRenderer/pom.xml
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.core.FlyingSaucerRenderer/plugin.xml
+END

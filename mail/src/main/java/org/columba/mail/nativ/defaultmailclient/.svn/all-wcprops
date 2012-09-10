@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/nativ/defaultmailclient
+END
+SystemDefaultMailClientHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/nativ/defaultmailclient/SystemDefaultMailClientHandler.java
+END
+SystemDefaultMailClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/nativ/defaultmailclient/SystemDefaultMailClient.java
+END
+Win32SystemDefaultMailClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/nativ/defaultmailclient/Win32SystemDefaultMailClient.java
+END

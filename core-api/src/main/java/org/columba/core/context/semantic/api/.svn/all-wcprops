@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/columba/!svn/ver/129/columba/trunk/core-api/src/main/java/org/columba/core/context/semantic/api
+END
+IContextEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/core/context/semantic/api/IContextEvent.java
+END
+ISemanticContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/129/columba/trunk/core-api/src/main/java/org/columba/core/context/semantic/api/ISemanticContext.java
+END
+IContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/22/columba/trunk/core-api/src/main/java/org/columba/core/context/semantic/api/IContextListener.java
+END

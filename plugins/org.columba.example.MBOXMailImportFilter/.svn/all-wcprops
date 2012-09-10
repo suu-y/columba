@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/columba/!svn/ver/416/columba/trunk/plugins/org.columba.example.MBOXMailImportFilter
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.example.MBOXMailImportFilter/build.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/411/columba/trunk/plugins/org.columba.example.MBOXMailImportFilter/pom.xml
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.example.MBOXMailImportFilter/.cvsignore
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.example.MBOXMailImportFilter/plugin.xml
+END

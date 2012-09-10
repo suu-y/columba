@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/rules
+END
+RuleList.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/rules/RuleList.java
+END
+MixedCharactersAddressRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/rules/MixedCharactersAddressRule.java
+END
+SubjectWhitespaceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/rules/SubjectWhitespaceRule.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/rules/Rule.java
+END
+SubjectContainsSpamRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/rules/SubjectContainsSpamRule.java
+END
+AbstractRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/rules/AbstractRule.java
+END
+MissingToHeaderRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/rules/MissingToHeaderRule.java
+END
+OnlyHTMLMimepartRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/rules/OnlyHTMLMimepartRule.java
+END
+SubjectIsAllCapitalsRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/rules/SubjectIsAllCapitalsRule.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/spam/rules/package.html
+END

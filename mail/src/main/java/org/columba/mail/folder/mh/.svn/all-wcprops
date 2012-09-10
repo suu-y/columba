@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/columba/!svn/ver/216/columba/trunk/mail/src/main/java/org/columba/mail/folder/mh
+END
+MHMessageFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/mh/MHMessageFileFilter.java
+END
+MHDataStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/181/columba/trunk/mail/src/main/java/org/columba/mail/folder/mh/MHDataStorage.java
+END
+CachedMHFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/216/columba/trunk/mail/src/main/java/org/columba/mail/folder/mh/CachedMHFolder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/mh/package.html
+END

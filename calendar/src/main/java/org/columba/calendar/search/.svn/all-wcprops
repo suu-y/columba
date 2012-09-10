@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/columba/!svn/ver/425/columba/trunk/calendar/src/main/java/org/columba/calendar/search
+END
+ComplexResultPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/171/columba/trunk/calendar/src/main/java/org/columba/calendar/search/ComplexResultPanel.java
+END
+CalendarSearchProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/425/columba/trunk/calendar/src/main/java/org/columba/calendar/search/CalendarSearchProvider.java
+END
+SearchResultBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/128/columba/trunk/calendar/src/main/java/org/columba/calendar/search/SearchResultBuilder.java
+END
+CalendarSearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/128/columba/trunk/calendar/src/main/java/org/columba/calendar/search/CalendarSearchResult.java
+END

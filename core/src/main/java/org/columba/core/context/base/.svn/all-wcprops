@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/columba/!svn/ver/129/columba/trunk/core/src/main/java/org/columba/core/context/base
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/56/columba/trunk/core/src/main/java/org/columba/core/context/base/Name.java
+END
+StructureType.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/129/columba/trunk/core/src/main/java/org/columba/core/context/base/StructureType.java
+END
+AttributeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/56/columba/trunk/core/src/main/java/org/columba/core/context/base/AttributeType.java
+END
+ContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/56/columba/trunk/core/src/main/java/org/columba/core/context/base/ContextFactory.java
+END
+StructureValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/56/columba/trunk/core/src/main/java/org/columba/core/context/base/StructureValue.java
+END

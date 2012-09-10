@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/columba/!svn/ver/416/columba/trunk/plugins/org.columba.mail.ToOrCcFilter
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.mail.ToOrCcFilter/build.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/columba/!svn/ver/411/columba/trunk/plugins/org.columba.mail.ToOrCcFilter/pom.xml
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.mail.ToOrCcFilter/Readme.txt
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.mail.ToOrCcFilter/.cvsignore
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.mail.ToOrCcFilter/plugin.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/columba/!svn/ver/416/columba/trunk/plugins/org.columba.mail.PlaySoundFilterAction
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.mail.PlaySoundFilterAction/build.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/411/columba/trunk/plugins/org.columba.mail.PlaySoundFilterAction/pom.xml
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.mail.PlaySoundFilterAction/.cvsignore
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.mail.PlaySoundFilterAction/plugin.xml
+END

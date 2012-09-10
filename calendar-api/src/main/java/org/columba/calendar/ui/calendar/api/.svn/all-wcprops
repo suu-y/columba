@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar-api/src/main/java/org/columba/calendar/ui/calendar/api
+END
+IActivitySelectionChangedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar-api/src/main/java/org/columba/calendar/ui/calendar/api/IActivitySelectionChangedListener.java
+END
+ICalendarView.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar-api/src/main/java/org/columba/calendar/ui/calendar/api/ICalendarView.java
+END
+ActivitySelectionChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar-api/src/main/java/org/columba/calendar/ui/calendar/api/ActivitySelectionChangedEvent.java
+END

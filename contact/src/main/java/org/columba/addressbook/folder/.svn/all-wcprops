@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/426/columba/trunk/contact/src/main/java/org/columba/addressbook/folder
+END
+AbstractFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/426/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/AbstractFolder.java
+END
+XmlDataStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/350/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/XmlDataStorage.java
+END
+FolderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/FolderFactory.java
+END
+Root.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/Root.java
+END
+ContactItemCacheStorageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/columba/!svn/ver/350/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/ContactItemCacheStorageImpl.java
+END
+AddressbookTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/350/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/AddressbookTreeNode.java
+END
+LocalFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/350/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/LocalFolder.java
+END
+GroupFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/350/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/GroupFolder.java
+END
+LocalRootFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/350/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/LocalRootFolder.java
+END
+RemoteRootFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/350/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/RemoteRootFolder.java
+END
+AddressbookFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/AddressbookFolder.java
+END
+FolderEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/FolderEvent.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/22/columba/trunk/contact/src/main/java/org/columba/addressbook/folder/package.html
+END

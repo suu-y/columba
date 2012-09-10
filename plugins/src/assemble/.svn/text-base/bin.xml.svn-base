@@ -1,0 +1,31 @@
+<assembly>
+  <id>bin</id>
+  <formats>
+    <format>zip</format>
+  </formats>
+  <includeBaseDirectory>false</includeBaseDirectory>
+  <files>
+    <file>
+      <source>${project.build.directory}/plugin.jar</source>
+      <outputDirectory></outputDirectory>
+    </file>
+    <file>
+      <source>plugin.xml</source>
+      <outputDirectory></outputDirectory>
+    </file>
+  </files>
+  <dependencySets>
+    <dependencySet>
+      <unpack>false</unpack>
+      <scope>runtime</scope>
+      <outputDirectory>lib</outputDirectory>
+      <useProjectArtifact>false</useProjectArtifact>
+    </dependencySet>
+    <dependencySet>
+      <unpack>false</unpack>
+      <scope>system</scope>
+      <outputDirectory>lib</outputDirectory>
+      <useProjectArtifact>false</useProjectArtifact>
+    </dependencySet>
+  </dependencySets>
+</assembly>

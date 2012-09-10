@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/util
+END
+SemaphoreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/util/SemaphoreTest.java
+END
+LockTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/util/LockTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/util/AllTests.java
+END
+BooleanCompressorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/util/BooleanCompressorTest.java
+END
+ListToolsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/util/ListToolsTest.java
+END
+StopWatchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/util/StopWatchTest.java
+END
+BlowfishTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/398/columba/trunk/core/src/test/java/org/columba/core/util/BlowfishTest.java
+END

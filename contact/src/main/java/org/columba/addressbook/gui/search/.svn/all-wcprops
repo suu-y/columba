@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/193/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/search
+END
+BasicResultPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/34/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/search/BasicResultPanel.java
+END
+SearchResultList.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/193/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/search/SearchResultList.java
+END
+ComplexResultPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/171/columba/trunk/contact/src/main/java/org/columba/addressbook/gui/search/ComplexResultPanel.java
+END

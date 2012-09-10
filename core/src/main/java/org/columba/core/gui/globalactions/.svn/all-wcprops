@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/columba/!svn/ver/230/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions
+END
+ShowContextSpecificHelpAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/ShowContextSpecificHelpAction.java
+END
+CloseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/116/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/CloseAction.java
+END
+ShowFAQAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/ShowFAQAction.java
+END
+SelectAllAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/116/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/SelectAllAction.java
+END
+ExitAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/116/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/ExitAction.java
+END
+CopyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/116/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/CopyAction.java
+END
+SwitchPerspectiveSubmenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/SwitchPerspectiveSubmenu.java
+END
+FindAgainAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/FindAgainAction.java
+END
+ShowLicenseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/ShowLicenseAction.java
+END
+OpenNewAddressbookWindowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/OpenNewAddressbookWindowAction.java
+END
+WorkOfflineAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/WorkOfflineAction.java
+END
+ShowHomepageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/ShowHomepageAction.java
+END
+BeanshellManagerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/BeanshellManagerAction.java
+END
+ShowHelpAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/ShowHelpAction.java
+END
+PluginManagerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/197/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/PluginManagerAction.java
+END
+NewSubmenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/NewSubmenu.java
+END
+OpenProfileManagerDialogAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/OpenProfileManagerDialogAction.java
+END
+ViewToolbarAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/ViewToolbarAction.java
+END
+DeleteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/DeleteAction.java
+END
+ShowBugDatabaseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/ShowBugDatabaseAction.java
+END
+ShowProjectPageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/ShowProjectPageAction.java
+END
+OpenNewWindowSubmenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/OpenNewWindowSubmenu.java
+END
+UndoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/116/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/UndoAction.java
+END
+OpenExternalToolsDialogAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/OpenExternalToolsDialogAction.java
+END
+ShowHideViewSubmenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/ShowHideViewSubmenu.java
+END
+OpenNewMailWindowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/OpenNewMailWindowAction.java
+END
+DonateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/DonateAction.java
+END
+PasteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/116/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/PasteAction.java
+END
+GlobalOptionsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/GlobalOptionsAction.java
+END
+ViewLogAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/230/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/ViewLogAction.java
+END
+PrintSetupAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/PrintSetupAction.java
+END
+CancelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/CancelAction.java
+END
+RedoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/116/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/RedoAction.java
+END
+AboutDialogAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/AboutDialogAction.java
+END
+CutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/116/columba/trunk/core/src/main/java/org/columba/core/gui/globalactions/CutAction.java
+END

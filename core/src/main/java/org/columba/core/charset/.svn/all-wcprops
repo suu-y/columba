@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/columba/!svn/ver/48/columba/trunk/core/src/main/java/org/columba/core/charset
+END
+CharsetListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/charset/CharsetListener.java
+END
+CharsetOwnerInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/charset/CharsetOwnerInterface.java
+END
+CharsetEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/columba/!svn/ver/48/columba/trunk/core/src/main/java/org/columba/core/charset/CharsetEvent.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/charset/package.html
+END

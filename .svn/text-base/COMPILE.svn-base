@@ -1,0 +1,8 @@
+You need Ant to compile Columba (http://ant.apache.org).
+
+o Building Columba:
+  bash# ant
+
+ To get more information on all defined ant tasks:
+  bash# ant -p
+  

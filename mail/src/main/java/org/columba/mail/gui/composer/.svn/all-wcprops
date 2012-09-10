@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/columba/!svn/ver/444/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer
+END
+AccountController.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/329/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/AccountController.java
+END
+IComposerModelChangedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/262/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/IComposerModelChangedListener.java
+END
+ComposerAttachmentTransferHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/ComposerAttachmentTransferHandler.java
+END
+SubjectController.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/329/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/SubjectController.java
+END
+ComposerModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/423/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/ComposerModel.java
+END
+OpenAttachmentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/OpenAttachmentAction.java
+END
+TextEditorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/139/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/TextEditorPanel.java
+END
+PriorityView.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/422/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/PriorityView.java
+END
+AttachmentMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/AttachmentMenu.java
+END
+AbstractEditorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/262/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/AbstractEditorController.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/package.html
+END
+HeaderView.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/HeaderView.java
+END
+AttachmentView.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/AttachmentView.java
+END
+ComposerModelChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/262/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/ComposerModelChangedEvent.java
+END
+PriorityController.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/PriorityController.java
+END
+ComposerSpellCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/ComposerSpellCheck.java
+END
+AccountView.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/329/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/AccountView.java
+END
+SubjectView.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/329/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/SubjectView.java
+END
+ComposerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/329/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/ComposerController.java
+END
+HeaderController.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/421/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/HeaderController.java
+END
+EmailNameAutoCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/EmailNameAutoCompleter.java
+END
+AttachmentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/AttachmentController.java
+END
+AttachmentActionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/AttachmentActionListener.java
+END
+SignatureView.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/135/columba/trunk/mail/src/main/java/org/columba/mail/gui/composer/SignatureView.java
+END

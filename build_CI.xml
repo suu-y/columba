@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<project name="columba" basedir="." default="build">
+	<description>
+        This is the Columba Continous Integration build file. It depends on an installed version of
+        install4j (http://www.ej-technologies.com/products/install4j/overview.html)
+        in path /opt/install4j.
+        
+        It makes use of the existing build.xml file for creating a columba.jar archive and
+        on build_install4j.xml to create the release packages.
+        Note that the version information passed as commandline argument is applied
+        to the sourcecode and also to the names of the release packages.
+        
+        Quickstart:
+         ant -f build_CI.xml build
+         
+         This will generate release packages and uses the current time as filenames.
+         
+        Example:
+         ant -Dversion=1.4 -f build_CI.xml build
+
+		 This will use the given version number as filename. 
+		 
+        Have fun ... your Columba Team!
+    </description>
+
+<target name="build">
+   <ant antfile="build.xml" target="clean"/>
+   <ant antfile="build.xml" target="test"/>
+   <ant antfile="build_install4j.xml" target="install4j"/>
+</target>
+ 
+</project>

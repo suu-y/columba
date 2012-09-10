@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/columba/!svn/ver/430/columba/trunk/calendar/src/main/java/org/columba/calendar/parser
+END
+CalendarExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar/src/main/java/org/columba/calendar/parser/CalendarExporter.java
+END
+SyntaxException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar/src/main/java/org/columba/calendar/parser/SyntaxException.java
+END
+VCalendarModelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar/src/main/java/org/columba/calendar/parser/VCalendarModelFactory.java
+END
+XCSDocumentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/407/columba/trunk/calendar/src/main/java/org/columba/calendar/parser/XCSDocumentParser.java
+END
+DateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/407/columba/trunk/calendar/src/main/java/org/columba/calendar/parser/DateParser.java
+END
+CalendarImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/430/columba/trunk/calendar/src/main/java/org/columba/calendar/parser/CalendarImporter.java
+END
+ParserHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/257/columba/trunk/calendar/src/main/java/org/columba/calendar/parser/ParserHelper.java
+END

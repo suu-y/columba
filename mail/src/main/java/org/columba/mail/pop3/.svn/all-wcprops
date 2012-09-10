@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/columba/!svn/ver/300/columba/trunk/mail/src/main/java/org/columba/mail/pop3
+END
+POP3ServerCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/pop3/POP3ServerCollection.java
+END
+POP3HeaderBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/pop3/POP3HeaderBinding.java
+END
+POP3Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/158/columba/trunk/mail/src/main/java/org/columba/mail/pop3/POP3Server.java
+END
+POP3Store.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/columba/!svn/ver/199/columba/trunk/mail/src/main/java/org/columba/mail/pop3/POP3Store.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/pop3/package.html
+END

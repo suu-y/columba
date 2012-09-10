@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/267/columba/trunk/core/src/main/java/org/columba/core/gui/docking
+END
+DockableView.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/267/columba/trunk/core/src/main/java/org/columba/core/gui/docking/DockableView.java
+END
+XMLPersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/docking/XMLPersister.java
+END
+TitleBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/214/columba/trunk/core/src/main/java/org/columba/core/gui/docking/TitleBar.java
+END
+DockableRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/docking/DockableRegistry.java
+END
+DockingPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/columba/!svn/ver/214/columba/trunk/core/src/main/java/org/columba/core/gui/docking/DockingPanel.java
+END

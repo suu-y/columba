@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/columba/!svn/ver/211/columba/trunk/core/src/main/java/org/columba/core/gui/action
+END
+CRadioButtonMenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/action/CRadioButtonMenuItem.java
+END
+AbstractColumbaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/211/columba/trunk/core/src/main/java/org/columba/core/gui/action/AbstractColumbaAction.java
+END
+AbstractSelectableAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/action/AbstractSelectableAction.java
+END
+CCheckBoxMenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/action/CCheckBoxMenuItem.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/action/package.html
+END

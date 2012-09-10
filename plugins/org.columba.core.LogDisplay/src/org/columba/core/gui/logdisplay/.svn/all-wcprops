@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.core.LogDisplay/src/org/columba/core/gui/logdisplay
+END
+LogRecordPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.core.LogDisplay/src/org/columba/core/gui/logdisplay/LogRecordPanel.java
+END
+LogPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.core.LogDisplay/src/org/columba/core/gui/logdisplay/LogPanel.java
+END
+LogDisplayFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.core.LogDisplay/src/org/columba/core/gui/logdisplay/LogDisplayFrame.java
+END
+LogRecordListRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.core.LogDisplay/src/org/columba/core/gui/logdisplay/LogRecordListRenderer.java
+END
+DisplayLogAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.core.LogDisplay/src/org/columba/core/gui/logdisplay/DisplayLogAction.java
+END
+LogRecordList.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/columba/!svn/ver/24/columba/trunk/plugins/org.columba.core.LogDisplay/src/org/columba/core/gui/logdisplay/LogRecordList.java
+END

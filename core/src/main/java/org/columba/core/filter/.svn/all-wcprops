@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/columba/!svn/ver/151/columba/trunk/core/src/main/java/org/columba/core/filter
+END
+FilterActionList.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/columba/!svn/ver/151/columba/trunk/core/src/main/java/org/columba/core/filter/FilterActionList.java
+END
+FilterList.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/151/columba/trunk/core/src/main/java/org/columba/core/filter/FilterList.java
+END
+FilterAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/columba/!svn/ver/151/columba/trunk/core/src/main/java/org/columba/core/filter/FilterAction.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/151/columba/trunk/core/src/main/java/org/columba/core/filter/Filter.java
+END
+AbstractFilterAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/151/columba/trunk/core/src/main/java/org/columba/core/filter/AbstractFilterAction.java
+END
+FilterCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/151/columba/trunk/core/src/main/java/org/columba/core/filter/FilterCriteria.java
+END
+AbstractFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/151/columba/trunk/core/src/main/java/org/columba/core/filter/AbstractFilter.java
+END
+FilterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/filter/FilterFactory.java
+END
+FilterRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/151/columba/trunk/core/src/main/java/org/columba/core/filter/FilterRule.java
+END

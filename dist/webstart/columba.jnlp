@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- JNLP File for Columba -->
+<jnlp
+ spec="1.0+"
+ codebase="@codebase@"
+ href="columba.jnlp">
+ <information>
+   <title>Columba</title>
+   <vendor>Free Software (MPL1.1)</vendor>
+   <homepage href="http://columbamail.org/"/>
+   <description>Columba Email Client</description>
+   <description kind="short">Java Email Client</description>
+   <icon href="images/icon64.gif"/>
+   <offline-allowed/>
+ </information>
+ <security>
+     <all-permissions/>
+ </security>
+ <resources>
+<j2se version="1.5+" />
+    <property name="apple.laf.useScreenMenuBar" value="true" />
+    <property name="apple.awt.showGrowBox" value="true" />
+
+   <jar href="columba.jar"/>
+
+   <jar href="@ristretto@"/>
+   <jar href="@jargs@"/>
+   <jar href="@jwizz@"/>
+   <jar href="@plastic@"/>
+   <jar href="@usermanual@"/>
+   <jar href="@forms@"/>
+   <jar href="@jscf@"/>
+   <jar href="@jdom@"/>
+   <jar href="@frapuccino@"/>
+   <jar href="@lucene@"/>
+   <jar href="@jpim@"/>
+   <jar href="@macchiato@"/>
+   <jar href="@je@"/>
+   <jar href="@flexdock@"/>
+   <jar href="@bsh@"/>
+   <jar href="@jython@"/>
+   <jar href="@groovy@"/>
+   <jar href="@commons.logging@"/>
+   <jar href="@ical4j@"/>
+   <jar href="@migcalendar@"/>
+   <jar href="@swingx@"/>
+   <jar href="@antlr@" />
+   <jar href="@asm-attrs@" />
+   <jar href="@asm@" />
+   <jar href="@cglib@" />
+   <jar href="@commons-collections@" />
+   <jar href="@commons-logging@" />
+   <jar href="@dom4j@" />
+   <jar href="@ehcache@" />
+   <jar href="@ejb-persistence@" />
+   <jar href="@hibernate3@" />
+   <jar href="@hibernate-annotations@" />
+   <jar href="@hibernate-entitymanager@" />
+   <jar href="@hsqldb@" />
+   <jar href="@javassist@" />
+   <jar href="@jboss-archive-browsing@" />
+   <jar href="@jta@" />
+   
+   <jar href="@quaqua@" />
+   
+   <!-- JavaHelp is signed by SUN already. -->
+   <!-- Therefore, it can't be in the same jnlp file -->
+   <!-- because it is signed by someone else -->
+     
+   <extension href="javahelp.jnlp" />   
+   
+ </resources>
+ <resources os="Windows">
+   <!-- JNIWrapper is signed by jniwrapper.com already. -->
+   <!-- Therefore, it can't be in the same jnlp file -->
+   <!-- because it is signed by someone else -->
+   
+   <extension name="jniwrapper" href="jniwrapper.jnlp"/>
+   <jar href="native/win32/@jdic@"/>
+   <nativelib href="native/win32/@native@"/>
+ </resources>
+ <resources os="Linux">
+   <jar href="native/linux/@jdic@"/>
+   <nativelib href="native/linux/@native@"/>
+ </resources>
+ <application-desc/>
+</jnlp>

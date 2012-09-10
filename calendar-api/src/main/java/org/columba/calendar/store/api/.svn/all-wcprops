@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/columba/!svn/ver/434/columba/trunk/calendar-api/src/main/java/org/columba/calendar/store/api
+END
+ICalendarStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/434/columba/trunk/calendar-api/src/main/java/org/columba/calendar/store/api/ICalendarStore.java
+END
+ICalendarStoreFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar-api/src/main/java/org/columba/calendar/store/api/ICalendarStoreFactory.java
+END
+IStoreListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar-api/src/main/java/org/columba/calendar/store/api/IStoreListener.java
+END
+StoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar-api/src/main/java/org/columba/calendar/store/api/StoreException.java
+END
+StoreEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/22/columba/trunk/calendar-api/src/main/java/org/columba/calendar/store/api/StoreEvent.java
+END

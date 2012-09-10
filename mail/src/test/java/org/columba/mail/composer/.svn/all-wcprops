@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/composer
+END
+SubjectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/composer/SubjectTest.java
+END
+ToTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/composer/ToTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/columba/!svn/ver/399/columba/trunk/mail/src/test/java/org/columba/mail/composer/AllTests.java
+END

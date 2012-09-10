@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/folderoptions
+END
+SelectionOptionsPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/folderoptions/SelectionOptionsPlugin.java
+END
+SortingOptionsPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/folderoptions/SortingOptionsPlugin.java
+END
+ThreadedViewOptionsPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/folderoptions/ThreadedViewOptionsPlugin.java
+END
+ColumnOptionsPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/folderoptions/ColumnOptionsPlugin.java
+END
+AbstractFolderOptionsPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folderoptions/AbstractFolderOptionsPlugin.java
+END
+FolderOptionsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folderoptions/FolderOptionsController.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folderoptions/package.html
+END

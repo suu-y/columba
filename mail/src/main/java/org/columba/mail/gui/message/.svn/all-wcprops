@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/columba/!svn/ver/441/columba/trunk/mail/src/main/java/org/columba/mail/gui/message
+END
+MessageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/439/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/MessageController.java
+END
+MessageSelectionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/MessageSelectionEvent.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/message/package.html
+END

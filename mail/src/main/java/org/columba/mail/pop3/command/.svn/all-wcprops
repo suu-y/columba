@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/columba/!svn/ver/300/columba/trunk/mail/src/main/java/org/columba/mail/pop3/command
+END
+FetchNewMessagesCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/columba/!svn/ver/295/columba/trunk/mail/src/main/java/org/columba/mail/pop3/command/FetchNewMessagesCommand.java
+END
+AddPOP3MessageCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/300/columba/trunk/mail/src/main/java/org/columba/mail/pop3/command/AddPOP3MessageCommand.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/pop3/command/package.html
+END

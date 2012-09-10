@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/columba/!svn/ver/275/columba/trunk/mail/src/main/java/org/columba/mail/folder/outbox
+END
+SendListManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/outbox/SendListManager.java
+END
+OutboxHeaderBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/outbox/OutboxHeaderBinding.java
+END
+OutboxFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/columba/!svn/ver/275/columba/trunk/mail/src/main/java/org/columba/mail/folder/outbox/OutboxFolder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/folder/outbox/package.html
+END

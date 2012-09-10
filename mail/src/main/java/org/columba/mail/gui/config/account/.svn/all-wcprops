@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/columba/!svn/ver/230/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/account
+END
+SpecialFoldersPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/35/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/account/SpecialFoldersPanel.java
+END
+SpamPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/columba/!svn/ver/35/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/account/SpamPanel.java
+END
+AuthenticationListCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/account/AuthenticationListCellRenderer.java
+END
+OutgoingServerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/230/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/account/OutgoingServerPanel.java
+END
+DefaultPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/account/DefaultPanel.java
+END
+EditSignatureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/account/EditSignatureAction.java
+END
+ImapAttributPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/account/ImapAttributPanel.java
+END
+SecurityPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/account/SecurityPanel.java
+END
+IdentityPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/account/IdentityPanel.java
+END
+IncomingServerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/230/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/account/IncomingServerPanel.java
+END
+AccountDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/account/AccountDialog.java
+END
+PopAttributPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/account/PopAttributPanel.java
+END
+ReceiveOptionsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/columba/!svn/ver/155/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/account/ReceiveOptionsPanel.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/columba/!svn/ver/23/columba/trunk/mail/src/main/java/org/columba/mail/gui/config/account/package.html
+END

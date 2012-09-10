@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/columba/!svn/ver/328/columba/trunk/core/src/main/java/org/columba/core/gui/dialog
+END
+DateChooserDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/columba/!svn/ver/328/columba/trunk/core/src/main/java/org/columba/core/gui/dialog/DateChooserDialog.java
+END
+ErrorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/dialog/ErrorDialog.java
+END
+FontSelectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/columba/!svn/ver/22/columba/trunk/core/src/main/java/org/columba/core/gui/dialog/FontSelectionDialog.java
+END

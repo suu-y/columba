@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <parent>
+    <artifactId>plugins</artifactId>
+    <groupId>org.columba</groupId>
+    <version>1.4</version>
+  </parent>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.columba.plugins</groupId>
+  <artifactId>org.columba.core.KunststoffLookAndFeel</artifactId>
+  <name>Kunststoff Look and Feel plugin</name>
+  <version>1.0</version>
+  <description></description>
+
+  <build>
+    <plugins>
+      <plugin>
+        <artifactId>maven-assembly-plugin</artifactId>
+      </plugin>
+    </plugins>
+  </build>
+
+  <dependencies>
+    <dependency>
+      <groupId>com.incors.plaf</groupId>
+      <artifactId>kunststoff</artifactId>
+      <version>1.0</version>
+      <scope>system</scope>
+      <systemPath>${basedir}/lib/kunststoff.jar</systemPath>
+    </dependency>
+  </dependencies>
+
+</project>
