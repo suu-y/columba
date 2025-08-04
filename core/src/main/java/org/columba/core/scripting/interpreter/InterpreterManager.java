@@ -87,7 +87,7 @@ public class InterpreterManager
 
         /* find out if the interpreter is already registered */
         /* if so, remove it */
-        /*XXX this is not thread-safe, though luck. It isn't supposed to be. */
+        System.out.println("SATD ID: 156");
         for (Iterator it = interpreters.entrySet().iterator(); it.hasNext();)
         {
 

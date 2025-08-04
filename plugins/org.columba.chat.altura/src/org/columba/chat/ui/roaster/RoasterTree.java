@@ -259,10 +259,10 @@ public class RoasterTree extends JTree implements IRoasterController,
 			try {
 				SwingUtilities.invokeAndWait(updateAComponent);
 			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
+				System.out.println("SATD ID: 26");
 				e.printStackTrace();
 			} catch (InvocationTargetException e) {
-				// TODO Auto-generated catch block
+				System.out.println("SATD ID: 7");
 				e.printStackTrace();
 			}
 

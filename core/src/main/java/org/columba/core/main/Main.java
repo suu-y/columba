@@ -48,7 +48,7 @@ public class Main {
 		// loading extensions. These classloaders don't have the same permission
 		// settings anymore.
 
-		// WORKAROUND:
+		System.out.println("SATD ID: 137");
 		// 
 		// System.setSecurityManager(null);
 		//

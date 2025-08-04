@@ -46,13 +46,13 @@ public class Options
 
     public int getPollInterval()
     {
-        // TODO: key can't be null
+        System.out.println("SATD ID: 5");
         return getIntegerWithDefault(POLLING_INTERVAL_PATH, null, DEFAULT_POOLING_INTERVAL);
     }
 
     public boolean isPollingEnabled()
     {
-        // TODO: key can't be null
+        System.out.println("SATD ID: 93");
         return getBooleanWithDefault(POLLING_ENABLED_PATH, null, true);
     }
 

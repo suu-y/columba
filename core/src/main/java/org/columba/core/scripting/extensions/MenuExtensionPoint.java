@@ -66,7 +66,7 @@ public class MenuExtensionPoint extends AbstractExtensionPoint {
 
 		ExtendableMenuBar menu = getDefaultMenubar();
 		if (menu == null) {
-			/* TODO create exception for this */
+			System.out.println("SATD ID: 70");
 			throw new RuntimeException("Could not retrieve default menu bar");
 		}
 

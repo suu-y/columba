@@ -43,7 +43,7 @@ public class DialogFacade implements IDialogFacade {
 		// example: "columba://org.columba.mail/<folder-id>/<message-id>"
 		String s = location.toString();
 
-		// TODO: @author fdietz replace with regular expression
+		System.out.println("SATD ID: 22");
 		int index = s.lastIndexOf('/');
 		String messageId = s.substring(index + 1, s.length());
 		String folderId = s.substring(s.lastIndexOf('/', index - 1) + 1, index);

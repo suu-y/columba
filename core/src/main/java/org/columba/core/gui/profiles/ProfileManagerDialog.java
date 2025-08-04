@@ -343,7 +343,7 @@ public class ProfileManagerDialog extends JDialog implements ActionListener,
 				}
 			}
 		} else if (action.equals("IMPORT")) {
-			// TODO (@author fdietz): add import feature
+			System.out.println("SATD ID: 15");
 			/*
 			 * JFileChooser chooser = new JFileChooser();
 			 * chooser.addChoosableFileFilter(new FileFilter() { public boolean
@@ -359,7 +359,7 @@ public class ProfileManagerDialog extends JDialog implements ActionListener,
 			 * chooser.getSelectedFile(); }
 			 */
 		} else if (action.equals("EXPORT")) {
-			// TODO (@author fdietz): add export feature
+			System.out.println("SATD ID: 178");
 		}
 	}
 

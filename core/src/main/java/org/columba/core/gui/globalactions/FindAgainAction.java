@@ -37,6 +37,6 @@ public class FindAgainAction extends AbstractColumbaAction {
     }
 
     public void actionPerformed(ActionEvent e) {
-        //TODO (@author fdietz): implement
+        System.out.println("SATD ID: 66");
     }
 }

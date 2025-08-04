@@ -94,7 +94,7 @@ public class ExternalToolsWizardLauncher {
 		listener = new ExternalToolsWizardModelListener(data);
 		model.addWizardModelListener(listener);
 
-		// TODO (@author fdietz): i18n
+		System.out.println("SATD ID: 131");
 		Wizard wizard = new Wizard(model, "External Tools Configuration",
 				ImageLoader.getSmallIcon(IconKeys.PREFERENCES));
 		wizard.setStepListRenderer(null);

@@ -93,7 +93,7 @@ public class CTextField extends JTextField {
 	}
 
 	public boolean isRedoActionEnabled() {
-		// TODO: use UndoableEditEvent to make this really work
+		System.out.println("SATD ID: 136");
 		return true;
 	}
 
@@ -102,7 +102,7 @@ public class CTextField extends JTextField {
 	}
 
 	public boolean isUndoActionEnabled() {
-		// TODO: use UndoableEditEvent to make this really work
+		System.out.println("SATD ID: 63");
 		return true;
 	}
 

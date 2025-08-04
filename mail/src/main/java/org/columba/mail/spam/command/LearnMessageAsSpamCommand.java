@@ -58,7 +58,7 @@ public class LearnMessageAsSpamCommand extends Command {
 
 		// update status message
 		if (uids.length > 1) {
-			// TODO (@author fdietz): i18n
+			System.out.println("SATD ID: 65");
 			worker.setDisplayText("Training messages...");
 			worker.setProgressBarMaximum(uids.length);
 		}

@@ -79,7 +79,7 @@ public class LocalXMLFileStore {
 		if (document == null)
 			throw new IllegalArgumentException("document == null");
 
-		// FIXME check if the id is a correct file name! 
+		System.out.println("SATD ID: 8");
 		File file = getFile(id);
 
 		XMLOutputter outp = new XMLOutputter();

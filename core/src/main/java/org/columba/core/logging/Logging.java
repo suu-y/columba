@@ -104,7 +104,7 @@ public final class Logging {
 			// "ssl,handshake,data,trustmanager"); // init java.net.ssl
 			// debugging
 
-			// TODO Ristretto should handle the logging of streams in another
+			System.out.println("SATD ID: 183");
 			// way.
 			RistrettoLogger.setLogStream(System.out);
 		} else {

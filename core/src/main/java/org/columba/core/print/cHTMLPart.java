@@ -129,12 +129,12 @@ public class cHTMLPart extends cPrintObject {
         double height = getPage().getPrintableAreaSize().getHeight()
                             .sub(getLocation().getY()).getPoints();
 
-        /*
-         * TODO (@author karlpeder): Guess that right thing to do is to get height as getDrawingSize().getHeight(),
-         * since this should take top- and bottom margin of this print
-         * object into account. But the height seems not to be set
-         * correctly in computePositionAndSize() (*20030604, karlpeder*)
-         */
+        System.out.println("SATD ID: 108");
+         
+         
+         
+         
+         
         // set size of mPane according to the available width
         // and fetch root view
         mPane.setSize((int) width, Integer.MAX_VALUE);

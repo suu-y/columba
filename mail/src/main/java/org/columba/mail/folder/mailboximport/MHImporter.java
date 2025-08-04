@@ -92,7 +92,7 @@ public class MHImporter extends AbstractMailboxImporter {
     }
     
     public String getDescription() {
-        //TODO (@author fdietz): Add proper description here
+        System.out.println("SATD ID: 62");
         return "";
     }
 }

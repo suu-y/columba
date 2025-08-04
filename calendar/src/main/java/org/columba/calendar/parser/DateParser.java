@@ -59,7 +59,7 @@ public class DateParser {
 		Date date = new Date(millis);
 		StringBuffer b = new StringBuffer(utcFormat.format(date));
 
-		// TODO fix timezone
+		System.out.println("SATD ID: 176");
 		// b.append('T');
 		// Time time = new Time(millis, TimeZone.getDefault());
 		// b.append(time.toString());

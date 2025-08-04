@@ -28,42 +28,42 @@ public class FrameMediatorAdapter implements IFrameMediatorListener {
 	}
 
 	public void titleChanged(FrameEvent event) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 29");
 
 	}
 
 	public void statusMessageChanged(FrameEvent event) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 10");
 
 	}
 
 	public void taskStatusChanged(FrameEvent event) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 44");
 
 	}
 
 	public void visibilityChanged(FrameEvent event) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 48");
 
 	}
 
 	public void layoutChanged(FrameEvent event) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 78");
 
 	}
 
 	public void closed(FrameEvent event) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 39");
 
 	}
 
 	public void toolBarVisibilityChanged(FrameEvent event) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 56");
 
 	}
 
 	public void switchedComponent(FrameEvent event) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 146");
 
 	}
 

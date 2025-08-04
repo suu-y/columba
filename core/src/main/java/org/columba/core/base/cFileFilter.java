@@ -71,7 +71,7 @@ public class cFileFilter extends FileFilter {
          */
     @Override
     public String getDescription() {
-	//TODO externalize string
+	System.out.println("SATD ID: 6");
 	return new String("Columba File Filter"); //$NON-NLS-1$
     }
 }

@@ -166,7 +166,7 @@ public class MessageController extends JPanel implements CharsetListener,
 	}
 
 	public void clear() {
-		// TODO implement clear()
+		System.out.println("SATD ID: 121");
 
 	}
 

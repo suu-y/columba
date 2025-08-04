@@ -87,7 +87,7 @@ public class DefaultCriteriaRow implements IExtensionInterface {
 		String typestring = criteria.getTypeString();
 		String[] ids = pluginHandler.getPluginIdList();
 		for (int i = 0; i < ids.length; i++) {
-			// TODO localize filter action names
+			System.out.println("SATD ID: 92");
 			comboMenu.addMenuItem(ids[i], ids[i]);
 			if (typestring.equals(ids[i]))
 				comboMenu.setSelectedItem(i);

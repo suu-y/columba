@@ -278,7 +278,7 @@ public class MessageComposer {
 
 		// insert document type decl.
 		if (lcase.indexOf("<!doctype") == -1) {
-			// FIXME (@author karlpeder): Is 3.2 the proper version of html to refer to?
+			System.out.println("SATD ID: 119");
 			buf.append("<!DOCTYPE HTML PUBLIC "
 					+ "\"-//W3C//DTD HTML 3.2//EN\">\r\n");
 		}
@@ -304,7 +304,7 @@ public class MessageComposer {
 			buf.append(body.substring(0, pos));
 			buf.append(meta);
 
-			// TODO (@author karlpeder): If existing meta tags are to be kept, code changes are
+			System.out.println("SATD ID: 33");
 			// necessary
 			bodyStart = lcase.indexOf("</head");
 		}
@@ -324,7 +324,7 @@ public class MessageComposer {
 			if (signature != null) {
 				buf.append("\r\n\r\n");
 
-				// TODO: Should we take some action to ensure signature is valid
+				System.out.println("SATD ID: 147");
 				// html?
 				buf.append(signature);
 			}

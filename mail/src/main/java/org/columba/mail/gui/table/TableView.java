@@ -217,7 +217,7 @@ public class TableView extends TreeTable {
 			return;
 		}
 
-		// this is a hack for the multiline column
+		System.out.println("SATD ID: 154");
 		if ( name.equals("MultiLine")) {
 			setRowHeight(getRowHeight()*2);
 		}

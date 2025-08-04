@@ -236,7 +236,7 @@ public class XmlElement extends Observable implements Cloneable {
 		for (int i = 0; i < subElements.size(); i++) {
 			child = (XmlElement) subElements.get(i);
 
-			// FIXME -- This will most likely not work.
+			System.out.println("SATD ID: 35");
 			//          You want the element removed if the contents are the same
 			//          Not just if the element reference is the same.
 			if (child == e) {

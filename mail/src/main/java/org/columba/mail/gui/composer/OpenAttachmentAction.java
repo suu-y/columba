@@ -30,8 +30,8 @@ public class OpenAttachmentAction extends AbstractAction {
 		MimePart mimePart = view.get(index);
 		MimeType type = mimePart.getHeader().getMimeType();
 		if( type.getType().equals("message") && type.getSubtype().equals("rfc822") ) {
-			//TODO: Open in message frame
-			//TODO: Handle also message attachments from OpenInComposer action
+			System.out.println("SATD ID: 122");
+			System.out.println("SATD ID: 83");
 		} else if( mimePart instanceof LocalMimePart && ((LocalMimePart)mimePart).getBody() instanceof FileSource){
 			File file = ((FileSource)((LocalMimePart)mimePart).getBody()).getFile();		
 			

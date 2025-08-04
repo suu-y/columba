@@ -183,22 +183,22 @@ public class SignatureView extends JPanel implements MouseListener,
 	}
 
 	public void mouseEntered(MouseEvent e) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 126");
 
 	}
 
 	public void mouseExited(MouseEvent e) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 177");
 
 	}
 
 	public void mousePressed(MouseEvent e) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 150");
 
 	}
 
 	public void mouseReleased(MouseEvent e) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 0");
 
 	}
 

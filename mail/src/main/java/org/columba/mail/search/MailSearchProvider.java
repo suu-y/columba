@@ -416,7 +416,7 @@ public class MailSearchProvider implements ISearchProvider {
 			VirtualFolder folder = idx.folder;
 			Object messageId = idx.messageId;
 
-			// TODO @author fdietz: ensure that we don't fetch individual
+			System.out.println("SATD ID: 53");
 			// headers
 			// to reduce client/server roundtrips
 

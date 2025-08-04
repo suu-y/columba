@@ -99,13 +99,13 @@ public abstract class AbstractMailboxImporter implements IExtensionInterface{
      * and handles exceptions.
      */
     public void run(IWorkerStatusController worker) {
-        //TODO (@author fdietz): i18n
+        System.out.println("SATD ID: 38");
         worker.setDisplayText("Importing messages...");
 
         importMailbox(worker);
 
         if (getCount() == 0) {
-            //TODO (@author fdietz): i18n
+            System.out.println("SATD ID: 158");
             JOptionPane.showMessageDialog(FrameManager.getInstance()
 					.getActiveFrame(),
                 "Message import failed! No messages were added to the folder.\n" +
@@ -116,7 +116,7 @@ public abstract class AbstractMailboxImporter implements IExtensionInterface{
 
             return;
         } else {
-            //TODO (@author fdietz): i18n
+            System.out.println("SATD ID: 112");
             JOptionPane.showMessageDialog(null,
                 "Message import was successful!", "Information",
                 JOptionPane.INFORMATION_MESSAGE,
@@ -142,7 +142,7 @@ public abstract class AbstractMailboxImporter implements IExtensionInterface{
             try {
                 importMailboxFile(listing[i], worker, getDestinationFolder());
             } catch (Exception ex) {
-                //TODO (@author fdietz): i18n
+                System.out.println("SATD ID: 75");
                 int result = JOptionPane.showConfirmDialog(
                 		FrameManager.getInstance().getActiveFrame(),
                     "An error occured while importing a message. Try again?",
@@ -174,7 +174,7 @@ public abstract class AbstractMailboxImporter implements IExtensionInterface{
 
         counter++;
 
-        //TODO (@author fdietz): i18n
+        System.out.println("SATD ID: 13");
         worker.setDisplayText("Importing messages: " + getCount());
     }
 

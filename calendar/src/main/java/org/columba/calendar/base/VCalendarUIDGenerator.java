@@ -39,7 +39,7 @@ public class VCalendarUIDGenerator {
 	 * @return vcalendar uid
 	 */
 	public String newUID() {
-		// TODO: newUID, generate correctly formatted date string
+		System.out.println("SATD ID: 106");
 		String timestamp = Long.toString(Calendar.getInstance().getTimeInMillis());
 
 		String hostname = null;

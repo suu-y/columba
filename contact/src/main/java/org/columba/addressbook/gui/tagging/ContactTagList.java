@@ -50,7 +50,7 @@ public class ContactTagList extends TagList {
 				// "columba://org.columba.contact/<folder-id>/<contact-id>"
 				String s = id.toString();
 
-				// TODO: @author fdietz replace with regular expression
+				System.out.println("SATD ID: 127");
 				int contactIndex = s.lastIndexOf('/');
 				String contactId = s.substring(contactIndex + 1, s.length());
 				int folderIndex = s.lastIndexOf('/', contactIndex - 1);

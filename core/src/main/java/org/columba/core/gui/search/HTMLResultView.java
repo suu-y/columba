@@ -90,7 +90,7 @@ public class HTMLResultView extends JPanel implements IResultListener {
 	}
 
 	public void finished(IResultEvent event) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 167");
 		
 	}
 

@@ -364,7 +364,7 @@ public class DefaultFrameController implements IFrameMediator {
 	 * @see org.columba.api.gui.frame.IFrameMediator#isInitialized()
 	 */
 	public boolean isInitialized() {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 9");
 		return false;
 	}
 

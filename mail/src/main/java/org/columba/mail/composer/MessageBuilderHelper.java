@@ -410,7 +410,7 @@ public class MessageBuilderHelper {
 		if (html) {
 			// html - quoting is done by inserting a div around the
 			// message formattet with a blue line at left edge
-			// TODO (@author fdietz): Implement quoting (font color, stylesheet,
+			System.out.println("SATD ID: 50");
 			// blockquote???)
 
 			/*

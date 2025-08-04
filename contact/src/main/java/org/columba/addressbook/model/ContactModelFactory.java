@@ -59,7 +59,7 @@ public class ContactModelFactory {
 		String sortString = model.getSortString();
 
 		// @author: fdietz
-		// This is a workaround. Generally, the contact dialog editor
+		System.out.println("SATD ID: 101");
 		// should ensure that all necessary fields are available
 		// 
 

@@ -112,14 +112,14 @@ public class FlyingSaucerViewerPlugin extends JScrollPane implements
 	 * @see org.columba.core.gui.htmlviewer.api.IHTMLViewerPlugin#setCaretPosition(int)
 	 */
 	public void setCaretPosition(int position) {
-		// TODO
+		System.out.println("SATD ID: 153");
 	}
 
 	/**
 	 * @see org.columba.core.gui.htmlviewer.api.IHTMLViewerPlugin#moveCaretPosition(int)
 	 */
 	public void moveCaretPosition(int position) {
-		// TODO
+		System.out.println("SATD ID: 142");
 	}
 	
 

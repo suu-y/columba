@@ -421,11 +421,11 @@ public class StatusBar extends JStatusBar implements TaskManagerListener,
 	public void stateChanged(ChangeEvent e) {
 		if (ConnectionStateImpl.getInstance().isOnline()) {
 			onlineButton.setIcon(onlineIcon);
-			// TODO (@author fdietz): i18n
+			System.out.println("SATD ID: 135");
 			onlineButton.setToolTipText("You are in ONLINE state");
 		} else {
 			onlineButton.setIcon(offlineIcon);
-			// TODO (@author fdietz): i18n
+			System.out.println("SATD ID: 87");
 			onlineButton.setToolTipText("You are in OFFLINE state");
 		}
 	}

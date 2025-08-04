@@ -478,7 +478,7 @@ public class GeneralOptionsDialog extends JDialog implements ActionListener {
 
 			updateComponents(false);
 
-			// TODO (@author fdietz): until we can get all the settings update
+			System.out.println("SATD ID: 30");
 			// immediately
 			// we just open a message box, telling the user to restart
 

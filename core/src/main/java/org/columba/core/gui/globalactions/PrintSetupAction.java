@@ -40,6 +40,6 @@ public class PrintSetupAction extends AbstractColumbaAction {
      * @see java.awt.event.ActionListener#actionPerformed(java.awt.event.ActionEvent)
      */
     public void actionPerformed(ActionEvent evt) {
-        //TODO (@author fdietz): implement
+        System.out.println("SATD ID: 23");
     }
 }

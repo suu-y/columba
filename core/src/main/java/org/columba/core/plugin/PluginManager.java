@@ -302,7 +302,7 @@ public class PluginManager implements IPluginManager {
 		// Note: We intentionally don't remember internal plugins, because
 		// we don't want them to appear in the plugin manager currently.
 		// 
-		// TODO: improve plugin manager dialog to support internal plugins
+		System.out.println("SATD ID: 125");
 		// which can't be removed, etc.
 
 		// remember plugin metadata

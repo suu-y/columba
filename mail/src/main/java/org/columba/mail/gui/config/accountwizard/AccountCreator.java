@@ -73,7 +73,7 @@ class AccountCreator implements WizardModelListener {
 			imap.setString("user", (String) data
 					.getData("IncomingServer.login"));
 
-			// TODO (@author fdietz): All this code for creating a new
+			System.out.println("SATD ID: 88");
 			// IMAPRootFolder should
 			// be moved to a FolderFactory
 			// -> this way "path" would be handled in the factory, too
@@ -109,7 +109,7 @@ class AccountCreator implements WizardModelListener {
 			// inbox.getConfiguration().getRoot());
 			// folder = inbox;
 			// } catch (Exception e1) {
-			// // TODO Auto-generated catch block
+			System.out.println("SATD ID: 74");
 			// e1.printStackTrace();
 			// }
 

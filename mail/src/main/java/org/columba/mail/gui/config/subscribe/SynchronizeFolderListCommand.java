@@ -125,7 +125,7 @@ public class SynchronizeFolderListCommand extends Command {
 			}
 			
 			// If this folder has children add them
-			// TODO: In the future we should try to fetch additional children on demand
+			System.out.println("SATD ID: 84");
 			// when the tree of the dialog is opened
 			if (store.isSupported("CHILDREN")) {
 				if( info.getParameter(ListInfo.HASCHILDREN)) {

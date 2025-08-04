@@ -129,7 +129,7 @@ public class SecurityPanel extends DefaultPanel implements ActionListener {
 		builder.append(alwaysSignCheckBox, 3);
 		builder.nextLine();
 
-		//      TODO: reactivate when feature is supported
+		System.out.println("SATD ID: 134");
 		/*
 		 * builder.append(alwaysEncryptCheckBox, 3); builder.nextLine();
 		 */

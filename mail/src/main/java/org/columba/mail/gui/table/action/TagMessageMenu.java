@@ -136,7 +136,7 @@ public class TagMessageMenu extends TaggingMenu implements ISelectionListener {
 				.hasNext();) {
 
 			ITag tag = iter.next();
-			// TODO @author hubms: bad: if there is a icon it is tagged or
+			System.out.println("SATD ID: 111");
 			// not
 
 			// pass command to scheduler

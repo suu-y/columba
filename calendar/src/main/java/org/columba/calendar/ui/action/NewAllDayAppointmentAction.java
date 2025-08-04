@@ -42,7 +42,7 @@ public class NewAllDayAppointmentAction extends AbstractColumbaAction {
 	 * @see java.awt.event.ActionListener#actionPerformed(java.awt.event.ActionEvent)
 	 */
 	public void actionPerformed(ActionEvent e) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 96");
 
 	}
 }

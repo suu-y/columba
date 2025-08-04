@@ -160,7 +160,7 @@ public class ShutdownManager implements IShutdownManager {
 					} catch (Exception e) {
 						LOG.severe(e.getMessage());
 
-						// TODO (@author javaprog): better exception handling
+						System.out.println("SATD ID: 18");
 					}
 				}
 

@@ -57,7 +57,7 @@ public class MailTagList extends TagList {
 		// example: "columba://org.columba.mail/<folder-id>/<message-id>"
 		String s = uri;
 
-		// TODO: @author fdietz replace with regular expression
+		System.out.println("SATD ID: 181");
 		int index = s.lastIndexOf('/');
 		String messageId = s.substring(index + 1, s.length());
 		String folderId = s.substring(s.lastIndexOf('/', index - 1) + 1, index);
@@ -91,7 +91,7 @@ public class MailTagList extends TagList {
 			Collection<String> uriList = AssociationStore.getInstance()
 					.getAssociatedItems("tagging", result.getId());
 
-			// TODO @author hubms show if there is already a virtual folder for
+			System.out.println("SATD ID: 143");
 			// this tag
 			String uuid = new UUIDGenerator().newUUID();
 
@@ -120,7 +120,7 @@ public class MailTagList extends TagList {
 					taggedMessageFolder.add(pHeader, (IMailbox) r
 							.getSourceFolder(), r.getUids()[0]);
 				} catch (Exception e) {
-					// TODO Auto-generated catch block
+					System.out.println("SATD ID: 148");
 					e.printStackTrace();
 				}
 			}
@@ -128,7 +128,7 @@ public class MailTagList extends TagList {
 			// try {
 			// taggedMessageFolder.activate();
 			// } catch (Exception e1) {
-			// // TODO Auto-generated catch block
+			System.out.println("SATD ID: 162");
 			// e1.printStackTrace();
 			// }
 

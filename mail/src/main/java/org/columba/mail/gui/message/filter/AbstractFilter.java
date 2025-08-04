@@ -72,7 +72,7 @@ public abstract class AbstractFilter implements Filter {
         // this is needed to be able to open attachments of the decrypted
         // message
         
-        // TODO check if we have to manually set the folder/uid in 
+        System.out.println("SATD ID: 82");
         // message controller to make this work
    
         //messageController.setAttachmentSelectionReference(local);

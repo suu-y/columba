@@ -33,17 +33,17 @@ class CidURLConnection extends URLConnection {
     }
 
     public String getContentType() {
-        //TODO: Return content type according to the mime part in the mail
+        System.out.println("SATD ID: 81");
         return null;
     }
 
     public String getContentEncoding() {
-        //TODO: Return content encoding according to the mime part in the mail
+        System.out.println("SATD ID: 46");
         return null;
     }
 
     public InputStream getInputStream() throws IOException {
-        //TODO: Open stream from the mime part specified by contentID of the 
+        System.out.println("SATD ID: 141");
         //currently viewed mail
         return null;
     }

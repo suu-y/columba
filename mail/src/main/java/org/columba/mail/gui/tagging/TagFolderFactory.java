@@ -18,7 +18,7 @@ public class TagFolderFactory {
 		// get search folder
 		VirtualFolder tagFolder = new VirtualFolder("Tag Folder", folder);
 
-		// TODO: @author hubms check what is neccessary
+		System.out.println("SATD ID: 42");
 		// remove old filters
 		// searchFolder.getFilter().getFilterRule().removeAll();
 		// add filter criteria

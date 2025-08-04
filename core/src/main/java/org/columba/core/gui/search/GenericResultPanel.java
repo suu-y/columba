@@ -175,7 +175,7 @@ public class GenericResultPanel extends JXList implements IResultPanel {
 	}
 
 	public void finished(IResultEvent event) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 151");
 		
 	}
 }

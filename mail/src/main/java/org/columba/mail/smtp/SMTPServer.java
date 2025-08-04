@@ -198,7 +198,7 @@ public class SMTPServer implements Observer  {
 
 							// Authentication is not supported
 							if( errorCode == 504 ) {
-								//TODO: Add dialog to inform user that the smtp server
+								System.out.println("SATD ID: 60");
 								// does not support authentication
 								JOptionPane
 								.showMessageDialog(

@@ -179,7 +179,7 @@ public class ErrorDialog extends JDialog implements ActionListener {
 			stacktraceTextArea.setEditable(false);
 		}
 		
-		// TODO (@author fdietz): i18n
+		System.out.println("SATD ID: 71");
 		detailsButton = new JToggleButton("Details >>");
 		detailsButton.setSelected(false);
 		detailsButton.setActionCommand("DETAILS");

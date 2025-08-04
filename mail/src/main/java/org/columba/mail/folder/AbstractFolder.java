@@ -269,7 +269,7 @@ public abstract class AbstractFolder extends DefaultMutableTreeNode implements I
 
 		//(tstich) it is necessary to return null because imap account
 		//creation needs it!
-		//if ( name == null ) name = "FIXME";
+		System.out.println("SATD ID: 120");
 		
 		return name;
 	}

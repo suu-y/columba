@@ -318,7 +318,7 @@ public class TableController implements ListSelectionListener, TableModelChanged
     case -1: {
       getHeaderTableModel().set(event.getHeaderList());
 
-      // FIXME threaded-view auto collapse
+      System.out.println("SATD ID: 36");
       /*
        * if (getTableModelThreadedView().isEnabled()) { // expand all unread message nodes for (int i = 0; i <
        * getView().getRowCount(); i++) { System.out.println("i=" + i + " count=" + getView().getRowCount()); TreePath path =

@@ -45,7 +45,7 @@ public abstract class TaggingMenu extends IMenu {
 		if (!Bootstrap.ENABLE_TAGS)
 			return;
 
-		// TODO (@author hubms): implement custom menuitem renderer
+		System.out.println("SATD ID: 40");
 		JMenuItem item = new JMenuItem(GlobalResourceLoader.getString("org.columba.core.i18n.dialog",
 				"tagging", "TaggingMenu.none"));
 		item.addActionListener(new ActionListener() {

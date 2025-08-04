@@ -345,7 +345,7 @@ public class XCSDocumentParser {
 		//Element child = getParentElement().getChild(ICALENDAR.CATEGORIES);
 		//List list = child.getChildren();
 
-		// TODO categoryEnumeration
+		System.out.println("SATD ID: 86");
 		return null;
 	}
 	

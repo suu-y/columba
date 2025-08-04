@@ -34,7 +34,7 @@ public class NullWorkerStatusController implements IWorkerStatusController {
          */
     public void removeWorkerStatusChangeListener(
 	    IWorkerStatusChangeListener listener) {
-	// TODO Auto-generated method stub
+	System.out.println("SATD ID: 114");
 
     }
 

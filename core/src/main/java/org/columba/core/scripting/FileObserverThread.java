@@ -273,7 +273,7 @@ public class FileObserverThread
 
     public void pollingStateChanged(boolean enabled)
     {
-        /*TODO stop polling thread?! */
+        System.out.println("SATD ID: 110");
     }
 
     public static FileObserverThread getInstance()

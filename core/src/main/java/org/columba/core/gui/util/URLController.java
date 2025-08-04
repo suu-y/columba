@@ -88,7 +88,7 @@ public class URLController implements ActionListener {
     public void compose(String address) {
     	//IServiceManager.getInstance().createService("");
     	
-       // TODO: implement this
+       System.out.println("SATD ID: 129");
     }
 
     /**
@@ -97,7 +97,7 @@ public class URLController implements ActionListener {
      * @param address		new email address
      */
     public void contact(String address) {
-    	// TODO: implement this
+    	System.out.println("SATD ID: 25");
     }
 
     public JPopupMenu createMenu(URL url) {

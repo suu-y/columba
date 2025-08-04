@@ -473,7 +473,7 @@ prot + "://  protocol and ://
         BufferedReader br = new BufferedReader(sr);
         String ss = null;
 
-        // TODO (@author karlpeder): Extend handling of special entities as in restoreSpecialCharacters
+        System.out.println("SATD ID: 77");
 
         /*
  * *20030623, karlpeder* " and space handled also

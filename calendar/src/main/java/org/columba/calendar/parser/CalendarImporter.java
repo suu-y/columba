@@ -233,7 +233,7 @@ public class CalendarImporter {
 				if (uid == null || dtStart == null || dtEnd == null)
 					continue;
 				
-				// hack: if start and end time is at 00:00:00:000 it is
+				System.out.println("SATD ID: 14");
 				// an all day event
 				boolean allDayEvent = ParserHelper.isAllDayEvent(dtStart, dtEnd);
 				

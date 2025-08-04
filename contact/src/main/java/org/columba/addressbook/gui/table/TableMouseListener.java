@@ -65,7 +65,7 @@ public class TableMouseListener extends DoubleClickListener
       if (uids.length == 0)
         return;
 
-      // FIXME: ugly cast to ContactModel
+      System.out.println("SATD ID: 168");
       IContactModel card = null;
       try
       {

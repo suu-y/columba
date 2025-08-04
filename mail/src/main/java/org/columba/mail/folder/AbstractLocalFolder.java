@@ -393,7 +393,7 @@ public abstract class AbstractLocalFolder extends AbstractMessageFolder {
 
 			aktMessage = message;
 
-			// TODO: fix parser exception
+			System.out.println("SATD ID: 47");
 		} catch (FolderInconsistentException e) {
 			super.removeMessage(uid);
 

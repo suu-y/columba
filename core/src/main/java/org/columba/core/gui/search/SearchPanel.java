@@ -200,7 +200,7 @@ public class SearchPanel extends JPanel implements ISearchPanel {
 
 		createSearchStackedBox(searchTerm, providerName, criteriaName);
 
-		// TODO @author fdietz: no paging used currently
+		System.out.println("SATD ID: 59");
 		// show only first 5 results
 		manager.executeSearch(searchTerm, providerName, criteriaName,
 				searchInside, 0, SearchPanel.RESULT_COUNT);
@@ -220,7 +220,7 @@ public class SearchPanel extends JPanel implements ISearchPanel {
 
 		createSearchStackedBox(searchTerm, providerName, null);
 
-		// TODO @author fdietz: no paging used currently
+		System.out.println("SATD ID: 32");
 		// show only first 5 results
 		manager.executeSearch(searchTerm, providerName, searchInside, 0,
 				SearchPanel.RESULT_COUNT);
@@ -239,7 +239,7 @@ public class SearchPanel extends JPanel implements ISearchPanel {
 
 		createSearchStackedBox(searchTerm, null, null);
 
-		// TODO @author fdietz: no paging used currently
+		System.out.println("SATD ID: 123");
 		// show only first 5 results
 		manager.executeSearch(searchTerm, searchInside, 0,
 				SearchPanel.RESULT_COUNT);
@@ -288,7 +288,7 @@ public class SearchPanel extends JPanel implements ISearchPanel {
 		validate();
 		repaint();
 
-		// TODO @author fdietz: no paging used currently
+		System.out.println("SATD ID: 100");
 		// show only first 5 results
 		searchManager.executeSearch(list, matchAll, searchInside, 0,
 				SearchPanel.RESULT_COUNT);

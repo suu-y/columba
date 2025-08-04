@@ -19,7 +19,7 @@ public class ParserHelper {
 				&& (dtEnd.get(java.util.Calendar.MINUTE) == 0) && (dtEnd
 				.get(java.util.Calendar.HOUR_OF_DAY) == 0));
 
-		// hack: if start and end time is at 00:00:00:000 it is
+		System.out.println("SATD ID: 28");
 		// an all day event
 		allDayEvent = startAtNullOClock && endAtNullOClock;
 

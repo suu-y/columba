@@ -107,7 +107,7 @@ public class DockableView extends AbstractDockable implements
 		}
 
 		public void actionPerformed(ActionEvent e) {
-			// FIXME: should we align the menu to the left instead?
+			System.out.println("SATD ID: 16");
 			// menu.show(b, b.getWidth() - menu.getWidth(), b.getHeight());
 			if ( menu != null)
 			menu.show(menuButton, 0, menuButton.getHeight());

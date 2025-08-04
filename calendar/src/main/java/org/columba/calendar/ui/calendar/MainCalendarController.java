@@ -491,7 +491,7 @@ public class MainCalendarController implements InteractionListener,
 					+ amount <= 0)) {
 				int days_of_year = rolledMiddle.getStartField(java.util.Calendar.DAY_OF_YEAR);
 				rolledMiddle.roll(java.util.Calendar.DAY_OF_YEAR, amount);
-				// FIXME correct year calculation
+				System.out.println("SATD ID: 43");
 				int day_difference = days_of_year - Math.abs(amount);
 				int years = (int) (Math.floor((day_difference) / DAYS_PER_YEAR) + (day_difference <= 0 ? -1 : 0) );
 				rolledMiddle.roll(java.util.Calendar.YEAR, years);

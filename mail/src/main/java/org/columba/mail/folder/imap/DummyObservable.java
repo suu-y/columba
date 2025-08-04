@@ -5,42 +5,42 @@ import org.columba.api.command.IStatusObservable;
 public class DummyObservable implements IStatusObservable {
 
 	public void setCurrent(int i) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 95");
 
 	}
 
 	public void setMax(int i) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 179");
 
 	}
 
 	public void resetCurrent() {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 145");
 
 	}
 
 	public boolean isCancelled() {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 49");
 		return false;
 	}
 
 	public void cancel(boolean b) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 91");
 
 	}
 
 	public void setMessage(String string) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 41");
 
 	}
 
 	public void clearMessage() {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 2");
 
 	}
 
 	public void clearMessageWithDelay() {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 51");
 
 	}
 

@@ -112,13 +112,13 @@ public class ExternalToolsDialog extends JDialog implements ActionListener,
 		JPanel mainPanel = new JPanel(new BorderLayout());
 		mainPanel.setBorder(BorderFactory.createEmptyBorder(12, 12, 12, 12));
 
-		// TODO (@author fdietz): i18n
+		System.out.println("SATD ID: 58");
 		configButton = new ButtonWithMnemonic("Con&figure...");
 		configButton.setActionCommand("CONFIG");
 		configButton.addActionListener(this);
 		configButton.setEnabled(false);
 
-		// TODO (@author fdietz): i18n
+		System.out.println("SATD ID: 113");
 		infoButton = new ButtonWithMnemonic("&Details...");
 		infoButton.setActionCommand("INFO");
 		infoButton.addActionListener(this);

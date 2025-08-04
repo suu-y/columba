@@ -290,7 +290,7 @@ public class MacchiatoPlugin implements ISpamPlugin {
 			if (Logging.DEBUG) {
 				e.printStackTrace();
 			}
-			// TODO (@author fdietz): i18n
+			System.out.println("SATD ID: 80");
 			int value = JOptionPane.showConfirmDialog(FrameManager.getInstance()
 					.getActiveFrame(),
 					"An error occured while saving the spam database.\n"

@@ -78,10 +78,10 @@ public class JavaHTMLViewerPlugin extends JScrollPane implements
 		try {
 			htmlEditorKit.read(rd, doc, 0);
 		} catch (BadLocationException e) {
-			// TODO Auto-generated catch block
+			System.out.println("SATD ID: 34");
 			e.printStackTrace();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
+			System.out.println("SATD ID: 180");
 			e.printStackTrace();
 		}
 		textPane.setDocument(doc);

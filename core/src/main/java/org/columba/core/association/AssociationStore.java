@@ -101,7 +101,7 @@ public class AssociationStore implements IAssociationStore, Runnable {
 		EntityTransaction tx = manager.getTransaction();
 
 		// wait, if there is an active transaction
-		// TODO @author hubms retrycount!
+		System.out.println("SATD ID: 1");
 		while (tx.isActive())
 			;
 
@@ -265,7 +265,7 @@ public class AssociationStore implements IAssociationStore, Runnable {
 				tx.commit();
 			} else {
 				// no item exists in table
-				// -> nothing todo
+				System.out.println("SATD ID: 64");
 			}
 		} catch (Exception ex) {
 			if (tx.isActive()) {

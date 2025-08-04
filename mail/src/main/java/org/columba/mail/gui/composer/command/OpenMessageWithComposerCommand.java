@@ -97,7 +97,7 @@ public class OpenMessageWithComposerCommand extends Command {
 		// we only need the first message
 		uid = uids[0];
 
-		//TODO (@author fdietz): keep track of progress here
+		System.out.println("SATD ID: 90");
 
 		InputStream messageSourceStream = folder.getMessageSourceStream(uid);
 		Source tempSource = TempSourceFactory.createTempSource(

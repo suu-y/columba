@@ -1687,7 +1687,7 @@ public class IMAPServer implements IMAPListener, Observer, IImapServer {
 	 * @see org.columba.mail.imap.IImapServer#alertMessage(java.lang.String)
 	 */
 	public void alertMessage(String arg0) {
-		// TODO: Show dialog
+		System.out.println("SATD ID: 61");
 		LOG.warning(arg0);
 	}
 

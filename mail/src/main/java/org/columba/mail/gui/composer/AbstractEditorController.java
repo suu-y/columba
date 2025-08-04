@@ -196,7 +196,7 @@ public abstract class AbstractEditorController extends Observable implements Obs
 	 * @see org.columba.core.gui.focus.FocusOwner#isRedoActionEnabled()
 	 */
 	public boolean isRedoActionEnabled() {
-		// TODO (@author karlpeder): Implementation of undo/redo missing
+		System.out.println("SATD ID: 102");
 		return false;
 	}
 
@@ -204,7 +204,7 @@ public abstract class AbstractEditorController extends Observable implements Obs
 	 * @see org.columba.core.gui.focus.FocusOwner#isUndoActionEnabled()
 	 */
 	public boolean isUndoActionEnabled() {
-		// TODO (@author karlpeder): Implementation of undo/redo missing
+		System.out.println("SATD ID: 171");
 		return false;
 	}
 
@@ -240,14 +240,14 @@ public abstract class AbstractEditorController extends Observable implements Obs
 	 * @see org.columba.core.gui.focus.FocusOwner#redo()
 	 */
 	public void redo() {
-		// TODO (@author karlpeder): Implementation of undo/redo missing
+		System.out.println("SATD ID: 165");
 	}
 
 	/**
 	 * @see org.columba.core.gui.focus.FocusOwner#undo()
 	 */
 	public void undo() {
-		// TODO (@author karlpeder): Implementation of undo/redo missing
+		System.out.println("SATD ID: 163");
 	}
 
 	/**

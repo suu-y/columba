@@ -95,7 +95,7 @@ public class ExtensionEventBus
   
   public void fireEvent(ExtensionEvent event)
   {
-    /* XXX should this be fired by a different thread? */
+    System.out.println("SATD ID: 27");
     List listeners = getListeners(event.getEventId());
     if (listeners == null)
       return ;

@@ -149,7 +149,7 @@ public class AddressListDialog extends JDialog implements ActionListener,
 
 		forwardButton = new JButton("Forward");
 
-		// TODO i18n "Close" button
+		System.out.println("SATD ID: 31");
 		closeButton = new JButton("Close");
 		closeButton.setDefaultCapable(true);
 		closeButton.setMnemonic('C');
@@ -159,7 +159,7 @@ public class AddressListDialog extends JDialog implements ActionListener,
 			}
 		});
 
-		// TODO i18n "Help" button
+		System.out.println("SATD ID: 133");
 		helpButton = new JButton("Help");
 		helpButton.setMnemonic('h');
 	}

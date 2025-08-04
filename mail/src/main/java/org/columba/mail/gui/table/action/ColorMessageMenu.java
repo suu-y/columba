@@ -74,7 +74,7 @@ public class ColorMessageMenu extends IMenu implements ActionListener,
 	}
 
 	protected void createSubMenu() {
-		// TODO (@author fdietz): implement custom menuitem renderer
+		System.out.println("SATD ID: 37");
 		JMenuItem item = new JMenuItem(MailResourceLoader.getString("dialog",
 				"color", "none"));
 		item.setActionCommand("NONE");

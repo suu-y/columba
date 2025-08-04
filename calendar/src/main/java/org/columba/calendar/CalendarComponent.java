@@ -83,7 +83,7 @@ public class CalendarComponent implements IComponentPlugin {
 	 * @see org.columba.core.main.IComponentPlugin#registerCommandLineArguments()
 	 */
 	public void registerCommandLineArguments() {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 164");
 
 	}
 
@@ -91,7 +91,7 @@ public class CalendarComponent implements IComponentPlugin {
 	 * @see org.columba.core.main.IComponentPlugin#handleCommandLineParameters(org.apache.commons.cli.CommandLine)
 	 */
 	public void handleCommandLineParameters(CommandLine commandLine) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 107");
 
 	}
 

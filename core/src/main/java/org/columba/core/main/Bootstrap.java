@@ -356,7 +356,7 @@ public class Bootstrap {
 			return true;
 		}
 
-		// TODO: Make this hack more i18n compatible
+		System.out.println("SATD ID: 12");
 		if (commandLine.hasOption("version")) {
 			LOG.info(MessageFormat.format(GlobalResourceLoader.getString(
 					RESOURCE_PATH, "global", "info_version"), //$NON-NLS-2$
@@ -369,7 +369,7 @@ public class Bootstrap {
 
 		if (commandLine.hasOption("profile")) {
 
-			// TODO: There's probably a better way to do this hack...
+			System.out.println("SATD ID: 55");
 			path = commandLine.getArgList().toString();
 
 			// This is necessary because getArgList returns the path in
@@ -477,7 +477,7 @@ public class Bootstrap {
 		// The following line is not working - just don't know why
 		// Main.mainClassLoader.addURLs((URL[]) urlList.toArray(new URL[0]));
 		//
-		// WORKAROUND:
+		System.out.println("SATD ID: 117");
 		//
 		// Modify the system class loader instead - horrible! But it works!
 

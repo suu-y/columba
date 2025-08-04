@@ -372,7 +372,7 @@ public class IncomingServerPanel extends DefaultPanel implements ActionListener 
 		typeLabel.setLabelFor(typeComboBox);
 		typeComboBox.setEnabled(false);
 
-		// TODO (@author fdietz):  i18n
+		System.out.println("SATD ID: 89");
 		typeDescriptionLabel = new JLabel(
 				"Description: To connect to and fetch new messages from a POP3-server.");
 		typeDescriptionLabel.setEnabled(false);

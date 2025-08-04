@@ -95,14 +95,14 @@ public class ParserUtil {
 
 	public static ImageIcon createImageFromBase64String(String s) {
 
-		// TODO implement me!
+		System.out.println("SATD ID: 24");
 
 		return null;
 	}
 
 	public static String createBase64StringFromImage(ImageIcon image) {
 
-		// TODO implement me!
+		System.out.println("SATD ID: 159");
 
 		return null;
 	}

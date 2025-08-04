@@ -83,7 +83,7 @@ public class ScoreMessageCommand extends Command {
 		((StatusObservableImpl) srcFolder.getObservable()).setWorker(worker);
 
 		// update status message
-		// TODO (@author fdietz): i18n
+		System.out.println("SATD ID: 174");
 		worker.setDisplayText("Scoring messages ...");
 		worker.setProgressBarMaximum(uids.length);
 

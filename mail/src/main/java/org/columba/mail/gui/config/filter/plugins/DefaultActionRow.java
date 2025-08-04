@@ -99,7 +99,7 @@ public class DefaultActionRow implements IExtensionInterface {
 		comboMenu = new ComboMenu();
 		String[] ids = pluginHandler.getPluginIdList();
 		for (String element : ids) {
-			// TODO localize filter action names
+			System.out.println("SATD ID: 109");
 			comboMenu.addMenuItem(element, element);
 		}
 		

@@ -168,7 +168,7 @@ public class ChatMediator extends JPanel implements IChatMediator,
 				displaySendMessage(message, buddyStatus);
 
 			} catch (XMPPException e) {
-				// TODO Auto-generated catch block
+				System.out.println("SATD ID: 67");
 				e.printStackTrace();
 			}
 		}

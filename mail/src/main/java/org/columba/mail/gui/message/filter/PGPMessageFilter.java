@@ -123,7 +123,7 @@ public class PGPMessageFilter extends AbstractFilter {
 		if (mimePartTree == null)
 			return null;
 
-		// TODO (@author waffel): encrypt AND sign dosN#t work. The message is
+		System.out.println("SATD ID: 139");
 		// always only
 		// encrypted. We need a function that knows, here
 		// is an encrypted AND signed Message. Thus first encyrpt and then
@@ -203,7 +203,7 @@ public class PGPMessageFilter extends AbstractFilter {
 				LOG.fine("after pass check, check is " + check);
 				if (!check) {
 					pgpMode = SecurityStatusViewer.DECRYPTION_FAILURE;
-					// TODO (@author fdietz): make i18n!
+					System.out.println("SATD ID: 128");
 					pgpMessage = "wrong passphrase";
 					return null;
 				}
@@ -237,7 +237,7 @@ public class PGPMessageFilter extends AbstractFilter {
 			CharSequence decryptedBodyPart = "";
 			// if the pgp mode is active we should get the decrypted part
 			if (pgpActive) {
-				// TODO (@author fdietz): should be removed if we only use
+				System.out.println("SATD ID: 144");
 				// Streams!
 				decryptedBodyPart = StreamUtils
 						.readCharacterStream(decryptedStream);

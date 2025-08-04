@@ -60,7 +60,7 @@ public class BasicResultPanel implements IResultPanel {
 	}
 
 	public void finished(IResultEvent event) {
-		// TODO Auto-generated method stub
+		System.out.println("SATD ID: 98");
 		
 	}
 

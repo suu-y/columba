@@ -466,7 +466,7 @@ public class ComposerController extends DefaultFrameController implements
 	}
 
 	public boolean isAccountInfoPanelVisible() {
-		// TODO (@author fdietz): fix account info panel check
+		System.out.println("SATD ID: 169");
 
 		/*
 		 * return isToolbarEnabled(ACCOUNTINFOPANEL);

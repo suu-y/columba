@@ -264,7 +264,7 @@ public class FrameManager implements IFrameManager {
 			} catch (PluginException e) {
 				LOG.severe(e.getMessage());
 				if (Logging.DEBUG)
-					// TODO Auto-generated catch block
+					System.out.println("SATD ID: 118");
 					e.printStackTrace();
 			}
 		}

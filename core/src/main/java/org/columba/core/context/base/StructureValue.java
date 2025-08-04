@@ -229,7 +229,7 @@ public class StructureValue implements IStructureValue {
 	 * @see org.columba.core.context.base.api.IStructureValue#isValid()
 	 */
 	public boolean isValid() {
-		// TODO implement validation
+		System.out.println("SATD ID: 124");
 		return true;
 	}
 

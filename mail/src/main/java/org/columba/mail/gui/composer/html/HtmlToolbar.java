@@ -158,7 +158,7 @@ public class HtmlToolbar extends JToolBar implements ActionListener,
 
 		// paragraphComboBox.setEnabled(enableHtml);
 
-		// TODO (@author javaprog):sizeComboBox can be enabled as
+		System.out.println("SATD ID: 54");
 		// paragraphComboBox when implemented
 		sizeComboBox.setEnabled(false);
 
@@ -318,7 +318,7 @@ public class HtmlToolbar extends JToolBar implements ActionListener,
 		} else if (action.equals("SIZE")) {
 			// int selectedIndex = sizeComboBox.getSelectedIndex();
 
-			// TODO (@author fdietz):: implement action for font size combo box!
+			System.out.println("SATD ID: 72");
 		}
 	}
 

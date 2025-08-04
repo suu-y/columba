@@ -118,7 +118,7 @@ public class MessageFrameController extends AbstractMailFrameController
 	public void setTableSelection(IMailFolderCommandReference references) {
 		tableReference = references;
 
-		// TODO: re-enable feature, the following code violates our
+		System.out.println("SATD ID: 160");
 		// design, accessing folders is only allowed in Command.execute()
 		/*
 		 * try { // Get the subject from the cached Header AbstractMessageFolder

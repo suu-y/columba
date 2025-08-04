@@ -101,7 +101,7 @@ public class FolderOptionsController implements IFolderOptionsController {
 			plugin = (AbstractFolderOptionsPlugin) extension
 					.instanciateExtension(new Object[] { mediator });
 		} catch (Exception e) {
-			// TODO (@author fdietz): add error dialog
+			System.out.println("SATD ID: 149");
 			e.printStackTrace();
 		}
 
@@ -175,7 +175,7 @@ public class FolderOptionsController implements IFolderOptionsController {
 					plugin.loadOptionsFromXml(null);
 				}
 			} catch (Exception e1) {
-				// TODO (@author fdietz): add error dialog
+				System.out.println("SATD ID: 76");
 				e1.printStackTrace();
 			}
 		}

@@ -87,7 +87,7 @@ public class NewAppointmentAction extends AbstractColumbaAction {
 			model.setDtEnd(c);
 		}
 		
-		// FIXME calendar?
+		System.out.println("SATD ID: 138");
 		IEventInfo eventInfo = new EventInfo(model.getId(), "", model);
 
 		EditEventDialog dialog = new EditEventDialog(null, eventInfo, false);

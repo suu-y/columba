@@ -77,7 +77,7 @@ public class PluginTreeTableModel extends AbstractTreeTableModel {
             // enable/disable tree node
             node.setEnabled(((Boolean) value).booleanValue());
 
-            // TODO implement
+            System.out.println("SATD ID: 17");
             /*
             PluginManager.getInstance().setEnabled(id,
                 ((Boolean) value).booleanValue());

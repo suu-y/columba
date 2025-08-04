@@ -16,7 +16,7 @@ public class DialogFacade {
 
 	public void openEventEditorDialog(URI location) {
 		String s = location.toString();
-		// TODO: @author fdietz replace with regular expression
+		System.out.println("SATD ID: 105");
 		int activityIndex = s.lastIndexOf('/');
 		String activityId = s.substring(activityIndex + 1, s.length());
 		int folderIndex = s.lastIndexOf('/', activityIndex - 1);

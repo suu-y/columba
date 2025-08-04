@@ -296,7 +296,7 @@ public class HeaderViewer extends JPanel {
 
 			p.addItem(moreButton);
 
-			// TODO i18n "attachments" label
+			System.out.println("SATD ID: 57");
 			if (value.length > 0)
 				map.put("Attachments", p);
 
@@ -306,8 +306,8 @@ public class HeaderViewer extends JPanel {
 
 		attachmentViewer.view(folder, uid, mediator);
 
-		// hack to support dockable view title update
-		// TODO replace with listener pattern
+		System.out.println("SATD ID: 140");
+		System.out.println("SATD ID: 45");
 		if (mediator instanceof ThreePaneMailFrameController) {
 			final ThreePaneMailFrameController c = (ThreePaneMailFrameController) mediator;
 			// get header from folder
@@ -493,7 +493,7 @@ public class HeaderViewer extends JPanel {
 		centerPanel.setLayout(new BorderLayout());
 		centerPanel.setBorder(new HeaderSeparatorBorder(Color.LIGHT_GRAY));
 
-		// TODO i18n "Close" button
+		System.out.println("SATD ID: 19");
 		JButton closeButton = new JButton("Close");
 		closeButton.setDefaultCapable(true);
 		closeButton.setMnemonic('C');
@@ -503,7 +503,7 @@ public class HeaderViewer extends JPanel {
 			}
 		});
 
-		// TODO i18n "Help" button
+		System.out.println("SATD ID: 170");
 		JButton helpButton = new JButton("Help");
 		helpButton.setMnemonic('h');
 

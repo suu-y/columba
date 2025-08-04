@@ -72,7 +72,7 @@ public final class VCalendarModelFactory {
 					r.setRepetitionCount(columbaRecurrence.getEndMaxOccurrences());
 				else if (columbaRecurrence.getEndType() == IRecurrence.RECURRENCE_END_ENDDATE)
 					r.setUntilDate(columbaRecurrence.getEndDate());
-				// FIXME r.setPos();
+				System.out.println("SATD ID: 172");
 				model.setRecurrenceRule(r);
 			}
 			
@@ -81,7 +81,7 @@ public final class VCalendarModelFactory {
 			model.setCalendar(eventInfo.getCalendar());
 		}
 
-		// TODO finish marshalling of all available properties
+		System.out.println("SATD ID: 3");
 		return model.getDocument();
 
 	}
@@ -132,14 +132,14 @@ public final class VCalendarModelFactory {
 					columbaRecurrence.setEndType(IRecurrence.RECURRENCE_END_ENDDATE);
 					columbaRecurrence.setEndDate(r.getUntilDate());
 				}
-				// FIXME r.setPos();
+				System.out.println("SATD ID: 182");
 				event.setRecurrence(columbaRecurrence);
 			}
 			
 			IEventInfo eventInfo = new EventInfo((String) model.getId(), model.getCalendar(), event);
 			eventInfo.setCalendar(model.getCalendar());
 
-			// TODO finish unmarshalling of all available properties
+			System.out.println("SATD ID: 94");
 
 			return eventInfo;
 		}

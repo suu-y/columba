@@ -124,7 +124,7 @@ public class StoreEventDelegator implements IStoreListener, ActionListener {
 								this, TimeSpanListEvent.ADDED_CREATED);
 					}
 				} catch (StoreException e) {
-					// TODO Auto-generated catch block
+					System.out.println("SATD ID: 79");
 					e.printStackTrace();
 				}
 			}
@@ -168,7 +168,7 @@ public class StoreEventDelegator implements IStoreListener, ActionListener {
 								this, TimeSpanListEvent.ADDED_CREATED);
 					}
 				} catch (StoreException e) {
-					// TODO Auto-generated catch block
+					System.out.println("SATD ID: 99");
 					e.printStackTrace();
 				}
 			}

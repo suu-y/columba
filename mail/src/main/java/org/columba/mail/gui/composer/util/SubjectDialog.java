@@ -64,7 +64,7 @@ public class SubjectDialog extends JDialog implements ActionListener {
         subjectTextField.selectAll();
         subjectTextField.getDocument().addDocumentListener(new MyDocumentListener());
 
-        //TODO (@author fdietz):  i18n
+        System.out.println("SATD ID: 155");
         setTitle("Enter Subject...");
 
         getContentPane().setLayout(new BorderLayout());

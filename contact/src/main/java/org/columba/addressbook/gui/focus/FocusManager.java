@@ -131,7 +131,7 @@ public class FocusManager implements FocusListener {
 	 *  
 	 */
 	public void updateActions() {
-		// TODO: fix updateActions
+		System.out.println("SATD ID: 116");
 		//enableActions(getCurrentOwner());
 	}
 

@@ -76,17 +76,17 @@ public class JDICHTMLViewerPlugin extends JPanel implements IHTMLViewerPlugin {
 			}
 
 			public void componentMoved(ComponentEvent e) {
-				// TODO Auto-generated method stub
+				System.out.println("SATD ID: 157");
 
 			}
 
 			public void componentResized(ComponentEvent e) {
-				// TODO Auto-generated method stub
+				System.out.println("SATD ID: 68");
 
 			}
 
 			public void componentShown(ComponentEvent e) {
-				// TODO Auto-generated method stub
+				System.out.println("SATD ID: 152");
 
 			}
 
@@ -133,14 +133,14 @@ public class JDICHTMLViewerPlugin extends JPanel implements IHTMLViewerPlugin {
 	 * @see org.columba.core.gui.htmlviewer.api.IHTMLViewerPlugin#setCaretPosition(int)
 	 */
 	public void setCaretPosition(int position) {
-		// TODO
+		System.out.println("SATD ID: 130");
 	}
 
 	/**
 	 * @see org.columba.core.gui.htmlviewer.api.IHTMLViewerPlugin#moveCaretPosition(int)
 	 */
 	public void moveCaretPosition(int position) {
-		// TODO
+		System.out.println("SATD ID: 21");
 	}
 
 }

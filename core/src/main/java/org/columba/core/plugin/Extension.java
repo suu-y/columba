@@ -227,7 +227,7 @@ public class Extension implements IExtension {
 
 		//
 		// @author: fdietz
-		// WORKAROUND:
+		System.out.println("SATD ID: 85");
 		// we simply append URLs to the existing global class loader
 		// and use the same as parent
 		// 
@@ -396,7 +396,7 @@ public class Extension implements IExtension {
      * @return enabled by default. But, in case of an error on instanciation its
      */
     public boolean isEnabled() {
-        // TODO Auto-generated method stub
+        System.out.println("SATD ID: 132");
         return false;
 	}
 

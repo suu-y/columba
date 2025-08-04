@@ -751,7 +751,7 @@ public class DefaultContainer extends JFrame implements IContainer,
 	 * @see org.columba.api.gui.frame.IContainer#addToolBar(javax.swing.JComponent)
 	 */
 	public void addToolBar(JComponent c) {
-		// FIXME remove method
+		System.out.println("SATD ID: 104");
 		// toolbarPane.add(c);
 	}
 
@@ -772,7 +772,7 @@ public class DefaultContainer extends JFrame implements IContainer,
 		
 		toolBarPanel.add(toolbar, BorderLayout.CENTER);
 		
-		// @author fdietz: hackish way of creating a search toolbar
+		System.out.println("SATD ID: 175");
 		//JToolBar searchToolBar = new ExtendableToolBar();
 		SearchBar searchBar = new SearchBar(mediator.getSearchPanel(), mediator);
 		//searchToolBar.addSeparator();
